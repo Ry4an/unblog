@@ -82,22 +82,6 @@
                         <li><a href="{{ href }}">{{ title }}</a></li>
                         {%- endfor %}
                     </ul>
-                    <h2>Under the hood</h2>
-                    <ul>
-                        {%- for href, title in [
-                            ('http://python.org/', 'Python'),
-                            ('http://mercurial.selenic.com/', 'Mercurial'),
-                            ('http://docutils.sf.net/', 'Docutils'),
-                            ('http://gunicorn.org/', 'Gunicorn'),
-                            ('http://flask.pocoo.org/', 'Flask'),
-                            ('http://packages.python.org/Flask-Babel/', 'Flask-Babel'),
-                            ('http://jinja.pocoo.org/', 'Jinja2'),
-                            ('http://werkzeug.pocoo.org/', 'Werkzeug'),
-                            ('http://www.gentoo.org/', 'Gentoo Linux'),
-                        ] %}
-                        <li><a href="{{ href }}">{{ title }}</a></li>
-                        {%- endfor %}
-                    </ul>
                     <h2>Content License</h2>
                     <p>
                         <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.5/">
@@ -115,8 +99,10 @@
         </div>
         <div id="footer">
             <p>
-                <strong>&copy; {{ config.AUTHOR }}</strong> |
+                <strong>&copy;{{ config.AUTHOR }}</strong> |
                 Design by:
+                <a href="http://blog.rafaelmartins.org/">Rafael Martins</a> and
+                
                 <a href="http://matthewjamestaylor.com/blog/perfect-2-column-right-menu.htm">
                     Matthew James Taylor
                 </a> |
@@ -140,7 +126,7 @@
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
         </script>
         <script type="text/javascript">
-            var pageTracker = _gat._getTracker("UA-2886928-8");
+            var pageTracker = _gat._getTracker("UA-19343401-2");
             pageTracker._initData();
             pageTracker._trackPageview();
         </script>

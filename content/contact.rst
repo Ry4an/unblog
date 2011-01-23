@@ -1,23 +1,18 @@
 Contact
 =======
 
-.. _0293536F: http://pgp.mit.edu:11371/pks/lookup?op=get&search=0xC987E66C0293536F
+.. _30ADBB9E: http://ry4an.org/home/ry4an-key.txt
+.. _CV: http://careers.stackoverflow.com/ry4an
 
-- **Email (Personal stuff)**: rafael [at] rafaelmartins [dot] eng [dot] br
-- **Email (Gentoo stuff)**: rafaelmartins [at] gentoo [dot] org
-- **Google Talk**: rafael [at] rafaelmartins [dot] eng [dot] br
-- **IRC**: rafaelmartins [at] Freenode / OFTC
-- **Bitbucket**: http://bitbucket.org/rafaelmartins/
-- **Github**: http://github.com/rafaelmartins/
-- **Facebook**: `<http://www.facebook.com/home.php#/profile.php?id=682442724>`_
-- **Twitter**: http://twitter.com/rafaelmartins/
-- **PGP key**: 0293536F_
-
-
-.. date added automatically by the script blohg_dump.py.
-   this file was exported from an old repository, and this comment will
-   help me to forcing the old creation date, instead of the date of the
-   first commit on the new repository.
+- **Email**: ry4an [at] ry4an [dot] org
+- **Blog**: http://ry4an.org/unblog/
+- **Resume**: http://ry4an.org/resume/
+- **Google Buzz**: http://www.google.com/profiles/ry4anb#buzz
+- **LinkedIn**: http://www.linkedin.com/in/ry4an
+- **Stack Overflow**: CV_ and `Profile <http://stackoverflow.com/users/8992/ry4an>`_
+- **Twitter**: http://twitter.com/ry4an/
+- **IRC**: Ry4an [at] Freenode / OFTC
+- **GPG key**: 30ADBB9E_
 
 .. date: 1260667448
 
