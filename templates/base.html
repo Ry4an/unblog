@@ -3,6 +3,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="generator" content="blohg {{ version }}" />  
+        <link href="//fonts.googleapis.com/css?family=Neuton|Inconsolata"
+            rel="stylesheet" type="text/css" >
         <link type="text/css" media="screen" rel="stylesheet" href="{{
             url_for('.static', filename='screen.css') }}" />
         <link rel="alternate" type="application/atom+xml" href="{{
@@ -21,17 +23,16 @@
             <h2>{{ config.TAGLINE }}</h2>
             <ul>
                 {%- if active_page == 'page' %}
-                    {%- set active_page = 'home' %}
+                    {%- set active_page = '' %}
                 {%- endif %}
                 {%- if active_page == 'tag' %}
                     {%- set active_page = 'post' %}
                 {%- endif %}
                 {%- for href, id, title in [
-                    (url_for('views.home'), '', 'home'),
-                    (url_for('views.post_list'), 'post', 'posts'),
-                    (url_for('views.content', slug='about'), 'about', 'about'),
-                    ('http://labs.rafaelmartins.org/', 'projects', 'projects'),
-                    (url_for('views.content', slug='contact'), 'contact', 'contact'),
+                    (url_for('views.home'), '', 'Blog'),
+                    (url_for('views.content', slug='about'), 'about', 'About'),
+                    (url_for('views.content', slug='resume'), 'resume', 'Resume'),
+                    (url_for('views.content', slug='contact'), 'contact', 'Contact'),
                 ] %}
                 <li><a href="{{ href }}"{% if id == active_page %} class="active"{%
                     endif %}>{{ title }}</a></li>
@@ -39,8 +40,7 @@
             </ul>
             <p id="submenu">
                 {%- for href, title in [
-                    ('http://www.gentoo.org/', 'Gentoo Linux'),
-                    ('http://www.gentoobr.org/', 'Gentoo Linux Brazil'),
+                    ('http://www.gentoo.org/', 'http://ry4an.org/'),
                 ] %}
                 <a href="{{ href }}">{{ title }}</a>{%
                     if not loop.last %} -{% endif %}
@@ -91,8 +91,8 @@
                         </a>
                         <br />
                         This work is licensed under a <a rel="license"
-                            href="http://creativecommons.org/licenses/by-nc/2.5/">
-                            Creative Commons Attribution-NonCommercial 2.5 Generic License</a>.
+                            href="http://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-NonCommercial 3.0 Generic License</a>.
                     </p>
                 </div>
             </div>

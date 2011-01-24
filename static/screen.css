@@ -12,7 +12,7 @@ body {
 }
 
 a {
-    color:#369;
+    color:#392;
     text-decoration: none;
 }
 
@@ -56,11 +56,14 @@ img {
 }
 
 #header h1 {
-    font-size: 35px;
+    font-size: 40px;
+    font-weight: normal;
+    font-family: 'Neuton', Verdana, serif;
 }
 
 #header h2 {
     font-weight: normal;
+    font-family: 'Inconsolata', monospace;
     font-size: 18px;
 }
 
@@ -86,7 +89,7 @@ img {
     margin: 0 0 0 1px;
     padding: 3px 10px;
     text-align: center;
-    background: #eee;
+    background: #9f7;
     color: #000;
     text-decoration: none;
     position: relative;
@@ -113,7 +116,7 @@ img {
 /* sub menu */
 #submenu {
     clear: both;
-    background: #eee;
+    background: #9f7;
     border-top: 4px solid #000;
     margin: 0;
     padding: 6px 15px !important;
@@ -121,6 +124,7 @@ img {
 }
 
 #submenu a {
+    color: #000;
     font-weight: bold;
 }
 
