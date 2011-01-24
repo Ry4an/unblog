@@ -1,0 +1,23 @@
+
+Net::Friends for GPSDrive
+=========================
+
+GPSDrive (http://www.gpsdrive.de/) is nifty software for Linux that turns a laptop and a cheap GPS receiver into a vehicle navigation system.  It displays maps, records tracks, logs speed traps, and all the other little features you'd expect in a system trying to divert your eyes from the road.
+
+It also sports a built-in system for networking with other GPSDrive enabled systems on the road to mutually plot one another's locations. The system, called friendsd, uses a simple UDP server to record and report the position, speed, and heading of other reporting systems on the same server.  Of course, this reporting only works if the laptop has access to the Internet but with the various cellular and wi-fi systems available that's not so much a stretch.
+
+I've got a silly little project in the works for using friendsd in a manner other than its original intent, but I needed to be able to interact with it using something other than GPSDrive as the client.  To that end I wrote up a little Perl module, Net::Friends (attached), that provides for basic reporting to and querying from friendsd servers.  I think it game out pretty well.
+
+`Net-Friends-1.00.tar.gz`_
+
+
+
+
+
+
+
+.. _Net-Friends-1.00.tar.gz: /unblog/UnBlog/2004-01-11?action=AttachFile&do=get&target=Net-Friends-1.00.tar.gz
+
+
+
+.. date: 1073800800

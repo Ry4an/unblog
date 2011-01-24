@@ -1,0 +1,49 @@
+
+Lying to Myself About Calendaring
+---------------------------------
+
+Three days ago I posted a rather lengthy entry wherein I decried the current state of open, collaborative calendaring.  In it I listed six requirements for calendaring software and settled on the option available to me that met the most of them.   Now I'm changing my mind.
+
+At the time I needed a new calendaring solution fast and had checked out all the candidates before.  The software package Remind had a nice interface, an expressive configuration language, web-visibility, local-storage, and was open source.  It met four of the six requirements and would have served admirably for a few years.  So why did I find myself laying awake worrying about my choice?  (Seriously, I'm that big of a loser.)
+
+The cause of my mis-selection was part haste and part willful self-deception.  I wanted to go with Remind because I knew working with it on a day to day basis would be a joy.  Toward that end I manipulated the selection criteria to favor Remind.  The six requirements I listed are valid, but using a bullet list rather than a sorted list presents them as being all of equal import, which just isn't the case.
+
+In *The Cognitive Style of PowerPoint* Edward Tufte addresses bullet points saying, "For the naive, bullet lists may create the appearance of hard-headed organized thought.  But in the reality of day-to-day practice, the [PowerPoint] cognitive style is faux-analytical."  He then goes on to explain how PowerPoint caused the Columbia space shuttle disaster.
+
+Sorting my list of six requirements by importance (most important first) yields:
+
+1. standard data format: for easing inevitable migrations; vCal/iCal lately
+
+#. stored locally: I prefer to host my own data
+
+#. free: as in speech and as in beer for all the obvious reasons
+
+#. text-mode access: I prefer text mode to GUI applications
+
+#. web access: at least viewable (preferably editable) on the web
+
+#. groupware capable: ability view others' calendars and publish mine
+
+Even that doesn't show the relative weight given to each requirement.  A representation displaying importance would show that the first one, standard data format, is probably more important than all the rest put together.
+
+As mentioned previously the Remind file format is great to work with, but no other software uses it.  What's more as one became more proficient with remind one's event entries would get more complicated, making eventual migration all the harder.  I'm not willing to ghettoize my data, so Remind has to go.
+
+When limiting myself to the current calendaring data standards (vCal, iCal, and xCal) the list of options shrunk dramatically.  There were no text-only options and the web-based options were all painful.  I looked into Ximian's evolution (http://www.ximian.com/products/evolution/) but it was slow and insisted on storing data in ~/evolution.  I ended up deciding to run Mozilla Calendar (http://www.mozilla.org/projects/calendar/).  It's nice enough, actively developed, has good standards compliance, and runs inside the only non-text application I always have open, my web browser.
+
+Anyway, getting my phpGroupWare data into Mozilla Calendar just meant writing another conversion script.  This one, phpGroupWare to iCal, (attached) might at least be useful to someone other than me.
+
+This whole process undoubtedly seems silly, but at its core is a firm rule for data longevity: store your data in open, standard, lowest-common-denominator formats.  Ask any company with 10,000 word processor documents that can no longer be read using their new software. Closed data formats are manacles that can be a hassle over the course of decades scale and tragic on a historical time scale.
+
+`phpgw-calendar-migrate.tar.gz`_
+
+
+
+
+
+
+
+.. _phpgw-calendar-migrate.tar.gz: /unblog/UnBlog/2003-10-09?action=AttachFile&do=get&target=phpgw-calendar-migrate.tar.gz
+
+
+
+.. date: 1065675600

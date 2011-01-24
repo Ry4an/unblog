@@ -1,0 +1,45 @@
+
+Email -> SMS Conversion
+-----------------------
+
+There's a program on freshmeat called email2sms (http://freshmeat.net/projects/email2sms/) that runs emails through a series of filters until they're short enough to be sent to a cell phone as a SMS message -- which typically have a maximum length of 150 characters.  The script is mostly just a wrapper around the nifty Lingua::EN::Squeeze Perl module.  
+
+Squeeze takes English text and shortens it aggressively using all manner of abbreviations.  It leaves the text remarkably readable for being about half its original length.  
+
+I ran the email2sms script for just a few weeks before running into a problem where an address sent to me by a friend was mangled past the point of usefulness.  I figured that the best fix for that problem was to enlist the sender to evaluate the suitability of the compressed text.
+
+To achieve that I added a feature to email2sms wherein a copy of the compressed message is sent back to the original sender along with a request that if important details were lost from the message during the compression process that they shorten the message themself and re-send it or send it to an alternate email address I provide on which no compression is done.  The reply system has worked out quite well, and in the three years I've had it in place there have been a few circumstances were a human initiated re-send has saved an otherwise mangled message.
+
+Attached is my version of the email2sms script, the configuration files I use with it, and a procmail recipe to invoke it.  For fun here's the text of this post compressed by Lingua::EN::Squeeze.
+
+
+::
+
+   ThersProgramOnFrshmatCllEmal2sm(URL/)RunEmalThrghSreOfFiltUntlT/reShor
+   tEnoghToBeSntToCllP8AsSMSMsg--W/TpclyHvMaxLengthOf150Chr.ScriptIsMostl
+   yJstWrappArondNiftyLng::EN::sqzPrlMod.SqzTakEngTxtAndShortenItAggresvl
+   yUsngAllMannOfAbbrevitonItLeaveTxtRemrkblyRedble4BngAbotHlfItsOrgnalLe
+   ngthIRanEmal2smScript4JstFewWekBfreRunnngIntPrbWherAddresSntToMeByFrnd
+   WasManglPstPntOfUsflnesIFigurBstFix4PrbWasToEnlistSendToEvaluSuitablty
+   OfCompressTxtToAchiveIAdddFetreToEmal2smWhrinCopyOfCompressMsgIsSntBck
+   ToOrgnalSendAlongW/RqestIfImportantDtilWerLstFromMsgDurngComprsonProcT
+   /ShortenMsgThemselfAndRe-sndItOrSndItToAlternEmalAddresIPrvdeOnW/NoCom
+   prsonIsDon.ReplyStmHasWrkOutQuite,AndInThreeYYIveHadItInPlacTherHvBenF
+   ewCircmstnceWerHumanInttedRe-sndHasSavOthrwseManglMsgAttachedIsMyVerOf
+   Emal2smScript,ConfigurtonFilIUseW/It,AndPrcmilRcpeToInvokeIt.4FunHersT
+   xtOfThiPstCompressByLng::EN::sqz
+
+
+`email2sms-ry4an.tar.gz`_
+
+
+
+
+
+
+
+.. _email2sms-ry4an.tar.gz: /unblog/UnBlog/2003-09-11?action=AttachFile&do=get&target=email2sms-ry4an.tar.gz
+
+
+
+.. date: 1063256400

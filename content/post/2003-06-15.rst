@@ -1,0 +1,21 @@
+
+Surveillance Camera Website
+---------------------------
+
+It took most of a weekend to do it, but there's now a nice website for the Minneapolis Surveillance Camera Project at http://sarinity.com . I'll be moving it to its own domain eventually, but that'll be a week or so.
+
+The look is entirely owed to the Open Source Web Design site, http://oswd.org.  I love being able to just go snarf a well coded template for a new project.  Those people are doing a real service.
+
+The meat of the new site was done in Perl by myself.  One can now view camera locations, information, and pictures, report cameras, and upload photos of cameras.
+
+I heard back from the Derek Tonn of tonnhaus design about using the map, and he's understandably interested in seeing how the project comes out and what it's about before he provides the tacit approval implied through the use of his base map.  If I need to switch over to another map it shouldn't be a hassle, I just despair finding one as pretty as his.
+
+
+
+
+
+
+
+
+
+.. date: 1055653200

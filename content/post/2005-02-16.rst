@@ -1,0 +1,264 @@
+
+Designing a Beer Temperature Experiment
+---------------------------------------
+
+I've repeatedly encountered the statement, always presented as fact, that if you chill beer, let it return to room temperature, and then chill it again you will have affected in it a degradation of quality.  This has always seemed like nonsense to me for a few different reasons, chief among them that surely this chill/warm cycle happened repeatedly during transport and retail.
+
+As a beer snob, I generally drink beers imported from Europe.  These are shipped to the US in huge container ships across the icy North Atlantic.  They're then shipped in semi trucks to Minnesota.  Next they're stored at distribution centers, in retail warehouses, and on the sales floor (or in the beer cooler) Surely in one season or another the temperature variance during those many legs and stops constitutes at least one cooling/warming cycle.
+
+I'd like to test the theory, but I'm still trying to figure out just how to organize the experiment.  Some things I know that have to be included or controlled are:
+
+*  temperature
+
+  *  four "life cycles"
+
+    *  bought cold (and kept that way)
+
+    *  bought warm and cooled once
+
+    *  bought cold, then warmed, and then cooled
+
+    *  bought warm, cooled, warmed, and re-cooled
+
+  *  all must be served at the same final temperature
+
+*  tasters
+
+  *  can't know which is which in advance
+
+  *  don't need to know or like beer
+
+*  beer variety:
+
+  *  type
+
+    *  ale
+
+    *  lager
+
+    *  pilsner
+
+    *  stout
+
+  *  location of origin
+
+    *  imported
+
+    *  domestic (coastal)
+
+    *  domestic (local)
+
+What I'm up in the air about is exactly how to have the tasters provide their data.  Giving them identical beers which have gone through each of the four life cycles and asking them to rate them one through ten would be just about the worst way possible.  That's just inviting people to rate and invent differences when the goal is to determine if there's a difference at all.  Of course, even with that terrible mechanism enough repetitions would weed that sort of noise out of the data, but who has that much time.
+
+Currently I'm leaning toward a construct wherein tasters are given two small cups of beer and are simply asked if they're the same or different.  Percentage correct on a simple binary test like that would lead itself well to easy statistical analysis.  Making it double-blind random and other procedural niceties could be done easily using only two testers.  There should be no problem finding ample tasters.
+
+What are the things I'm not considering?
+
+
+
+
+
+
+
+
+
+
+**Comments**
+Some disussion from IRC.
+
+{{{#!CSV
+When;Who;What
+22:57;<Joe>;ry4an: thoughts on your beer experiment: is it you intention to test each beer variety one at a time, or mix 'n match?
+22:58;<Joe>;seems to me that you'd get better data on the effects of temperature change by testing them one at a time
+23:01;<Joe>;also you should test them kind of like an eye doctor tests lenses: A or B? ok now B or C? ok now C or D? and so on
+23:05;<Joe>;the tasters should be posed this question: "can you determine a difference between these two samples? If so which one tastes 'fresher'?"
+10:41;<Ry4an>;Joe: definitely one variety at a time.  ANd I agree it's a two at a time test
+10:41;<Ry4an>;I won't, however, be asking about fresher even.
+10:43;<Ry4an>;that just adds unneeded data -- I jsut wantt "Different or not"
+10:43;<Ry4an>;and 1/2 of the tests will likely be with the same beer in both cups
+}}}
+
+More talk later:
+
+{{{#!CSV
+When;Who;What
+10:41;<Vane>;ry4an: you should give them three small cups of beer
+10:42;<Vane>;ry4an: one original, one heated & cooled, and one a completely different beer :)
+10:42;<Vane>;ry4an: ask them to compare all three and rate how close they are to each other
+10:47;<Ry4an>;vane: I don't think that's sound.  People innately want to rate, but it doesn't give good data.
+10:48;<Louis>;I like the better/worse/same approach
+10:48;<Ry4an>;enough tests of rating woudl overcome the invented differenced people create, but I think I can get better accuracy in fewer tests if I don't invite in the imagined rating/ranking directly
+10:49;<Ry4an>;better/worse is not the question to ask.  people invent differences when ranking that they don't when answering booleans
+10:49;<Ry4an>;ranking gets you more data but it's got more "noise"
+10:50;<Louis>;hmm, isn't better/worse a boolean? 1 = better, 0 = worse...
+10:51;<Louis>;I may have to re-read the test again though
+10:51;<Louis>;the details are fuzzy at best
+10:54;<Ry4an>;Louis: no, and that pefectly highlyts the problem.  it's better/worse/same, but no one ever says 'same' because their brain demands a difference
+10:54;<Ry4an>;and when the whole point of the test is "does it make a difference" the same is _more_ important than better/worse but when you ask better/worse/same no one considers same equally
+10:57;<Vane>;ry4an: i just think you should have a 'control' beer that is obviously different
+10:57;<Vane>;ry4an: i guess not obviously, but different
+10:57;<Ry4an>;vane: the control is that 1/2 of all the tests will be w/ identical beer
+10:57;<Ry4an>;'identical' is the only absolute one can find with which to control
+10:57;<Ry4an>;different has an unquantifiable magnitude and thus isn't really a control
+10:58;<Vane>;ry4an: you can do 'identical' and not 'identical' as control
+10:58;<Ry4an>;vane:  identical is the control, and different is the variable
+10:59;<Ry4an>;For example w/ heating cycle A, B, C, and D.  YOu might have tests like AA, AB, AA, AC, AD, AA
+11:00;<Ry4an>;and you expect to hear 'same' the majority of the time on the AA pairing as your control and you compare that to how many times you hear same on the AB, AC, AD tests
+11:00;<Vane>;you are really testing human perception, the control would be to verify human can actuall tell whether something is identical or not identical
+11:01;<Vane>;*actually
+11:01;<Ry4an>;vane: that's exactly what I'm saying (and you're not suggesting w/ your grossly different beer as "control")
+11:01;<Vane>;if they can 90% of the time, then you can be assured that 90% your results with the real test is accurate
+11:01;<Ry4an>;right, so for your control you need actual identical because it's the only absolute you have in a non-quantifiable test
+11:02;<Vane>;not-identical is an absolute
+11:03;<Vane>;if someone thinks all beer tastes the same, they just might always vote identical
+11:03;<Ry4an>;but it's not really.  even identical isn't perfectly absolute but it's the closest you can get
+11:03;<Ry4an>;testing A vs A _no one_ should be able to find a difference and if they do you know it's ivented
+11:04;<Vane>;i for one, wouldn't be a good person to take the test, because I am not a beer conniseur
+11:04;<Ry4an>;testing A vs Z you have no way of knowing what spercentage of the popular should be able to detect that difference, but you can't assume it's 100% even if Z is motor oil
+11:04;<Vane>;i might just say they are close enough...
+11:04;<Ry4an>;vane: actually I think non beer drinkers would be better
+11:05;<Ry4an>;"close enough" is the sort of inexactness you're trying to eliminate in a test -- you don't invite it in by using a control that relies on "different enough"
+11:06;<Vane>;i think non-beer drinkers would be worse, cause they wouldn't take the time necessary to savor/taste
+11:09;<Ry4an>;that's why same/different is better than worse/better.  basic pride will have even a non-beer drinker trying to be the person who most often got 'same' right on the controls whether they like beer or not
+11:09;<Ry4an>;I suspect that Louis (a beer hater) will try very hard to guess which times he's
+11:09;<Ry4an>; got identical peers even if it means f
+11:09;<Louis>;ah, yeah same/diff that's right
+11:10;<Louis>;I don't hate beer, I just can't stand the taste of the vile liquid
+11:11;<Ry4an>;heh
+11:11;<Vane>;so basically shad would always vote they were the same, because they are all vile
+}}}
+
+Later yet Jenni Momsen and I exchanged some emails on the subject:
+
+{{{
+On Wed, Mar 02, 2005 at 02:47:32PM -0500, Jennifer Momsen wrote:
+> 
+> On Mar 2, 2005, at 2:08 PM, Ry4an Brase wrote:
+> 
+> > On Wed, Mar 02, 2005 at 01:48:49PM -0500, Jennifer Momsen wrote:
+> > > I read your experimental set-up a while back, and forgot to tell
+> > > you what I thought. Namely, I think you will find your hypothesis
+> > > (it's not a theory, yet) not supported by your experiment.
+> > > Temperature is probably critical to beer quality (I'm thinking of
+> > > the ideal gas law, here - Eric has some other ideas as to why
+> > > temperature is probably important). In any case, your experimental
+> > > design could be improved.
+> >
+> > They're all to be served at the same temperature, it's just
+> > temperatures through which they pass that I'm wondering about.
+> > What's more, what I'm really wondering is if the temperatures
+> > through which they pass after I purchase them matter given all the
+> > temperatures through which they likely passed before I got a crack
+> > at them.  I agree it's possible that keeping it within a certain
+> > temperature range for all of its life may yield a better drinking
+> > beer, but I also suspect that what damage can be done has already
+> > been done during shipping.
+> 
+> Yes, this was clear. I think temperature is of such importance that
+> when shipping, manufacturers DO pay attention to temperature. But hey,
+> I'm an optimist.
+
+I suspect the origin and destination are probably promised some form of
+temperature control, but I suspect in actuality so long as the beer
+doesn't freeze and explode the shipper doesn't care a whit.
+
+> > > 1. By having a binary choice, you leave your experiment open to
+> > > inconsistencies in rating one beer over another.
+> >
+> > Explain.  I'd never be having someone compare two different beers,
+> > just two like beers with different temperature life-cycles.
+> 
+> Right. But, what happens when 1a does not repeatedly = 1b for a 
+> particular taster?
+
+It's the extent of the repeatability that I want to know.  If the
+testers are right 50% of the time then I'll have to say it makes no
+difference.  If they're right a statistically significant percentage of
+the time greater than 50, then it apparently does makes a difference.
+
+> > > 2. Tasters will probably say different more times than not - an
+> > > inherent testing bias (i.e. if this is a test, they must be 
+> > > different).
+> >
+> > I was thinking of telling them in advance that 50% of the time
+> > they'll be the same, but I don't know if that's good or bad policy.
+> 
+> I think that's called bias. Bias is always bad. However, a clear
+> statement of the possible treatments they could encounter should
+> alleviate this. But it's still a form of bias that must be
+> acknowledged.
+
+Definitely.  I just think you're exactly right that with no prior
+information people would say 'different' more often than they say
+'same', and I was trying to come up with some way to curb that in
+general without affecting any one trial more than any other.
+
+
+> > > 3. Reconsider having tasters rate the beer on a series of qualities
+> > > (color, bitterness, smoothness, etc). This helps to avoid #1 and 2
+> > > above, and provides more information for your experiment. This is
+> > > what's typically done in taste tests (for example, a recent bitterness
+> > > study first grouped tasters into 3 groups (super tasters, tasters,
+> > > non-tasters) and then had us rate several characteristics of the food,
+> > > not just: is the bitterness between these two samples the same?)
+> >
+> > I don't see how that improves either.  I'm the first to admit I
+> > don't know shit about putting this sort of thing together, but I
+> > don't want data on color, bitterness, smoothness, etc.  I understand
+> > that if temperature life-cycle really does make no difference then
+> > all that data will, with enough samples, be expected to match up,
+> > but if I'm not interested in the nature or magnitude of the
+> > differences -- only if one exists at all -- why collect it and
+> > inject more noise?
+> 
+> You are right, this does add more data. It doesn't necessarily add 
+> noise (well, yes it does, when you go from a binary system to a scaling 
+> system). I know you don't want data on these factors, you just want to 
+> know whether temperature makes for different beers. But as a scientist, 
+> I always want to design experiments that can do more than just discover 
+> if variable X really matters. I'm interested in bigger pictures. So 
+> yes, you can use a simple design to discover if temperature makes for 
+> different beers, but in the end you are unable to answer the ubiquitous 
+> scientific question: So what?
+
+Right, whereas all I want to get from this is the ability to at a party
+say (in a snooty voice), "Actually, you're wrong; it doesn't matter at
+all." if indeed that's the case.  What's more, I know whatever small
+amount of statistical knowledge I once had has atrophied to the point
+where I can barely determine "statistically significant" for a given
+number of trials with an expected no-correlation probability of 0.5, and
+I know I couldn't handle much more than that analysis-wise without
+pestering people or re-reading books I didn't like the first time.
+
+> > > Eric's boss started life selling equipment to beer makers in
+> > > England.  I will nag Eric to ask him about the temperature issues.
+> >
+> > Excellent, thanks.  I think that transportation period is the real
+> > culprit.  I don't doubt they're _very_ careful about temperature
+> > during the brewing, but I can't imagine the trans-Atlantic cargo
+> > people care much at all.  I know there exist recording devices which
+> > can be included in shipments which sample temperature and other
+> > environmental numbers and record them for later display vs. time,
+> > but I wouldn't imagine the beer importers use anything like that
+> > routinely.
+> 
+> Why not? Certainly not cheap beers, but higher quality imports might, 
+> no? Again, the optimist.
+
+And once some movers promised me that furniture would arrive undamaged
+due to the great care their contentious employees demonstrate...
+}}}
+
+Jenni's research turned up this reply:
+
+{{{
+Temperature, schmemperature.
+
+According to Mad Dog Dave (Eric's boss), manufacturers rarely worry
+about temperature, at nearly any stage of the process. From brewing to
+bottling, transportation to storage, they really could care less.
+
+So despite my best effort at optimisim, pessimism flattens all.
+}}}
+
+.. date: 1108533600

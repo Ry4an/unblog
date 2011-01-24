@@ -1,0 +1,31 @@
+
+Home Carbonator
+---------------
+
+Last year I `read about home carbonation`_, and looking at the amount of club soda Kate and I buy it made sense.  The only unknown was where to put the ugly tank that would be out of sight yet still convenient to use.
+
+Months later coworkers and I were at the `Red Stag`_, which carbonates their own sparkling water, and talked about doing the same at the office. I still didn't act until a friend got a `soda club`_ machine as a gift.
+
+This weekend I (or actually Kate since I was running late) went to `Northern Brewer`_ and picked up parts ``K003``, ``KX03``, and ``K026`` to build the setup below.  It really does work as easy as the first article promises, and the price including the purchase of a tank came to $200 total.  So far the best thing we've carbonated was orange juice, but I'm looking to try some fruit purees soon.
+
+|carbonator.jpg|
+
+
+
+
+
+
+
+.. _read about home carbonation: http://www.kk.org/cooltools/archives/001818.php
+
+.. _Red Stag: http://www.redstagsupperclub.com
+
+.. _soda club: http://www.sodaclub.com
+
+.. _Northern Brewer: http://www.northernbrewer.com
+
+
+.. |carbonator.jpg| image:: /unblog/UnBlog/2008-05-31?action=AttachFile&do=get&target=carbonator.jpg
+
+
+.. date: 1212210000

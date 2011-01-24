@@ -1,0 +1,25 @@
+
+Isle Royal GPS Data
+-------------------
+
+Earlier this month some friends and I hiked across Isle Royale in lake Superior.  Joe kept his GPS running and produced good track points in an odd export format from his Mac software called "Topo".  I created a quick `conversion script`_ to produce this `GPS format data`_ which can be used with the `GPS visualizer`_ website to produce images like this:
+
+|isle-royale.png|
+
+
+
+
+
+
+
+.. _conversion script: /unblog/UnBlog/2005-09-22?action=AttachFile&do=get&target=convert.pl
+
+.. _GPS format data: /unblog/UnBlog/2005-09-22?action=AttachFile&do=get&target=isle-royale.gpx.xml
+
+.. _GPS visualizer: http://gpsvisualizer.com
+
+
+.. |isle-royale.png| image:: /unblog/UnBlog/2005-09-22?action=AttachFile&do=get&target=isle-royale.png
+
+
+.. date: 1127365200

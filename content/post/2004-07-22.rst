@@ -1,0 +1,29 @@
+
+Silly Defensive Prompt Coloring
+-------------------------------
+
+I don't like color in my command line windows.  Colorization in ls's directory listings drives me bonkers; it's the first thing I turn off on a new system.  I have, however, relented and added a little bit of conditional color to save me from an all too frequent error.
+
+I have access to a lot of UNIX and UNIX-like systems.  Some are machines I run, some are my employer's, and some belong to customers.  Most all of them I've never physically seen but instead access through remote ssh, secure shell, connections.  My normal command line prompt on these machines looks like::
+
+  [user@host ~]$ 
+
+That says I'm on machine 'host' and logged in as 'user'.  You'd think that would be enough to alert me when 'host' isn't my normal desktop machine or when I'm logged in as someone other than 'ry4an', but you'd be wrong.  After issuing disastrous ``rm *`` commands when I didn't notice I was root and after one too many 'shutdown -h' when I didn't realize I was issuing commands to a server in a remote data-center instead of the computer in my closet, I finally wised up and did something about it.
+
+Now when I'm logged into a remote machine the at-sign in my prompt is black-on-white instead of its normal white-on-back.  The 'host' portion of each of my prompts is color coded to reflect which machine I'm logged in to, and when the 'user' portion says 'root' it's got a bright red background to let me know that commands are at their most dangerous.
+
+None of this was hard to do, it was all just stuff I finally decided to do.  I've attached the shell snippet I put in my /etc/bashrc to do the colorization of the three different parts.  The local/remote detection probably only work with the gnu tool chain, but one never knows.
+
+remote-color-bashrc_
+
+
+
+
+
+
+
+.. _remote-color-bashrc: /unblog/UnBlog/2004-07-22?action=AttachFile&do=get&target=remote-color-bashrc
+
+
+
+.. date: 1090472400

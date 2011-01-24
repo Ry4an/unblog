@@ -1,0 +1,40 @@
+
+Email Sub-Address Spam Frequency
+--------------------------------
+
+My email server is configured such that email to ry4an-anything@ry4an.org gets correctly delivered to me.  The dash and whatever is after it are retained but ignored completely.
+
+When I give an email address to a company, say Northwest Airlines,I'll give them an email address that shows to whom it was given, say ry4an``-nwa``@ry4an.org.  By doing this I'm able to check which companies are giving/selling/leaking my email address to spammers. Some of the leaks are surprising -- just a few weeks after giving out ry4an-philmont for the first time, giving it to the Boy Scouts, I started getting porn spam on it.  When I called to let them know about the leak they assured me it was impossible.
+
+Last month I decided to save all of my inbound spam and run some totals to see which sub-addresses got the most spam.  Here are the counts:
+
+*  6427 total spam messages to ry4an.org in 34 days
+
+*  679 spam messages to plain ry4an*@*ry4an.org
+
+*  the 10 most spammed sub-addresses were
+
+[Table not converted]
+
+So it looks like the worst offenders aren't comanies to whom I've given my email address, but rather letting them get posted to the internet for automated crawlers to harvest.
+
+Gmail users: You can `do the same thing`_ using the plus sign.
+
+
+
+.. _do the same thing: http://groups.google.com/group/Gmail-Users/browse_thread/thread/dd2e8ed697d0e655/91cf1a1b0995912d
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+
+
+Yeah, the one I gave to United actually garners me the most spam.  I emailed them to complain but was brushed off relatively quickly.
+
+
+.. date: 1134021600

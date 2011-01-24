@@ -1,0 +1,33 @@
+
+Fixing the Roomba Circle Dance
+------------------------------
+
+My Roomba_ had been on the fritz lately.  When I powered it on it went forward a few inches and then started backing up in a tight circle.  I figured it was a dirty sensor, but I cleaned everything I could see and had no luck.
+
+My coworker Brandon pointed me to the `Circle Dance`_ website, which explains how a dirty internal sensor can cause just that problem.  I've got an older Roomba, but the wheel assembly seemed the same.  The site has great instructions and photos showing how one can fix the problem.  They do, however, go through `incredible contortions`_, including removing 10 screws and a hard to replace panel, just to remove a single screw.
+
+I found I could skip all that by drilling a small hole in the fender rather than removing it.  Given that replacing the fender is so difficult the original site recommends not bothering, I think a hole is an acceptable level of resulting cosmetic defect.
+
+This image shows just where the hole was made:
+
+|roomba-hole.jpg|
+
+...and now the Roomba works great again.
+
+
+
+
+
+
+
+.. _Roomba: http://www.irobot.com
+
+.. _Circle Dance: http://mysteryroad.blogs.com/photos/circledance800x600/xintroroomba_3549.html
+
+.. _incredible contortions: http://mysteryroad.blogs.com/photos/circledance800x600/2hubcover1_3580.html
+
+
+.. |roomba-hole.jpg| image:: /unblog/UnBlog/2006-01-25?action=AttachFile&do=get&target=roomba-hole.jpg
+
+
+.. date: 1138168800

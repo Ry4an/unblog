@@ -1,0 +1,29 @@
+
+Poker Timer
+-----------
+
+Some friends and I have been playing poker a couple of times a month for the last year or so.  Our play is terrible, no one cares, and we usually spend more on beer than we win.  It's a good time.
+
+In November a few of us decided to head to the local card club and try our hands at play in the wild.  We decided to enter a tournament. Tournaments are a great way to start out playing at a card club because you know going in exactly how much money you're going to loose from the start.  Ninety or so people each pay a fixed entrance free, and only the top nine of them get any prize money at all.  Tournaments all offer good initial chip parity -- everyone starts with exactly the same amount of money so you can't be pushed around by bigger stack from the start.  Another added bonus is that for your initial buy-in of twenty or so dollars you get a few thousand "dollars" in tournament chips.  They're not real money but they're the closest I'll ever come to saying, "I raise 2000," without having to append, "pennies."
+
+The tournament was great fun and though none of us made it into the top 50% of finishers we really liked the betting structure.  The tournament was divided into twenty minute rounds each of which had their own amounts for the blinds (like antes) and minimum bets.  The constantly escalating financial pressure encouraged aggressive play and ensured a timely conclusion.
+
+Last night the friends were coming by for poker again and wanted to play tournament-style, but we couldn't find any tournament round display software for download.  I ended up writing a quick and dirty one poker timer that allows for the display of progressive round values.  I would have liked to have displayed it through the TV but lacked the right cables so we just set a laptop where everyone could see it.  I've attached the Java source, binaries, and a screenshot.
+
+|pokertimer.png|
+
+`pokertimer-1.0.tar.gz`_
+
+
+
+
+
+
+
+.. _pokertimer-1.0.tar.gz: /unblog/UnBlog/2004-01-25?action=AttachFile&do=get&target=pokertimer-1.0.tar.gz
+
+
+.. |pokertimer.png| image:: /unblog/UnBlog/2004-01-25?action=AttachFile&do=get&target=pokertimer.png
+
+
+.. date: 1075010400

@@ -1,0 +1,35 @@
+
+Novelty Keg Scale
+-----------------
+
+At the haloween party we got a keg of New Castle, but most folks went for the mixed drinks or the bottled beer.  We kept trying to steer folks toward the keg, but it's hard to get people behind a project that's not providing good status reports.
+
+That got me thinking that one could make a simple scale showing a gas-tank style empty to full scale for a keg of liquid.  `Googling for keg scale`_ turned up some products for bar owners, but nothing consumer focused: 
+
+|t_19874|
+
+If instead you could start with a mechanism similar to that found in `these scales`_:
+
+|52564|
+
+you could provide interchangeable faceplaces for the standard keg gross and tare weights.
+
+People rally around steadily progressing meters -- ask anyone who's been involved with a funraiser/telethon.  I suspect produced cheeply enough something like this will sell to frats and the like.
+
+
+
+
+
+
+
+.. _Googling for keg scale: http://www.kegworks.com/shoppingcart/catalog/DraftBeerInventoryControlKegScale19874.html
+
+.. _these scales: http://www.redhillgeneralstore.com/A52564.htm
+
+
+.. |t_19874| image:: http://www.kegworks.com/shoppingcart/files/pics-small1/t_19874.jpg
+
+.. |52564| image:: http://www.redhillgeneralstore.com/pics/thumbs/52564.jpg
+
+
+.. date: 1131429600

@@ -1,0 +1,36 @@
+
+Whole House Humidifier
+----------------------
+
+This weekend I put in a Honeywell 360A whole house humidifier.  The instructions said it should take an hour, and it only took me four. Nothing went wrong, which what you hope for when a project means cutting holes in your duct work, tapping into your water, and some wiring.  Now when we wake up our throats don't hurt.
+
+|IMG_1153.jpg|
+
+|IMG_1154.jpg|
+
+
+
+
+
+
+
+
+.. |IMG_1153.jpg| image:: /unblog/UnBlog/2006-11-28?action=AttachFile&do=get&target=IMG_1153.jpg
+
+.. |IMG_1154.jpg| image:: /unblog/UnBlog/2006-11-28?action=AttachFile&do=get&target=IMG_1154.jpg
+
+
+
+**Comments**
+
+**Update:** If you don't tighten down the compression fittings on the water supply line it will let go and you'll drain water into the floor drain all night.  d'oh
+
+**From a concerned internet'er** Get rid of that saddle valve at your earliest convenience, those things a prone to leaking or letting go.  Have someone put in a tap on the line with a proper cutoff with a 1/4"FIP.  Same connector you would use for an icemaker.  To be real safe after you do that you can buy a braided steel icemaker line that will connect inbetween the cutoff and the humidifier, so no compression connectors anymore either.
+
+
+-------------------------
+
+
+
+
+.. date: 1164693600

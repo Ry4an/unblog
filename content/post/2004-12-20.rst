@@ -1,0 +1,19 @@
+
+Brute Forcing My Own Password
+-----------------------------
+
+I try to maintain good password practices -- total random gibberish, never use the same password for two things, change them monthly --, and the EBP lite from http://mandylionlabs.com/ certainly helps.
+
+Last night, at about 3am I was doing my monthly password change and somehow I typed one password wrong *in exactly the same way* three times.  Today when I tried to add my ssh private key it just wouldn't unlock.  I tried the "right" password 10 or so times and no luck.  I then started trying slight variants on the password: fingers shifted, missed shift key, similar looking characters, etc.  After 30 or so of those tries with no luck it was time to script.
+
+Ten minutes later I had a list of 27,648 (4 * 3 * 4 * 3 * 3 * 4 * 4 * 4) possibilities and ten seconds later permutation number 2308 proved correct.  Whew.  One would think this would teach me to be more careful, but really it's shown me that so long as one has strong script-fu close-enough is good-enough.
+
+
+
+
+
+
+
+
+
+.. date: 1103522400

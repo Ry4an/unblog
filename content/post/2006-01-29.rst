@@ -1,0 +1,21 @@
+
+A Very IKEA Sunday
+------------------
+
+I'm finally tackling all the little projects I always meant to do around the house in preparation for selling it.  Today I installed some simple `roller shades`_ downstairs and built a fairly complex multi-panel window covering system thing in the bedroom using the ridiculously modular `KVADRANT stuff`_.
+
+I've never had serious problems with IKEA stuff before, and these weren't any worse than usual, but one really is constantly beset by low-level disappointment at the quality of the pieces, their fit and finish, and the meager guidance the instructions offer when working with IKEA stuff.  Still it's cheap and looks nice, which is exactly what one wants when staging for a sale.
+
+
+
+
+
+
+
+.. _roller shades: http://www.ikea.com/webapp/wcs/stores/servlet/ProductDisplay?topcategoryId=15594&catalogId=10103&storeId=12&productId=49065&langId=-1&parentCats=15594*15828*15847
+
+.. _KVADRANT stuff: http://www.ikea.com/webapp/wcs/stores/servlet/IkeamsSearch?storeId=12&langId=-1&catalogId=null&searchType=product&pageNumber=-1&orderBy=score&query=kvadrant&category=%23%7EProducts
+
+
+
+.. date: 1138514400

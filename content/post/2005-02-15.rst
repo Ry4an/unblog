@@ -1,0 +1,31 @@
+
+SwarmStream Public Edition
+--------------------------
+
+My latest project for Onion Networks has just been released: it's a first beta release of `SwarmStream Public Edition`_, a completely free Java protocol handler plug-in that transparently augments any HTTP data transfer with caching, automatic fail-over, automatic resume, and wide-area file transfer acceleration.
+
+SwarmStream Public Edition is a scaled-down version of our commercially-licensable `SwarmStream SDK`_. Both systems are designed to provide networked applications with high levels of reliability and performance by combining commodity servers and cheap bandwidth with intelligent networking software.
+
+Using SwarmStream Public Edition couldn't be easier, you just set a property that adds its package as a Java protocol handler like so:
+
+
+::
+
+   java -Djava.protocol.handler.pkgs=com.onionnetworks.sspe.protocol you.main.Class
+
+
+So, if you're doing any sort of HTTP data transfer in your Java application, there is no reason not to download SSPE and try it out with your application. There are no code changes required at all.
+
+
+
+
+
+
+
+.. _SwarmStream Public Edition: http://onionnetworks.com/products/swarmstream/sspe/
+
+.. _SwarmStream SDK: http://onionnetworks.com/products/swarmstream/
+
+
+
+.. date: 1108447200

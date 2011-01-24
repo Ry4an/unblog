@@ -1,0 +1,33 @@
+
+Mercurial Remote Test Runner via Push
+-------------------------------------
+
+I heard someone in IRC saying that the mercurial test suite was bogging down theirlaptop, so I set up a quick push-test service for the mercurial crew.  If you're in crew and you do a push to ``ssh://hgtester@ry4an.org:2222/`` these steps will be taken:
+
+1. a local clone of the crew repo is updated from intevention.de
+
+#. a new, disposable local clone is created from that crew clone
+
+#. your csets are pushed to that new clone
+
+#. the working directory is updated to 'tip'
+
+#. a build is done
+
+#. the test suite is run
+
+#. the build and results show up in your stdout
+
+#. the new clone (and your pushed csets) are deleted
+
+It's on a reasonably fast, unloaded box so the test suite runs in about 3 mins 30 seconds.  Thanks to ThomasAH for providing the crew pubkeys.  If you're not in crew and want to use the service please contact me and convince me you're not going to write a test that does a "rm -rf ~", because that would completely work.
+
+Unfortunately, the output is getting buffered somewhere so there's no output after "searching for changes" for almost 4 minutes, but the final output looks as attached.
+
+The machine's RSA host key fingerprint is: ac:81:ac:0b:47:f4:20:a1:4d:7e:6a:c5:62:ba:62:be. (updated 2010/06/07)
+
+The scripts can be viewed here: http://bitbucket.org/Ry4an/hgtester/
+
+If all that was jibberish, we now return you to your regularly scheduled silence.
+
+.. date: 1271307600

@@ -1,0 +1,62 @@
+
+Obscuring MoinMoin Wiki Referrers
+---------------------------------
+
+When you click on a link in your browser to go to a new web page your browser sends along a ``Referrer:`` header, which tells the owner of the site that's been linked to the URL of the site where the link was found.  It's a nice little feature that helps website creators know who is linking to them.  Referrer headers are easily faked or disabled, but in general most people don't bother, because there's generally no harm in telling a website owner who told you about their site.
+
+However, there are cases where you don't want the owner of the link target to know who has linked to them.  We've run into one of these where I work because one of our internal websites is a wiki_. One feature of wikis is that the URLs tend to be very descriptive.  Pages leaving addresses like ``http://wiki.internal/ProspectivePartners/`` in the ``Referrer:`` header might give away more information than we want showing up in someone else's logs.
+
+The usual way to *muffle* the outbound referrer information from the linking website is to route the user's browser through a redirect.  I installed a `simple redirect script`_ and figured out I could get MoinMoin, our wiki software of choice, to route all external links through it by inserting this into the moin_config.py file:
+
+
+::
+
+   url_mappings = {
+       'http://': 'http://internal/redirect/?http://',
+       'https://': 'http://interal/redirect/?https://'
+   }
+
+
+Now the targets of the links in our internal wiki only see '-' in their referrer logs, and no code changes were necessary.
+
+
+
+
+
+
+
+.. _wiki: http://wiki.org/wiki.cgi?WhatIsWiki
+
+.. _simple redirect script: http://www.webreference.com/perl/tutorial/7/
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+
+
+I'm working on installing a some what sensitive wiki, so this is interesting.
+
+How does the redirect script remove the referer, though? I couldn't figure that out from the script.
+
+-------------------------
+
+
+
+It just does due to the nature of the ``Referrer:`` header.  When going a GET a browser provides the name of the page where the clicked link was found.  When a link on page A points to a redirection script, B, then the browser tells B that the referrer was A.  Then the redirect script, B, tells the browser to go to page C -- redirects it.  When the browser goes to page C, the real target page, it doesn't send a ``Referrer:`` header because it's not following a link -- it's following a redirect.  So the site owner of C never sees page A in the redirect logs.  S/he doesn't see the address of B in those logs either, because browsers just don't send a ``Referrer header:`` at all on redirects. -- Ry4an 
+
+-------------------------
+
+
+
+There was a little more `talk about this on the moin moin general mailing list`_, including my proposal for adding redirect-driven masking as a configurable moin option. -- Ry4an
+
+
+.. _talk about this on the moin moin general mailing list: http://news.gmane.org/find-root.php?message_id=%3c20050310062541.GR2378%40ry4an.org%3e
+
+
+.. date: 1110348000

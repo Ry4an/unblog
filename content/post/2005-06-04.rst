@@ -1,0 +1,54 @@
+
+Poker Timer DVD
+---------------
+
+There's a ton of `poker time software`_ out there and even some nifty looking `dedicated hardware`_.  At the games I attend we'll usually use a computer for the timing, but often there isn't one in the room and no one wants to bring over a laptop. However, there is almost always a TV with DVD player in whatever room gets temporarily re-purposed as the game room.
+
+That got me thinking that a DVD that could serve as a poker timer would work in all the rooms in which we play poker and would offer these other benefits:
+
+*  large display
+
+*  easily paused using a remote
+
+*  doesn't require a computer
+
+*  simple operation
+
+*  audible alert when the blinds increase
+
+*  cheap to produce
+
+Tournaments often last four hours or more, but a DVD can hold that much video using a variable bit rate encoding so long as the image doesn't change a great deal, and a simple count-down timer image wouldn't change very much at all.
+
+The elapsed time per round, round number, and time remaining in the round would all be numbers on the video display, but the actual blind values, which tend to differ from tournament to tournament, would be best contained in the closed captioning track.
+
+DVDs can contain zero or more closed captioning tracks each of which contain screen location information and text which is overlaid on the video.  Putting different blind levels on different tracks allows the tournament director to easily adjust the blinds to whatever he or she prefers.
+
+Creating the DVD would be a simple matter of transcoding computer output into a variable bit rate DVD-ready video stream.  The computer output time display could be easily created using simple computer graphics programming, flash, or even javascript and HTML.
+
+I suspect if someone took the time to put together such a DVD it could be sold in poker stores, game stores, and online for way more than the less-than-a-dollar production cost.  Go do it, and I'll buy one.
+
+
+
+
+
+
+
+.. _poker time software: ../2004-01-25
+
+.. _dedicated hardware: http://www.thepokergenie.com
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+
+
+It looks like someone did start making something like this (before I posted).  Their implementation looks very nice: http://www.homeseriespoker.com -- Ry4an
+
+
+.. date: 1117861200

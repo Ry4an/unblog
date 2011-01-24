@@ -1,0 +1,45 @@
+
+The Wedding Planned With Bugzilla
+---------------------------------
+
+If things have been a little sparse around here over the last year or so it's because outside of work the bulk of my organizational and creative energies have been going into the planning of our wedding.
+
+The wedding was this weekend, and everything was spectacular.  Photos and details can be found on the `wedding website`_.
+
+I've come away from the wedding planning experience with this advice for guys: Don't bother helping; no one but your finance/wife will believe you've done anything, and she's already in love with you.
+
+Kate and I got no end of comments and jokes predicated on the notion that the guy never does anything to help with the wedding, and despite her earnest protestations to the contrary, you could tell that people came away with a belief that at most I probably helped pick the cake or something.
+
+That assumption was all the more maddening because, in fact, my tendency to over plan events was perfect for a wedding.  I'd been waiting for just this sort of opportunity to plan a large event and in doing so to put a record keeping theory to the test.  -- By now it should be obvious that Kate, my wife, is a very patient woman.
+
+For years I'd watched an event planner who worked out of the same coffee shop I did practice her trade.  So nearly as I could tell she lived entirely in a world of post-it notes and phone calls.  On any given day I'd watch 500 different pieces of information flit before her mental windshield with no discernible organizational system I could recognize.  It drove me crazy.  I wanted to offer to help her come up with a computer based solution that would patch all the holes in her process I was sure had to plague her on every project.
+
+Meanwhile, I was sitting next to her working on computer software, which for any project of reasonable size includes tracking thousands of details.  Among those details are defects, bugs, and any team with any hope of success uses a bug tracker system to keep them documented. The most popular, but certainly not the most user-friendly, bug tracker is Bugzilla_.  I like it a great deal.
+
+I became certain that more than a spreadsheet or calendar or MS project, event planning required a bug tracker.  I was pretty sure that Bugzilla could be put to work to keep good logs of tasks, dependences, and details in exactly the right fashion.
+
+As alluded to previously, Bugzilla has a user-interface that only a software developer could love.  Kate's not a software developer, so there was some initial resistance, but she's a trouper and took to it eventually.  File attachments held contracts, and comments included phone logs.  We were planning the wedding long distance so most communications were electronic.
+
+In the end it worked well -- no details fell through the cracks --, but it was probably overkill for a two-person project.  Something like basecamp_ is probably a much better fit. Bugzilla does have some nearly useless charts that allowed me to produce the horrible dependency graph below:
+
+`|http://ry4an.org/unblog/UnBlog/2006-10-27?action=AttachFile&do=get&target=wedding-dependencies.png|`_
+
+
+
+
+
+
+
+.. _wedding website: http://kateandry4an.org
+
+.. _Bugzilla: http://www.bugzilla.org/
+
+.. _basecamp: http://www.basecamphq.com/
+
+.. _`|http://ry4an.org/unblog/UnBlog/2006-10-27?action=AttachFile&do=get&target=wedding-dependencies.png|`: http://ry4an.org/unblog/UnBlog/2006-10-27?action=AttachFile&do=get&target=wedding-dependencies.png
+
+
+.. |http://ry4an.org/unblog/UnBlog/2006-10-27?action=AttachFile&do=get&target=wedding-dependencies.png| image:: http://ry4an.org/unblog/UnBlog/2006-10-27?action=AttachFile&do=get&target=wedding-dependencies-thumb.png
+
+
+.. date: 1161925200

@@ -1,0 +1,38 @@
+Garble To GPX Track Conversion
+------------------------------
+
+For years I've been using  garble to pull track and way point data off of my Garmin eTrex GPS. Unfortunately it produces data in a completely non-standard format. In the past I've written a little custom software to turn the garble data into maps.
+
+Now I'm using  http://gpsvisualizer.com to produce much nicer maps, but it takes data in the superior  GPX format. The  GPSBabel software will pull way point data off of Garmin GPSs and puts them into GPX, but it doesn't handle tracks.
+
+So, I needed something that took garble output like::
+
+	45.222774, -92.767997 / Sun Apr 10 18:57:32 2005
+
+and turned it into GPX statements like::
+
+	<trkpt lat="45.222774" lon="-92.767997"><time>2005-04-10T18:57:32Z</time></trkpt>
+
+this Perl snippet I wrote::
+
+	#!/bin/perl -w
+
+	use strict;
+	use Date::Parse;
+	use Date::Format;
+
+	while (<>) {
+	    chomp;
+	    unless (/(\S+), (\S+) \/ (.*)/) {
+		print STDERR "Unparseable line: '$_'\n";
+		next;
+	    }
+	    my $when = str2time($3);
+	    my $time = time2str('%Y-%m-%dT%H:%M:%SZ', $when);
+	    
+	    print qq|<trkpt lat="$1" lon="$2"><time>$time</time></trkpt>\n|;
+	}
+
+does the job.
+
+.. date: 1113109200

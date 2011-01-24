@@ -1,0 +1,107 @@
+Blogging 1990s Style
+--------------------
+
+My good friends Luke (http://justlooking.recursion.org/) and Gabe (http://twol.dopp.net/) are working on a project that archives mailings lists to blogging software.  Essentially something that subscribes to lists and gateways to posts in a blog.  I politely told them the idea didn't make sense to me and instead advocated just putting a blog-look onto existing mailing list software.  This is my attempt to put my money where my mouth is.
+
+Vanity mailing lists are nothing new, and I subscribe to quite a few of them.  Usually they're just one person talking about whatever pops into his or her head.  One of the best belongs to Kragen Sitaker and can be found here: http://www.canonical.org/~kragen/mailing-lists.html .
+
+Some of the advantages of a vanity mailing list with a blog veneer are:
+
+*  Push-model available for those who want to subscribe
+
+*  Threaded discussion is integral to the system
+
+*  Can create blog entries from any location without special software
+
+Some of the drawbacks are:
+
+*  Hard to edit old posts
+
+*  To make HTML blog entries I'd need to use a HTML compatible mail client -- which I won't.  Long live mutt.
+
+I'm sure there are other benefits and drawbacks that I've yet to identify.  I'll mention them as I find them.
+
+
+**Comments**
+
+
+-------------------------
+
+ Hallo - Could you share your mhonarc resource file and any other tools you used to make this system?
+
+Thanks -- Sean Roberts
+
+-------------------------
+
+ I've `attached a tarball`_ containing all the files related to the unblog. You'll notice the add.sh script is effectively short circuited because incremental message adding wasn't working for reasons I never documented well.  In fact, there's no real documentation at all, but most of it is pretty straight forward.  I'm running with MHonArch v2.6.2.
+
+-------------------------
+
+ Thanks.
+
+I am working with a group of friends to maintain a non-profits computer systems. Only problem is that half the team is non-technical, and the other half is "Microsoft Technical" (if you get what I mean).
+
+We currently use a mailing list to communicate, it works wonderfully.
+
+Now I need some way to track all of our work (to keep documentation up-to-date). I want a simple log (or blog) of work, but it must be seemless to add to (no one likes documenting). Can't be ugly and have sucky threading, like mailmans default archives. So a mail list based blog that doesn't require any special marking up of the email to get it into the blog. Oh, and no need to setup a "new post notifier", mailman already does that.
+
+Now off to defeat the evil '.doc' attachment they love to send.
+
+Thanks -- Sean Roberts
+
+-------------------------
+
+ I noticed that you only use "Subject" as a reference for comments. Why not use "In-Reply-To" or "References" ? Let me guess... most junk emailers fail to properly use those headers.
+
+I will take idea's from your work and add some other things I have thought of. Like a recent comments sidebar. That would just be a date order listing of posts that aren't in reply to anything, or I could slack and just have the most recent posts by date.
+
+I am still shocked that a full fledged journal/weblog hasn't been built around mailing lists rather than web or blogger API input.
+
+-- Sean Roberts
+
+-------------------------
+
+ In-Reply-To and Referenced are used.  In fact, they're the only thing that get message firmly linked in the Thread index (http://ry4an.org/unblog/threads.html).  Notice how your messages are below the '<possible follow-ups>' marker. That indicates the Subject line indicates they're probably replies, but that no In-Reply-To or Referenced headers were found to link it conclusively with the original. You seem to be using squirrel mail and at least the message to which I'm currently replying is missing them.
+
+
+::
+
+   > I will take idea's from your work and add some other things I have
+   > thought of. Like a recent comments sidebar. That would just be a date
+   > order listing of posts that aren't in reply to anything, or I could
+   > slack and just have the most recent posts by date.
+   >
+   > I am still shocked that a full fledged journal/weblog hasn't been
+   > built around mailing lists rather than web or blogger API input.
+
+
+Yeah, I don't get it either.  Most of the modern blogging software includes email -> post gateways, but there's no similar accomodation for comments.  I'm actually beginning to suspect the Usenet-style NNTP might be the perfect marriage of posting, coments, archiving, reading, etc.
+
+-- Ry4an
+
+-------------------------
+
+ I was referring to how your "Post a Comment" are controlled. Just the "Subject". e.g.
+
+
+::
+
+   <code>
+   <a href="mailto:unblog@ry4an.org?subject=Re: Diplomacy at Sea and a
+   Templated Evolver">Post a Comment</a>
+   </code>
+
+
+-- Sean Roberts
+
+-------------------------
+
+ Ahh, If the mailto: protocol supported setting the In-Reply to and References: header I'd definitely use it to set them in the replies. Then then comments would be better attached.  As it is, only people who reply to the actual messages on the email list end up with their comments being firmly attached (as opposed to "possibly" attached). Unfortunately, there isn't a mailer I know of that'll let you set anything but the subject and body in mailto: links.
+
+--Ry4an
+
+
+.. _attached a tarball: /unblog/UnBlog/2003-04-14/Comments?action=AttachFile&do=get&target=unblog.tar.gz
+
+
+.. date: 1050210000

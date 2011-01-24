@@ -1,0 +1,59 @@
+
+MTN Televised Scrabble Archive
+------------------------------
+
+I've been hooked on MTN_'s televised scrabble since Kate Bauer and I stumbled across it a few weeks back.  The only on-line mention I can find of it is an old review_ in a student paper.
+
+I'm thinking of getting a group of folks together to play as a team semi-regularly, but while that's getting setup I decided to start archiving the games, because that's the sort of thing I do, I guess.
+
+I started out by looking to see if there already was a standard scrabble game notation.  There are a few, but none of them are particularly well thought out. The most commons seems to be the log2_ format.  It's human readable, but pretty fiddly syntax wise.
+
+Last weeks game as a log2 file starts like this:
+
+
+::
+
+   Hamil                                   Mpls
+     8h  CARP             +16   16  MIXIWOD   i7  WAX             +25   25
+      h8 COPE             +17   33  IIMODTL 11e   MODEL           +16   41
+     9g  FOX              +17   50  IITEYTG 10d   GEY             +28   69
+
+
+In addition to creating a `log2 file`_ for the game, I created a first cut at an on-line HTML visualization as found here: http://ry4an.org/scrabble/games/2005-06-21/  The image on that page:
+
+|board|
+
+was created with the help of the board display tool by `Graham Toal`_.
+
+Once I get that page into a format I like, I'll probably create a CGI that converts log2 files to HTML visualizations on the fly.  I, however, definitely don't have time for something like that now.
+
+
+
+
+
+
+
+.. _MTN: http://mtn.org/
+
+.. _review: http://faculty.normandale.edu/~lions_roar/April%2029/scrabble.html
+
+.. _log2: http://web.archive.org/web/20030201164549/http://www.doe.carleton.ca/~jac/acdir/log2.html
+
+.. _log2 file: http://ry4an.org/scrabble/games/2005-06-21/scrabble-2005-06-21.txt
+
+.. _Graham Toal: http://www.gtoal.com/
+
+
+.. |board| image:: http://ry4an.org/scrabble/games/2005-06-21/board.png
+
+
+
+**Comments**
+
+
+-------------------------
+
+ I think this idea is really cool. -Hamil
+
+
+.. date: 1119589200

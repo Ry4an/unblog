@@ -1,0 +1,26 @@
+#infoanarchy on the freenode network (freenode.org) where someone runs a
+
+WikiChump
+---------
+
+A chump bot (http://www.w3.org/2001/09/chump/) sits in an IRC (Chat) channel and remembers any URL (web addresses) that people say.  It displays them on a web page for later reference.  I spend time in #infoanarchy on the freenode network (freenode.org) where someone runs a chump bot whose output is visible here: http://peerfear.org/chump/
+
+A wiki is website anyone can edit.  Every page has an edit button on the bottom which anyone can press to edit the page.  They grow organically and are great for group collaboration.  Some friends and I set one up and track plan most of our group activities using it.  The most famous wiki is http://c2.com/cgi-bin/wiki?WikiWikiWeb
+
+I wanted to combine these two resources so that anything said in the IRC channel my friends and I chat in was recorded on the wiki we share.  I sat down and Perl script to do just that and it took surprisingly little time.  Yay for the HTML::Form module.  The output can be seen here: http://www.arioch.org/phpwiki/index.php/WikiChump
+
+Attached is a tarball containing that script. 
+
+`wikichump.tar.gz`_
+
+
+
+
+
+
+
+.. _wikichump.tar.gz: /unblog/UnBlog/2003-07-14?action=AttachFile&do=get&target=wikichump.tar.gz
+
+
+
+.. date: 1058158800

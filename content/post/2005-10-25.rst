@@ -1,0 +1,35 @@
+
+A Cheap and Easy Sidebar
+------------------------
+
+I hacked the MonthCalendar macro for moin moin to include some javascript which includes a sidebar built from a RSS feed.  The javascript and back-end Rebol were written by p3k.org.  The RSS feed is produced from (a subset of) my links at del.icio.us.  All in all a quick, easy addition, requiring just a little Python twiddling.
+
+Wow, this post contains almost no nouns a normal person would recognize.
+
+
+
+
+
+
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+ Hrm, the side bar stopped working because the http://p3k.org site hasn't been responding for at least 24 hours.  I wonder if/when it will come back.  If anyone notices it's returned let me know and I'll re-enable the side bar.
+
+That sort of thing is *exactly* why I don't like relying on external web services be they flickr, gmail, del.icio.us, or whatever.  I know in theory google and yahoo can keep those services running with 100% availability, and that they don't want the PR hit that elmininating them would cause, but still if you're not paying someone to store you're data you shouldn't expect it to still be there tomorrow.
+
+-------------------------
+
+ The p3k site is back up, but I switched over to using del.icio.us directly for the rendering.  I recall they used to request that you not put anything on your webpages that hits their site for every page view, but they seem to be encouraging it now.  Their `link rolling`_ seems to work that way, anyway (and works quite well, at that).
+
+
+.. _link rolling: http://del.icio.us/help/linkrolls
+
+
+.. date: 1130216400

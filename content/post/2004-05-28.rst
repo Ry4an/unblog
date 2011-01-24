@@ -1,0 +1,58 @@
+
+Filtering Mail Using Time of Day
+--------------------------------
+
+I get a lot of email, and a good percentage of it is spam.  To help filter the spam from the ham I use software called SpamAssassin (http://useast.spamassassin.org/).  SpamAssassin applies hundreds of tests to each incoming email and increases or decreases the mail's spam score depending on the result.  If the total spam score for a message is above a pre-set threshold (4.0 for me) it gets put aside.
+
+No one rule is enough to get a message marked spam or ham; rather, each contributes a little to the overall determination.  For example, here's the report for a piece of spam I recently received:
+
+
+::
+
+    pts rule name              description
+   ---- ---------------------- --------------------------------------------------
+    1.5 SPAM_SUB_ADDRS         Sent to a high spam sub address of mine
+    1.5 MY_SUB_ADDRS           Sent to a sub address of mine
+    0.0 BAYES_50               BODY: Bayesian spam probability is 50 to 56%
+                               [score: 0.5002]
+    0.6 HTML_FONT_INVISIBLE    BODY: HTML font color is same as background
+    0.3 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+    0.1 HTML_MESSAGE           BODY: HTML included in message
+    0.1 HTML_FONTCOLOR_UNSAFE  BODY: HTML font color not in safe 6x6x6 palette
+    0.1 BIZ_TLD                URI: Contains a URL in the BIZ top-level domain
+    1.1 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME parts
+
+
+Various mis-uses of HTML formatting and sending to some email addresses I reserve for spam only earned that message a score of 4.3.
+
+SpamAssassin is in common use, and its set of rules works very well. Looking at a summary of my email in the last 52 days one sees these numbers:
+
+*  Spam : 1377 (missed: 53) (0.37%)
+
+*  Virus: 207 (0.06%)
+
+*  Ham  : 2162 (0.58%)
+
+*  Total: 3746
+
+So of 1377 spam messages that came in during the 52 day span only 53 were missed by SpamAssassin -- just 3.85%.  Not bad, but there's always room for improvement.
+
+It seemd to me that the majority of the missed spam would come in overnight.  In the morning I'd have plenty of ham messages and a piece or two of spam that SpamAssassin had missed sitting in my mail.  I decided to track when spam came in to see if I could add a rule giving a higher spam score to messages arriving overnight.
+
+A little googling showed that others have done the same sort of tests and found that spam arrives evenly throughout the day.  On The Origin of Spam has some great stats available at http://db.org/spam/.   Still I gathered my own to see if they'd show the same pattern (see attached graph).
+
+I found that spam does, indeed, favor no particular hour.  However, the non-spam ham messages show pretty much the pattern you'd expect.  They largely arrive while other people in my timezone are awake.  So if I slip in a rule that gives some score bonus to emails arriving during off-peak hours I should see a decrease in that 3.85% error rate.  I'll try it out and post the results.
+
+|mailchart.png|
+
+
+
+
+
+
+
+
+.. |mailchart.png| image:: /unblog/UnBlog/2004-05-28?action=AttachFile&do=get&target=mailchart.png
+
+
+.. date: 1085720400

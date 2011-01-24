@@ -1,0 +1,53 @@
+
+Wiki History Overlay
+--------------------
+
+Wikis, like ry4an.org, are websites meant to be easily edited.  One simply clicks the edit button, changes the content, and *poof* the page is changed.  One of the most famous wikis is Wikipedia_, the free encyclopedia.  It's a wonderful resource and chocked full of information.  Unfortunately, due to its anyone-can-change-it-at-any-time freedom, some folks are hesitant to consider it a reliable reference.
+
+Wikipedia's documented accuracy is largely due to careful edit policing by interested persons.  I could go change the date of Abraham Lincoln's birthday right now, but someone monitoring the changes would detect the "vandalism" and revert the change in minutes.  Sadly, anyone viewing the Abraham_Lincoln_ page between my edit and the repair would see the wrong birthday.
+
+Wikis also have great history features.  One can look at every old version of every page, and can see the when, what, and who for every change.  That's usually enough to identify intentional vandalism. The history information, however, isn't presented with the article -- it's on a separate page.  It's easily available but it's not presented with the primary content.
+
+If, instead, the primary page text were altered to indicate where recent edits were made that data could be identified as suspect and the rest could be assumed to be well vetted.  I've done a mock-up of such a display below:
+
+|wikipedia.png|
+
+Using text background colors closer to full red to indicate new data, we can see the year has been very recently changed, a phrase in paragraph one 2nd most recently, and that the last two paragraphs were added individually and in reverse order.
+
+There are a variety of schemes one could use to color text, including:
+
+*  last three edits
+
+*  only edits made in the last week
+
+*  all edits colored by calendar age
+
+*  all edits colored by number of subsequent edits
+
+What's more, the history information could be placed around the edit portions using CSS ``span`` tags, allowing the color rendering mode to be toggled or entirely disabled by the reader while viewing.
+
+The CPU usage required to generate the history spans over the document may be quite intensive, especially, if more than just the last few edits are included.  Pre-caching and other web trickery would help. One could even make an external viewer or perhaps even a greasemonkey script to insert the spans without burdening the wiki's server as much.  External solutions for Wikipedia could use the `database dumps`_.
+
+Somewhat related: Some folks at IBM did a very cool project wherein they generated `activity graphs`_ for Wikipedia pages, but again that's on a separate page from the article, not embedded within it.  It does, though, produce some `pretty pictures`_.
+
+
+
+
+
+
+
+.. _Wikipedia: http://wikipedia.org/
+
+.. _Abraham_Lincoln: wiki:WikiPedia:Abraham Lincoln
+
+.. _database dumps: http://download.wikimedia.org/
+
+.. _activity graphs: wiki:MetaWikiPedia:IBM History flow project
+
+.. _pretty pictures: http://researchweb.watson.ibm.com/history/images/capitalism_group.gif
+
+
+.. |wikipedia.png| image:: /unblog/UnBlog/2006-01-26?action=AttachFile&do=get&target=wikipedia.png
+
+
+.. date: 1138255200

@@ -1,0 +1,33 @@
+
+Detecting Recently Used Words On the Fly
+----------------------------------------
+
+When writing I frequently find myself searching backward, either visually or using a reverse-find, to see if I've previously used the word that I've just used.  Some words, say *furthermore* for example, just can't show up more than once per paragraph or two without looking overused.
+
+I was thinking that if my editor/word-processor had a feature wherein all instances of the word I just typed were briefly highlighted it would allow me to notice awkward repeats without having to actively watch for them.  Nothing terribly intrusive, mind you, but just a quick flicker of highlight while I type.
+
+A little time spent figuring out key bindings in vim, my editor of choice, left me with this ugly looking command:
+
+
+::
+
+   inoremap <space> <esc>"zyiw:let @/=@z<cr>`.a<space>
+
+
+As a proof-of-concept, it works pretty much exactly how I described, though it breaks down a bit around punctuation and double spaces.  I'm sure someone with stronger vim-fu could iron out the kinks, but it's good enough for me for now.  Here's a mini-screenshot of the highlighting in action.
+
+|highlight.png|
+
+I'm sure the makers of real word processors, like open office, could add such a feature without much work, but maybe no one but me would ever use it.
+
+
+
+
+
+
+
+
+.. |highlight.png| image:: /unblog/UnBlog/2005-03-11?action=AttachFile&do=get&target=highlight.png
+
+
+.. date: 1110520800

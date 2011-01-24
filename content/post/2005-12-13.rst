@@ -1,0 +1,56 @@
+
+Linux on the Dell X1
+--------------------
+
+Yesterday I got the warranty replacement machine for my (company's) Dell X300 laptop.  Dell mailed me an X1_, which seems a nice enough machine.  It meets my firm criteria: under 3 lbs and thinner than an inch.  If Apple would hit those numbers I'd be there in a second.
+
+Unfortunately, it looks like getting Linux on to this thing is going to be a pain. `Emperor Linux`_ will sell an X1 with Linux pre-installed, but they want $450 to take the X1 I already "own" and put Linux on to it.  If they're not able to simply mirror a debugged installation over, that says a lot about their volume.  I value my time pretty highly, but $450 for a software install seems extreme.
+
+Fortunately there are plenty_ of_ pages_ detailing how to get Linux running on the X1.  I'll muddle through the process and attach my notes as comments.
+
+
+
+
+
+
+
+.. _X1: http://www1.us.dell.com/content/products/productdetails.aspx/latit_x1
+
+.. _Emperor Linux: http://www.emperorlinux.com/mfgr/dell/koala/
+
+.. _plenty: http://freshrpms.net/docs/x1/
+
+.. _of: http://gentoo-wiki.com/HARDWARE_Dell_Latitude_X1
+
+.. _pages: http://www.stud.ntnu.no/~gronslet/blog/linux-on-a-dell-x1-aka-samsung-q30
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+
+
+I've found that to boot Knoppix using the external optical drive I need to use this boot time invocation:
+
+
+::
+
+   knoppix fromhd=/dev/uba
+
+
+Now to try qtparted to squish down the NTFS windows partition to something reasonable.
+
+-------------------------
+
+ Using ``ntfsresize`` and ``fdisk`` I was able to squish the windows install down to 10GiB.  Now I'm just waiting for my fedora core 4 DVD to arrive for install.
+
+-------------------------
+
+ Fedora Core 4 installed from the DVD without a hitch.  I had to download the ipw2200 firmware RPM to make the wireless work.  The 855resolution utility as invoked from rc.local and tweaked in xorg.conf got the resolution notched up.  Next up... ion.
+
+
+.. date: 1134453600

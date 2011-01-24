@@ -1,0 +1,29 @@
+
+PGP Key Signing - October 23, 2003
+----------------------------------
+
+On Thursday, October 23rd, 2003 I'm hosting another PGP key signing event.  For those not familiar with the concept here's a four paragraph primer on public key cryptography:
+
+Each person in the system has two matched "keys": a public key and a private key.  A message encrypted with a public key can only be decrypted the complementary private key.  Thus public keys are distributed far and wide while private keys are carefully guarded.  When someone wants to send me a secret message they need only grab my public key from one of many freely accessible public repositories, use that key to encrypt their message, and then send the newly encrypted message to me.
+
+However, when a public key found in the wild purports to be the public key of Ry4an Brase, there's no reason to believe it necessarily is.  It could be the public key of the evil John Ashcroft on which he put my name.  That's where key signing comes in.  A key signature is an attestation that the signer knows for certain a public key belongs to whom it says it belongs.  If I sign a public key with Joe Schmoe's name on it, I'm saying that I, Ry4an Brase, know personally that Joe Schmoe issued that key.
+
+Reaching that level of certainty usually requires a face to face meeting.  If Joe Schmoe sends me his key by email I've got no way of knowing for sure that the key wasn't substituted out for another en route by a malicious entity.  Key Signing events exist so that strangers can get together and certify in person (and in the presence of photo ids, key finger prints, and other identity establishing aids) that the keys of others belong to those specific others.
+
+It's, of course, impossible to meet every person whose key you hope to use, but with every event that grows the "web of trust" it becomes more likely that someone you trust has certified a key you'd like to trust. I might not have heard directly from Joe Schmoe that key XYZ is his key, but if someone I trust has verified that key in person then I'm better able to trust key XYZ has accurate ownership information than if I found it floating in the wild with just Joe Schmoe's name on it.
+
+I last hosted an event like this in March of 2003.  I've attached an image of the resulting trust digraph with arrows indicating a signature. Hopefully this event will be even larger than the 25 keys we got last time.  Details for those interested in attending can be found at http://ry4an.org/keysigning/
+
+|trust.png|
+
+
+
+
+
+
+
+
+.. |trust.png| image:: /unblog/UnBlog/2003-09-22?action=AttachFile&do=get&target=trust.png
+
+
+.. date: 1064206800

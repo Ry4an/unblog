@@ -1,0 +1,54 @@
+
+Improving the RCA RP3711 Alarm Clock
+------------------------------------
+
+I live in a sleep deprived state.  Not just because I have a lot to do and resent sleep as the short-term death it is, but also because I enjoy the swirling colors.  Maintaining a sleep deprived state requires a good alarm clock.  When your brain knows it needs 8 hours and you're giving it 4 it's gonna fight you, and given that it's in charge of your perceived reality, it doesn't have to fight fairly.
+
+Buying a good alarm clock is an exercise in frustration.  The features advertised on the box are seldom relevant, and the most important ones are never mentioned.  In the absence of a plugged in display model one is left to read the labels on the buttons or if available a manual to try to see how the thing actually works.  Two features which cannot be omitted without ruining the clock are:
+
+*  Turning the alarm off _must_ leave it ready to go off again the next day without having to switch it back on.
+
+*  The snooze button must be much larger than the off button.
+
+The first of those two is the most important and has only really been available since microprocessors driven solid state buttons became cheaper than sliding switches.  Unfortunately I've never seen a clock box explain whether or not turning off the alarm leaves it ready for the next days horrible awakening.  Sure, this means that sometimes the alarm goes off on Saturday because I forgot to turn it off for the weekend and that my neighbors hate me when I go out of town, but until I see a clock that knows weekends from weekdays default-on is better than manual-select.
+
+The snooze button to power button ratio is nearly as important.  After my eighth snooze my brain is loudly explaining to my arm that everything would be much better if it would just "accidentally" hit the power button instead.  The arm must not be allowed plausible deniablity.
+
+Three years back I finally found a great alarm clock.  The RCA RP3711 http://www.epinions.com/content_54115470980 meets the two must-have requirements.  It also offers:
+
+*  digital radio tuning (no more having the tuner drift to silence)
+
+*  adjustable snooze time (why are most 7 or 9 minutes?)
+
+*  forward and backward motion in alarm and time setting
+
+*  battery backup
+
+*  a nice "nap timer" that chimes after 20 minutes to 2 hours without having to reset the primary alarm time
+
+It's a great clock and I intend to pick up a few as back-ups in the future.  Unfortunately, the power-off button is just a little too easy to hit.  It's not at all easy to confuse for the snooze button (it's a teal circle up top as compared to a large silver dome on the front), but it can be hit from above with a ham-fisted swat which is just a bit too easy.  For years I've corrected this by taping a small circle of plastic over-top the power button.  When I was finally willing to actually get up and turn off the clock I'd flip up the cover and then press the button -- sort of like firing missiles in a fighter jet.
+
+However, with things as busy as they've been at work lately I'm running on even less sleep than normal and Brain has been tricking Arm more reliably.  A few times as of late I've woken up hours after I should have and Brain is all, "Arm must have done it," and Arm is all, "Nope, Torso was laying on me."
+
+To fix this I decided to take apart the clock and see what could be done about making the power button harder to press.  I was envisioning adding another push button in series with the existing one necessitating the pressing both at the same time to shut it off.  If these two buttons were on opposites sides of the clock and more than a hand span apart actually waking up when turning the clock off would be almost assured. If a length of cable with two wires in it was used the power button could even be removed from the clock altogether and placed over by the door -- now that's safety.
+
+Unfortunately the little micro-switch was a surface mount component and getting it loose was going to take better soldering skills than I have. I had to settle for snipping off the plastic caps for the volume control and power switch.  Now to turn the clock off one must carefully place a finger deep into the gaping hole on the top of the clock and depress the tiny micro-switch.  Indelicate button pressing results in a miss and likely an electric shock -- that'll teach Arm to listen to Brain.
+
+
+
+
+
+
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+ When I was 10 years old, I picked up a Sony "Dream Machine" (ICF-C370). Not only does the alarm stay set, it requires pressing _two_ buttons to turn it off.  Not in succession, either, you have to press them both in the proper order - first the 'Alarm' button, and while holding that down, the 'Alarm on/off' button.  I've been using this alarm for 15 years and it's performed flawlessly.  Although I'm extremely happy with it, I find myself requiring more, as of late.  See, I'm not some gimp that requires the use of the snooze button.  My problem is that the snooze button is so large that I accidentally hit while fumbling to turn the alarm off.  Then, while I'm happily showering or something, it starts going off.  I need a way of reducing the size of the snooze button, or disabling it entirely.  Also, my clock makes annoying clicking noises if I set my phone to close to it... I'm sad that the alarm clock market sucks so bad now... I really want to find a good one -- Gabe Turner
+
+
+.. date: 1074837600

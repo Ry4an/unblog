@@ -1,0 +1,52 @@
+
+Shrimp Recycling Only
+---------------------
+
+Last November while sitting in the Atlanta airport with not much to do I saw a bank of six different trash cans.  They were in a neat row, each was in a different color, and they were all good for only one thing. People would walk up with a piece of trash and then carefully place it into whichever bin it best fit.  Is this bottle glass or plastic?  The lid is aluminum does it need to come off?  Is this a number two plastic or a number four plastic?
+
+People, actual grown adults, were sorting garbage.  If thirty years ago you had tried to tell me that in the next millennium everyone sorts garbage, you'd have failed because I wouldn't have been born yet.  But had I been born I suspect I wouldn't have believed you.
+
+Then in my boredom I had a vision, Shrimp Recycling.  I wanted nothing more that to watch the people scanning the array of recycle bins to come across one with a logo indicating that shrimp tails and only shrimp tails were to be tossed into it.  Would these automatons even notice or would they just pass it over as not-the-aluminum bin?  Would they store away the knowledge and start saving their shrimp tails for future recycling?  How the hell would you recycle a shrimp tail?
+
+I knew then I needed to make up some shrimp recycling logos I could affix to existing recycling bins in public places.  Today I finally got around to it and, well, it's pretty clear I'm not graphic designer. Still, I hope to make them into vinyl labels and see what happens.
+
+Attached is a small copy of the graphic and an archive containing the layered gimp file and an image sized for printing at 8" x 8" at 300 DPI. If I ever get around to actually making the labels and trying 'em out I'll try and post photos.
+
+|shrimp-recycling-sm.png|
+
+`shrimp-recycling.tar.gz`_
+
+
+
+
+
+
+
+.. _shrimp-recycling.tar.gz: /unblog/UnBlog/2004-01-24?action=AttachFile&do=get&target=shrimp-recycling.tar.gz
+
+
+.. |shrimp-recycling-sm.png| image:: /unblog/UnBlog/2004-01-24?action=AttachFile&do=get&target=shrimp-recycling-sm.png
+
+
+
+**Comments**
+
+
+-------------------------
+
+ Of course shrimp tails would be an excellent addition to any compost heap. There may be other compostable matter in the airport, but who cares.
+
+Your uncle,
+
+-- Jeff
+
+-------------------------
+
+ I got email from a few different folks saying that compost rather than recycling would be a better end for shrimp shells.  I would have assumed so myself too, but then some googling turned up some pages saying that seafood shells aren't good for compost as they decompose too slowly. Some sites recommended grinding them into a fine powder and using them in mulch to reduce acidity.
+
+Still, I'm mostly interested in how people would respond to shrimp recycling bins.  I suspect the majority would pass them by without surprise.  Maybe I'll place one in the row of trash cans next to the Lodge at the lakes this year and stake it out.
+
+-- Ry4an
+
+
+.. date: 1074924000

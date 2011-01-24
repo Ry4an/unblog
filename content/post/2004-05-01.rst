@@ -1,0 +1,27 @@
+
+Bookmarksync Patch for Tab-Group Bookmarks
+------------------------------------------
+
+I use the Mozilla web browser on a few different machines, and its lack of roaming profiles/bookmarks is a source of annoyance.  When I bookmark a site on my laptop, I want that bookmark to be available on my desktop machine.  In order to achieve that I use a kludgy network of scripts, CVS, crontab entries, and the bookmarksync application.
+
+Bookmarksync (http://sourceforge.net/projects/booksync/) is a tiny little program that takes as input two different bookmark files and outputs the combination of the two.  It works just fine in all respects, except that it converts tab-group bookmarks into bookmark folders.
+
+Mozilla has tabbed browsing which means one can have multiple pages open in the same window at once with little index tabs for each.  Mozilla also has a feature wherein one can open more than one window and then bookmark the entire set of tabs.  Selecting that bookmark in the future will open all the pages that were open when the tab set was bookmarked. I mostly use the feature to keep a bookmark group of all the news sites I read daily.  When I select that bookmark twenty tabs spring open, and I just close each one as I read finish reading it.
+
+Bookmarksync (v0.3.3) doesn't know about tab-group bookmarks and instead converts them to just folders full of individual bookmarks.  I fired up my C skills for the first time in a very long while and hacked support for bookmark tabs in.  I've no idea if I did it well or not, but it works now and that's all that matters to me.
+
+Attached is the patch file and README which was submitted to the project.
+
+`foldergroup-patch--bookmarksync-0.3.3.tar.gz`_
+
+
+
+
+
+
+
+.. _foldergroup-patch--bookmarksync-0.3.3.tar.gz: /unblog/UnBlog/2004-05-01?action=AttachFile&do=get&target=foldergroup-patch--bookmarksync-0.3.3.tar.gz
+
+
+
+.. date: 1083387600

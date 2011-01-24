@@ -1,0 +1,27 @@
+
+Non-Linear Time Display
+-----------------------
+
+A few years back I was working in an office where my workspace was so noisy I kept slipping away to find quieter places in the building to work whenever I has a task which could be completed away from my desk. To avoid looking perpetually absent I wrote a quick script that would display (if available) the contents of a file named I-AM-AT and the how long it had been since I'd last pressed a key.
+
+I fed this simple text output through the xscreensaver (http://www.jwz.org/xscreensaver/) application's phosphor (|phosphor|) screen saver which displays text as if were showing up on an ancient monochrome monitor.
+
+The end result being anyone could walk by my desk, see where I was, and how long it had been since I'd left.  It worked really well, as as an extra benefit those who came in at 6am could see I'd often left just 3 hours previous which quieted grumbles when I'd arrive at 9:30 or 10:00.
+
+The problem started when I began running over lunch again.  I'd walk home (15 minutes), run (30 minutes), shower and change (10 minutes), and walk back to the office (15 minutes) -- totalling 70 minutes, a bit more than the 60 minutes everyone generally took for lunch.  My taking an extra 10 minutes every day over lunch wouldn't have been a problem really.  Times weren't carefully watched, and everyone (by now) knew I often stayed really late, but still having my own computer advertising that I'd been at lunch for 1:10 just didn't look good.
+
+I decided the fix was to have the time reporting on the display not quite, exactly, correspond with real linear time.  The fudge factor, though, couldn't just be "subtract 10 minutes".  Doing so would mean that initially it would say I'd been gone for negative 10 minutes, definitely a tip off that something wasn't quite accurate.  Also to be avoided were any sudden changes in the time.  If "gone for 7 minutes" was still visible scrolling off the screen and "gone for 9 minutes" or worse yet "gone for 5 minutes" was replacing it, the game would be up.
+
+I ended up going with a system of strictly linear time for the first 45 minutes of any absence, at which point the rate of time passage would slow and then return to normal gradually (sinusoidally, actually) until at the 1 hour 15 minute mark it was displaying just 1 hour elapsed and time was running at the right rate again.  Then an hour later the process would be reversed with a speed up followed by a slow down that would have time back on track after 2 hours 15 minutes total elapsed real time.  This kept my overnight elapsed time reporting accurate while keeping my daily runs to about 57 displayed minutes.
+
+
+
+
+
+
+
+
+.. |phosphor| image:: http://www.jwz.org/xscreensaver/phosphor.gif
+
+
+.. date: 1076392800

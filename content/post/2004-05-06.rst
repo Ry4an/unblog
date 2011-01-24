@@ -1,0 +1,25 @@
+
+Diplomacy at Sea and a Templated Evolver
+----------------------------------------
+
+I've got a policy here on the unblog where I only do entries about things I've created.  When I wanted to hype the Diplomacy at Sea V/Dip Con event coming up March 2005 I had to find something to do with it first, so I volunteered to set up their website.
+
+Whenever I need to set up a quick site I head over to the Open Source Web Design site (http://oswd.org/) and pick from their vast array of great designs.  This time I went with one called Evolver.  It has a clean look and clean code.  Rialto did a great job of synthesis and design on this one.
+
+In order to avoid having to edit every page in a site when I want to update a footer or navigation bar I often use Apache's Server Side Includes (SSI) to pull in elements that are on the same on every page. This time I decided to go a step further and see if I could use a single .shtml page for every page on the site.  It ended up working out in a fashion sufficiently general to be worth re-distributing.
+
+The outcome can be seen on the http://ry4an.org/dipatsea/ site, though it looks just like Rialto's original design.  Attached is a zip-file containing the templatized page and a few paragraphs detailing the necessary symlinks.  You'll have to enable .shtml SSIs in your Apache install, of course.
+
+`evolver-template.zip`_
+
+
+
+
+
+
+
+.. _evolver-template.zip: /unblog/UnBlog/2004-05-06?action=AttachFile&do=get&target=evolver-template.zip
+
+
+
+.. date: 1083819600

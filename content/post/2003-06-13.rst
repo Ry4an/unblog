@@ -1,0 +1,31 @@
+
+Surveillance Camera Reporting
+-----------------------------
+
+I got the surveillance camera location reporting stuff working tonight. It's amazing how easy Perl's CGI.pm can make stupid little web input forms.  I'm sure I'll think of some other fields that I want in the data before this thing goes live, but for now this should do nicely: http://ry4an.org/surveillance/report/
+
+The map I'm using is nice, but doesn't include all of downtown, and I still haven't heard back from its creators about getting permission to use it.  Since I might have to change maps in the future (or might want to expand project scope) I'm hoping to store the camera locations as GPS coordinates rather than as useless pixel locations.
+
+Toward that end I walked to the four corners of the map tonight while taking GPS readings.  I'll import the data later and see if the map is to scale in addition to being aesthetically pleasing.  If it is, extracting latitude and longitude data will be a snap given that the spherical nature of the earth can be ignored for areas a small as downtown Minneapolis.  If it's not, I'll probably have to find a new map before too many cameras get entered.  
+
+Next steps are:
+
+1. Coming up with a decent data storage format
+
+#. Writing rending code to display the camera data
+
+#. Making the website attractive and filled with text
+
+#. Begging my friends to help me inventory cameras
+
+None of those should be terribly hard.  Who knows within a month or so this might actually be a project worth looking at.
+
+
+
+
+
+
+
+
+
+.. date: 1055480400

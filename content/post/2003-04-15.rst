@@ -1,0 +1,19 @@
+
+Perseverance as Measured with Google Hits
+-----------------------------------------
+
+I was eating outside a few weeks ago and saw a sign for the 2nd Annual Cabanna Boy Contest at a local bar. I wisely decided not to enter the contest, but then started to wonder if they had called their first one the 1st Annual Cabanna Boy Contest. That's pretty optimistic. I then started wondering how likely it is that a 1st Annual leads to a 2nd Annual to a 3rd Annual. Being a modern geek I figured google would know the answer if I asked right.
+
+I searched for each each of "1st annual", "2nd annual", "3rd annual" though "15th annual", the cardinal numbers, and "first annual", "second annual", "third annual" through "fifteenth annual", the ordinal numbers, and recorded the hit count for each. The raw data when plotted looks can be found here: http://ry4an.org/perseverance/
+
+While years (x) is >= 2 it looks like an asymptote headed toward zero.  Something in the y = N/x form give or take a translation.  It wouldn't be too hard to find a fit curve, but that'd be too geeky even for me.
+
+
+
+
+
+
+
+
+
+.. date: 1050382800

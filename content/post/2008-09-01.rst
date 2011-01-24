@@ -1,0 +1,38 @@
+
+Grand Central Direct Dialer
+---------------------------
+
+I'm a huge fan of `Grand Central`_'s call screening features.  It's irksome, however, that they make it hard to dial outward -- sending your GC number instead of your cell number as the caller id.  To do so you need to first add the target number to your address book, and often I'm calling someone I don't intend to call again often.
+
+I started scripting up a way around that when I saw someone named Stewart `already had`_.
+
+I wanted to be able to easily dial outbound from my cellphone, so I created a `mobile friendly web form`_ around his script. The script requires info you should never give out (username, password, etc.), so you should really `download the script`_ and run it on your own webserver.
+
+It also generates a bookmarklet you can drag to your browser's toolbar that will automatically dial any selected/highlighted phone number from your GC Number. 
+
+
+
+
+
+
+
+.. _Grand Central: http://grandcentral.com
+
+.. _already had: http://groups.google.com/group/grandcentral-help-poweruser/msg/cd920e04d8a70de0
+
+.. _mobile friendly web form: http://ry4an.org/gcdial
+
+.. _download the script: /unblog/UnBlog/2008-09-01?action=AttachFile&do=get&target=gcdial.pl
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+ Only to save someone else the time: The iPhone app, Grand Dialer, does the same thing from an iPhone.  Everyone says it's excellent.
+
+
+.. date: 1220245200

@@ -1,0 +1,29 @@
+
+Referrer-Aware, HTML-Rewriting, Caching Web Server
+--------------------------------------------------
+
+There are no new ideas in the message, I just don't know if the existing components have been previously combined in the way I'm proposing.  If they have been I couldn't find anyone talking about it.  Anyway...
+
+Most websites live forever in obscurity getting a few hundred hits a day at best.  However, if that same website gets linked to from a popular super-recommender like slashdot.org or boing-boing.net the hits can jump from 100s per days to 100s per minute.  This phenomenon is called the slashdot effect (http://en.wikipedia.org/wiki/Slashdot_effect).  On a server built with a low hit volume in mind it's pretty devastating, generally resulting in complete denial of service.
+
+There are, however, things people can do to mitigate the effects of the slashdot effect -- besides buying a beefier server.  One of the most effective is to take the specific page to which slashdot has posted a link and create a lighter version of it.  One makes a copy with fewer images, less text, no extra boxes, headers, footers, etc.  If initially the page was dynamically generated (created on the fly on a per-request basis) a static copy is made that views the same for everyone.  Serving up this static, lite version imposes less CPU load on the server and reduces bandwidth consumption.
+
+Sites that do this often configure their web servers so that visitors coming from slashdot get the lite version of the content while those coming from anywhere else get the full page as normally displayed.  This is possible because all web browsers send a Referrer: header specifying from whence they just came.
+
+Another strategy employed by many sites with non-user-specific dynamic content is the caching of dynamically generated content as static pages. These cached static pages are re-validated periodically.  Doing this form of caching reduces CPU load on servers.  In fact, slashdot actually caches its own front page rather than dynamically-generating it on each page view for non-logged-in users (those not viewing a personalized copy of the front page).  These dynamic-as-static caches don't, however, re-write the HTML to make it lighter, thus they reduce CPU load (by generating the pages less frequently) but not bandwidth (as all the same data is transferred).
+
+I would think that with a little configuration work, scripting, and maybe a custom Apache (web server) module one could combine and automatic referrer detection, lite version creation, and dynamic content caching to produce a site that in general usage does no caching or content-rewriting (as they're generally unnecessary for small sites), but if and only if the referrer on a request came from a super-recommender would automatically create, cache, and use a lite version of the requested content.
+
+Setting up a referrer specific, auto-caching, auto-rewriting system like this would be better than manually creating a lite version and inserting a referrer-based redirection rule after one's been slashdotted, because the sudden and fleeting nature of a slashdotting provides no warning and ends shortly after.  Heck, if the slashdotting drops one's server to its knees one might not even be able to get into it to insert the "redirect to a light version by referrer" logic manually.
+
+If I ever get around to putting such a backup system on my web server I'll post how I ended up doing it.  Then again, first I'd have to do something interesting enough to get slashdotted.
+
+
+
+
+
+
+
+
+
+.. date: 1076479200

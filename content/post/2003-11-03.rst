@@ -1,0 +1,35 @@
+
+The Flaming Moe
+---------------
+
+For the last three years Cari, Bridget, Joe and I have co-hosted a Halloween party at Cari's and my place.  Every year I man the bar because I enjoy doing so and like the chance to talk to everyone periodically over the course of the night.  This year I decided to turn the role into my costume and dressed as Moe Szyslak, the bartender from The Simpsons.
+
+In one particularly good third season episode, titled "Flaming Moe" (http://www.snpp.com/episodes/8F08.html), Moe finds great success serving a drink whose recipe was stolen from Homer.  The drink, which Moe calls the Flaming Moe, includes as its secret ingredient Krusty Brand non-narkotik cough syrup and erupts into quickly retreating pillar of flame when lit.  I figured if I was gonna do Moe I had to make that drink.
+
+I started with the drink base and after many failed attempts to make that was (1) classy, (2) tasty, and (3) grape, I gave up on the first two and just went with grape kool-aid, grape pucker schnapps, and triple sec.  It was palatable.  After pouring that base in from a pitcher I'd then add just a little "cough syrup" (grape sugar syrup) from a re-labeled nyQuil bottle.
+
+For the column of fire effect I'd place the drink in front of a tea light I had sitting on the bar, and would then use a salt shaker to sprinkle from above a cascade of non-dairy creamer onto the candle. When I got the concentration just right (too much and you extinguish the candle, too little and nothing happens) the non-dairy creamer would flare up in a foot tall fireball which looked for all the world like it was coming out of the glass.  Unfortunately it only worked about one in ten times.
+
+Below is a photo of the tail-end of one of the flare ups, and the illusion isn't bad.  Thanks to Jan Creaser for the photo.  Also attached is a small image of the label and an archive containing a full-size version printable at 300dpi for bottle modification.
+
+|flaming_Mo.jpg|
+
+|label.png|
+
+`flaming-moes.tar.gz`_
+
+
+
+
+
+
+
+.. _flaming-moes.tar.gz: /unblog/UnBlog/2003-11-03?action=AttachFile&do=get&target=flaming-moes.tar.gz
+
+
+.. |label.png| image:: /unblog/UnBlog/2003-11-03?action=AttachFile&do=get&target=label.png
+
+.. |flaming_Mo.jpg| image:: /unblog/UnBlog/2003-11-03?action=AttachFile&do=get&target=flaming_Mo.jpg
+
+
+.. date: 1067839200

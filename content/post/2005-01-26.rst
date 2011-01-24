@@ -1,0 +1,31 @@
+
+Jetty with Large File Support
+-----------------------------
+
+Jetty_ is a great Java servlet container and web server.  It's fully embeddable and at OnionNetworks we've used it in many of our products.  It, however, has the same `2GiB file size limit`_ that a lot of software does.  This limit comes from using a 32 bit wide value to store file size yeilding a 4GiB (unsigned) or 2GiB (signed) maximum, and represents a real design gaff on the part of the developers.
+
+Here at OnionNetworks we needed that limit eliminated so last year I twiddled the fields and modified the accessors wherever necessary.  After `initially offering a fix`_ and `eventually posting the fix`_ it looks like Greg is `getting ready to include it`_ thanks in part `to external pressure`_.  Now if only Sun would fix `the root of the problem`_.
+
+
+
+
+
+
+
+.. _Jetty: http://jetty.mortbay.org/jetty/index.html
+
+.. _2GiB file size limit: http://justin.chapweske.com/archives/000016.html
+
+.. _initially offering a fix: http://article.gmane.org/gmane.comp.java.jetty.general/4495
+
+.. _eventually posting the fix: http://article.gmane.org/gmane.comp.java.jetty.general/4740
+
+.. _getting ready to include it: http://article.gmane.org/gmane.comp.java.jetty.general/5371
+
+.. _to external pressure: http://article.gmane.org/gmane.comp.java.jetty.general/5365
+
+.. _the root of the problem: http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4187336
+
+
+
+.. date: 1106719200

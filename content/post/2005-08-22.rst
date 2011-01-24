@@ -1,0 +1,35 @@
+
+Vodka Fruit Infusion
+--------------------
+
+A few months back Kate Bauer and I hosted a BBQ at her place.  I wanted to try putting together a fruit and vodka infusion of the sort I'd previously seen at bars.
+
+Kate bought a bunch of fresh fruit and I picked up the vodka (Svedka_, the best vodka for the dollar, and damn near the best at any price).  We used the same glass container from Pier One I purchased to house pickled eggs for my Moe the bartender Halloween costume a few years back.  The infusion came out great, but we learned a few things along the way:
+
+*  Pineapple is a great filler
+
+*  Strawberries lose their color and look pale and sad
+
+*  Kiwi sticks to the glass
+
+*  Decant some into a pitcher for easy pouring
+
+Initially we set up a complicated siphon and valve system which worked well enough, but scared people away.  Once we decanted the vodka off the drink really went quickly.
+
+As one would expect the final product tasted like candy, but had the potency of hard liquor -- yikes.
+
+|vodka-infusion.jpg|
+
+
+
+
+
+
+
+.. _Svedka: http://www.svedka.com/
+
+
+.. |vodka-infusion.jpg| image:: /unblog/UnBlog/2005-08-22?action=AttachFile&do=get&target=vodka-infusion.jpg
+
+
+.. date: 1124686800

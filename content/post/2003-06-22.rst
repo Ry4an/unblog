@@ -1,0 +1,27 @@
+
+Mailman Non-Subscriber Message Auto-Rejector
+--------------------------------------------
+
+I run a lot of mailing lists on mailman, http://www.list.org/, servers. Most all of these lists are configured so that only list subscribers are allowed to post messages.  I do this because these lists get a lot of spam messages that I don't want to get through to all subscribers.
+
+Unfortunately, when a non-subscriber posts they're not automatically rebuffed, but instead I, as the mailing list administrator, get an email asking if I want to approve their message anyway.  If I don't answer that question I get get a reminder every 24 hours.  The reminders can be turned off, but there are some of mailman's questions that I do want to have brought to my attention (ex: subscribed posters who have exceeded maximum message size, etc.).
+
+What I wanted was a way to configure a mailman list so that non-subscribers get a message explaining why their post isn't being accepted without me having to go click 'reject' on a web form.  I started to add this feature to mailman, but that wouldn't really wouldn't help.  I can't get source forge or my company to upgrade to the newest version of mailman even if my features gets accepted, and those are my lists that get the most spam.
+
+Instead, I wrote a filter that catches email indicating a non-subscriber user has posted to a list and automatically goes and clicks 'reject' on their message.  I've got the auto-clicker coded up pretty carefully such that any pending requests that aren't non-subscriber posts won't get auto-rejected.  Also, if there's any sort of error in the process the initial notification message is allowed through.
+
+The whole thing fits into a nice tidy Perl script.  It's invoked via procmail and requires the excellent LWP suite of modules available from CPAN.  The script is attached.
+
+`mailman-auto-reject.pl`_
+
+
+
+
+
+
+
+.. _mailman-auto-reject.pl: /unblog/UnBlog/2003-06-22?action=AttachFile&do=get&target=mailman-auto-reject.pl
+
+
+
+.. date: 1056258000

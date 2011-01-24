@@ -1,0 +1,44 @@
+
+Jump to New Feeds in Amphetadesk
+--------------------------------
+
+Amphetadesk (http://www.disobey.com/amphetadesk/) is a great RSS feed reader.  I use it to track 20 or so different news sources a day. However, I mostly subscribe to feeds that include copious content, and once I determine there are no new entries on a feed I still have to scroll down fifteen screens worth of old content to see the top of the next feed.
+
+To speed the process I make a quick 5 minute template hack that provides a "jump to next" link in the title banner of each entry and a   corresponding anchor in each title.  Since the jump link is always in the same place relative to the start of each new feed listing, I'm able leave the mouse in one place and check the top of each feed w/ just a series of clicks.  Like I said handy, but trivial.
+
+Attached is the diff for index.html to add this little hack.  I created an ugly 13x13 next.gif in the icons directory which is also attached.
+
+|next.gif|
+
+`index.html.diff.gz`_
+
+
+
+
+
+
+
+.. _index.html.diff.gz: /unblog/UnBlog/2003-04-17?action=AttachFile&do=get&target=index.html.diff.gz
+
+
+.. |next.gif| image:: /unblog/UnBlog/2003-04-17?action=AttachFile&do=get&target=next.gif
+
+
+
+**Comments**
+
+
+-------------------------
+
+ Why not just have AmpDesk display most recent first?  This is how News Monster (http://www.newsmonster.org) sorts your news by default.  I lick it. -- Gabe Turner
+
+-------------------------
+
+ Yeah, I never understood any Amphetadesk doesn't do that.  So nearly as I can tell it sorts by "most recently polled first" without paying attention to whether or not a change happened on that poll.   I'm running an older version, and it might be better in newer version. -- Ry4an
+
+-------------------------
+
+ Now if only Morbus would keep working on Amphetadesk and fix this problem. I really want to be able to delete weblog posts. -- Luke Francl
+
+
+.. date: 1050555600

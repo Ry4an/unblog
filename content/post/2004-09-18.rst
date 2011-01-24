@@ -1,0 +1,31 @@
+
+Mail To Wiki Gateway
+--------------------
+
+I wanted a way to quickly append text to Moin Moin wikis.  I wrote a Perl script to do just that.  It relies on the email address suffix features available in most modern MTAs to get the page name.
+
+Once the procmail recipe included in the accompanying procmail.rc file is in place for the user 'wiki' email sent to `wiki-TextHere@somewhere.com`_ will be appended to the TextHere wiki page.
+
+I cheaped out on the formatting and just put the text inside literal/pre blocksblocks.  The subject line and from header are retained and displayed.
+
+By default the posts are done under no user, but the included makecookie.pl can be used to create a cookie file that the script will use to persist a wiki login (I tend to use EmailGateway).
+
+`mail2wiki.zip`_
+
+It looks like there's been some updating and porting discussion of this script at `ScriptMarket/EmailToWikiGateway`_
+
+
+
+
+
+
+
+.. _wiki-TextHere@somewhere.com: mailto:wiki-TextHere@somewhere.com
+
+.. _mail2wiki.zip: /unblog/UnBlog/2004-09-18?action=AttachFile&do=get&target=mail2wiki.zip
+
+.. _ScriptMarket/EmailToWikiGateway: wiki:MoinMoin:ScriptMarket/EmailToWikiGateway
+
+
+
+.. date: 1095483600

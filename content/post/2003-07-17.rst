@@ -1,0 +1,47 @@
+
+Email Response Times
+--------------------
+
+I get and send a lot of email.  Many of the emails I send are responses to emails I received.  When I respond to email I almost always quote the email to which I'm responding, and when I do my email client (mutt) inserts a line like:
+
+  On Thu, Jan 02, 2003 at 11:40:25AM -0600, Justin Chapweske wrote:
+
+Knowing the time of the original message and the time of my reply provides enough information to track my response times to email.  I used the inbound message ids to make sure only the first reply to an email was counted.
+
+I whipped up a little Perl script to extract some stats and create a histogram.  The script and histogram are attached.  Here are some of the stats I found:
+
+*  Of the 1888 emails I've sent during calendar 2003 thus far 1128 of them were replies
+
+*  My five most common response times in minutes were:
+
+  *  two minutes: 59 times
+
+  *  four minutes: 45 times
+
+  *  one minute: 44 times
+
+  *  three minutes: 41 times
+
+  *  seven minutes: 33 times
+
+*  My mean response times was 20.3 hours.
+
+*  My longest response time was 386 days to some guy from whom I want tobuy a domain.
+
+|email-response-times.png|
+
+`responsetime.pl.gz`_
+
+
+
+
+
+
+
+.. _responsetime.pl.gz: /unblog/UnBlog/2003-07-17?action=AttachFile&do=get&target=responsetime.pl.gz
+
+
+.. |email-response-times.png| image:: /unblog/UnBlog/2003-07-17?action=AttachFile&do=get&target=email-response-times.png
+
+
+.. date: 1058418000

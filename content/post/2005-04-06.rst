@@ -1,0 +1,27 @@
+
+Adopt a Vegetarian
+------------------
+
+I was just digging through some old files, and I came across my first web pages. They were hand written HTML done in late 1995.  Among the worst of them design-wise was my 'Adopt a Vegetarian' page.  It was a joke started in October 1995 wherein non-vegetarians would "adopt" vegetarians and agree to eat twice as much meat, so as to balance the vegetarian out.
+
+The Adopt a Vegetarian website was up before most of the world had even heard of the web, and certainly before folks learned not to take anything on-line too seriously.  The volume of vitriolic hate mail I got was amazing.  I wish I'd have saved them.  The site existed during the period when the mainstream press was writing a lot of "gee whiz, look at this crazy website" articles.  I ended up getting written about in a few different publications including `Der Spiegel`_ (wikipedia_), which I've got clipped and stored somewhere.
+
+Anyway, I re-rendered the site for the first time in ages, and here's a screen shot to that monument of bad taste in both design and humor.
+
+|adoptaveggie.gif|
+
+
+
+
+
+
+
+.. _Der Spiegel: http://www.spiegel.de/
+
+.. _wikipedia: wiki:WikiPedia:Der Spiegel
+
+
+.. |adoptaveggie.gif| image:: /unblog/UnBlog/2005-04-06?action=AttachFile&do=get&target=adoptaveggie.gif
+
+
+.. date: 1112763600

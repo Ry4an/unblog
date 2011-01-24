@@ -1,0 +1,31 @@
+
+Approval Voting for the ACM
+---------------------------
+
+`Approval voting`_ is an alternate voting system  that has many_ benefits_ `as compared to`_ `Instant Run-Off Voting`_.  For years I've been running the on-line officer elections for the `local campus chapter`_ of the `Association of Computing Machinery`_.  Last year I talked them into switching to approval voting (even though it probably violates their  charter), and it worked really well.  Their elections have kicked off again, and once again `I'm hosting them and using my voting script`_.
+
+
+
+
+
+
+
+.. _Approval voting: wiki:WikiPedia:Approval voting
+
+.. _many: http://www.approvalvoting.com/
+
+.. _benefits: http://www.aaronsw.com/weblog/001168
+
+.. _as compared to: http://electionmethods.org/IRVproblems.htm
+
+.. _Instant Run-Off Voting: wiki:WikiPedia:Instant-runoff voting
+
+.. _local campus chapter: http://acm.cs.umn.edu/
+
+.. _Association of Computing Machinery: http://acm.org/
+
+.. _I'm hosting them and using my voting script: http://sarinity.com/
+
+
+
+.. date: 1111384800

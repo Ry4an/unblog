@@ -1,0 +1,11 @@
+
+Text to Speech Tuning with a Polygraph
+======================================
+
+Text to speech programs do okay on words they know, but on longer words not in their 'dictionary' they have to sound them out phonetically which seems to be a really hit or miss operation.  I wonder if one could hook up text to speech software and a polygraph sensor together to monitor the listeners reaction to the words being read.
+
+I know I cringe when I hear something mis-pronounced and surely something in my mental wince is externally measurable.  If the software detected a negative reaction to the way it pronounced a word it could try an alternate pronunciation the next time.  Granted it would be a highly iterative process -- requiring many listeners for a each text sample so that the most-favorable response for each word can be found, but how many people listened to Harry Potter as a book on tape.
+
+I suppose that portions of the text cause a negative response anyway (bad happenings for the protagonist, etc.) would have to be ignored or treated differently, but still maybe there's something do able there. At any rate, it has to be better than reading the whole dictionary into a computer.
+
+.. date: 1050296400

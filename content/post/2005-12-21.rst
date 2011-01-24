@@ -1,0 +1,161 @@
+
+Improving Nick Tracking using String Similarity
+-----------------------------------------------
+
+Years back I `wrote an IRC nick tracking script`_.  It's served me well since then, but it has one major annoyance.  When people changed their name slightly it would remember that name change, even though the old/new mapping didn't contain any real identity change information.
+
+For example, when ``Gabe_`` became ``Gabe`` it would display every message from him as ``<Gabe_(Gabe)>``.  That doesn't tell me anything interesting about who ``Gabe`` is.
+
+I decided to tweak the tracker to ignore *small* changes in names. Computers don't think in terms like *small* they need a way to quantify difference and then see if it exceeds a specified threshold. Fortunately, lots of people have worked on just that problem -- mostly so that spell checkers can present you with a list that's close to the non-word you typed.
+
+When I've worked with *close enough* strings in the past I've used the Levenshtein_distance_ as implemented in the `String::Approx`_ module or the ancient Soundex_ algorithm.  This time, however, I tried out the `String::Trigram`_ module as written by Tarek Ahmed, which implements the method proposed by Angell in `this paper`_. Here's an explanation from ``String::Trigram``'s README file:
+
+
+::
+
+   This consists of splitting some string into triples of
+   characters and comparing those to the trigrams of some other string. For
+   example the string kangaroo has the trigrams "{kan ang nga gar aro
+   roo}". A wrongly typed kanagaroo has the trigrams "{kan ana nag aga gar
+   aro roo}". To compute the similarity we divide the number of matching
+   trigrams (tokens not types) by the number of all trigrams (types not
+   tokens). For our example this means dividing 4 / 9 resulting in 0.44.
+
+
+Thus far, at a 50% match threshold it's never failed to detect a real change or ignore a minor-change, and if it does I should just be able to notch the match-threshold higher or lower.  Great stuff.
+
+The modified script can be `viewed here`_ and `downloaded here`_.
+
+
+
+
+
+
+
+.. _wrote an IRC nick tracking script: ../2003-10-03
+
+.. _Levenshtein_distance: wiki:WikiPedia:Levenshtein distance
+
+.. _`String::Approx`: http://search.cpan.org/dist/String-Approx/
+
+.. _Soundex: wiki:WikiPedia:Soundex
+
+.. _`String::Trigram`: http://search.cpan.org/dist/String-Trigram/
+
+.. _this paper: http://scholar.google.com/scholar?q=%22Angell%22+%22Automatic+spelling+correction%22
+
+.. _viewed here: /unblog/UnBlog/2005-12-21?action=AttachFile&do=get&target=nick-track.pl.html
+
+.. _downloaded here: /unblog/UnBlog/2005-12-21?action=AttachFile&do=get&target=nick-track-1.1.tar.gz
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+ If you wanted to only track nick changes in certain channels you'd add code line this at line 86:
+
+
+::
+
+   return unless grep /^$chan$/, qw(#channelone #channeltwo #channel3);
+
+
+-------------------------
+
+ I've modified 1.1 with a new /function, trackchan, that allows one to manage a list of channels where they want nick tracking to take place.  If the list is empty, tracking will be done in all channels.  The following is a unified diff.
+
+What it **doesn't** do:
+
+1. Check to make sure that the channel you're passing in actually conforms to any standard channel naming conventions.
+
+#. Check to see if the channel already exists in the list before trying to remove it (though thanks to it just being a simple grep, no errors is returned in any case).
+
+#.  Check to see if you're adding a duplicate channel to the list (feel free, it doesn't affect the functionality one bit).
+
+#. Have an option for printing the channel list.  I think I will modify it to just print the channel list in addition to the usage if /trackchan is called with no arguments.
+
+-- Gabe
+
+
+::
+
+   --- nick-track.pl.orig  Thu Dec 22 10:37:34 2005
+   +++ nick-track.pl.trackchan     Thu Dec 22 14:50:30 2005
+   @@ -22,7 +22,7 @@
+    use Irssi;
+    use strict;
+    use String::Trigram;
+   -use vars qw($VERSION %IRSSI %MAP);
+   +use vars qw($VERSION %IRSSI %MAP @CHANNELS);
+
+    $VERSION = "1.1";
+    %IRSSI = (
+   @@ -47,6 +47,7 @@
+        'Asrael' => 'Sammi',
+        'Cordelia' => 'Sammi',
+    );
+   +@CHANNELS = qw();
+
+    sub call_cmd {
+        my ($data, $server, $witem) = @_;
+   @@ -84,6 +85,13 @@
+        my ($chan, $nick_rec, $old_nick) = @_;
+        my $nick = $nick_rec->{'nick'};
+
+   +    # If channel list is empty, track for all channels.
+   +    # If channel list is non-empty, track only for channels in list.
+   +    my $channels = @CHANNELS;
+   +    if ($channels > 0) {
+   +       return unless grep /^$chan$/, @CHANNELS;
+   +    }
+   +
+        if (defined $MAP{$old_nick}) {  # if a previous mappings exists
+            if (String::Trigram::compare($nick, $MAP{$old_nick},
+                    warp => 1.8,
+   @@ -101,6 +109,34 @@
+            }
+        }
+    }
+   +
+   +sub trackchan_cmd {
+   +    my ($data, $server, $witem) = @_;
+   +    my ($cmd, $channel) = split ' ', $data;
+   +    my @cmds = qw(add del);
+   +
+   +    unless (defined $cmd && defined $channel && map($cmd, @cmds)) {
+   +        print "Usage: /trackchan [add|del] #channel";
+   +        return;
+   +    }
+   +
+   +    if ($cmd eq 'add') {
+   +        push @CHANNELS, $channel;
+   +        print "$channel added to channel list";
+   +    }
+   +
+   +    if ($cmd eq 'del') {
+   +        @CHANNELS = grep(!/^$channel$/, @CHANNELS);
+   +        print "$channel removed from channel list";
+   +    }
+   +
+   +    print "Current channel list:";
+   +    foreach my $channel (@CHANNELS) {
+   +        print "    $channel";
+   +    }
+   +}
+   +
+   +Irssi::command_bind trackchan => \&trackchan_cmd;
+
+    Irssi::signal_add("message public", \&rewrite);
+    Irssi::signal_add("nicklist changed", \&nick_change);
+
+
+-------------------------
+
+ Thanks, Dopp, great stuff! -- Ry4an
+
+
+.. date: 1135144800

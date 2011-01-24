@@ -1,0 +1,31 @@
+
+Shades of Coke Blind Taste Test
+-------------------------------
+
+On Sunday Kate Bauer and I ran and participated in a double blind random taste test of the various shades of Coca-Cola.  Into numbered glasses Kate poured the samples from bottles whose labels I'd replaced with lettered labels.  The samples we included were:
+
+*  Coke
+
+*  Diet Coke
+
+*  Diet Coke with Splenda
+
+*  Coke C2 (already hard to find!)
+
+*  Coke Zero
+
+Kate was 3 for 5 with only Coke and C2 transposed.  I got only one of them right (everyone knows the gasoline flavor of Diet Coke).  From this we can conclude that either Kate's got a much better palate than I do or that she drinks a lot of Coke when I'm not looking.
+
+|coke-taste-test.jpg|
+
+
+
+
+
+
+
+
+.. |coke-taste-test.jpg| image:: /unblog/UnBlog/2005-07-12?action=AttachFile&do=get&target=coke-taste-test.jpg
+
+
+.. date: 1121144400

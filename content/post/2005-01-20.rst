@@ -1,0 +1,49 @@
+
+2004 Email Response Patterns
+----------------------------
+
+`Back in 2003`_ I started tracking some numbers on my email use patterns, especially related to replies.  I ran those old scripts on my 2004 mail and the numbers look pretty similar:
+
+*  Of the 3236 emails I sent during 2004, 2094 of them were replies
+
+*  My five most common response times in minutes were:
+
+  *  ten minutes: 40 times
+
+  *  thireen minutes: 36 times
+
+  *  sixteen minutes: 36 times
+
+  *  twelve minutes: 35 times
+
+  *  eleven minutes: 33 times
+
+*  My mean response times was 22.36 minutes
+
+*  My longest response time was 58.4 days.
+
+The only really meaningful number there is the median response time and comparing it to 2003, I'm a lot faster in general.
+
+My email volume by year is:
+
+[Table not converted]
+
+Looking at that table it's pretty easy to tell when I started working from home again.
+
+Here's the histogram for 2004:
+
+|email-response-times.png|
+
+
+
+
+
+
+
+.. _Back in 2003: ../2003-07-17
+
+
+.. |email-response-times.png| image:: /unblog/UnBlog/2005-01-20?action=AttachFile&do=get&target=email-response-times.png
+
+
+.. date: 1106200800

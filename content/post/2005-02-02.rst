@@ -1,0 +1,37 @@
+
+Better Random Subject Lines
+---------------------------
+
+Earlier_ I talked about generating random Subject lines for emails.  I settled on something that looked like  ``Subject: Your email (1024)`` .  Those were fine, but got dull quickly.  By switching the procmail rules to look like:
+
+
+::
+
+   :0 fhw
+   * ^Subject:[\ ]*$
+   |formail -i "Subject: RANDOM: $(fortune -n 65 -s | perl -pe 's/\s+/ /g')"
+
+   :0 fhw
+   * !^Subject:
+   |formail -i "Subject: RANDOM: $(fortune -n 65 -s | perl -pe 's/\s+/ /g')"
+
+
+I'm now able to get random subject lines with a little more meat to them.  They come out looking like:  ``RANDOM: The coast was clear.  -- Lope de Vega`` 
+
+However, given that the default fortune data files only provide 3371 sayings that are 65 characters or under the Birthday_paradox_ will cause a subject collision a lot sooner than with the 2:superscript:`15` possible subject lines I had before.
+
+**Update:**  It's been a few weeks since I've had this in place and my principle subject-less correspondent has noticed how eerily often the random subject lines match the topic of the email.
+
+
+
+
+
+
+
+.. _Earlier: ../2005-01-24
+
+.. _Birthday_paradox: wiki:WikiPedia:Birthday paradox
+
+
+
+.. date: 1107324000

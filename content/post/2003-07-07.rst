@@ -1,0 +1,27 @@
+
+Hand Scanner
+------------
+
+Some friends and I just threw a huge party with a Dystopian future theme.  I wanted to have a hand scanner at the door because biometrics scare the hell out of me.  I started out with grand plans involving laptops and real scanners and all sorts of things like that, but as time drew short I resorted to trickery.
+
+We ended up with a stainless steel cylinder (trash can).  Atop it was supposed to be a black glass sheet against which palms could be pressed, but I accidentally shattered that while working on it the night before the party.  I ended up using some black foam core board with a white palm on it that looked okay.
+
+When someone pressed their palm against it the 'accept' light glowed and a pleasant ding noise was heard.  If, however, we were pressing the hidden, remote button they'd be denied.  Denial just meant a different bulb and an unpleasant buzzer.
+
+What's funny is I didn't use use any electronics knowledge past what I learned reading *The Gadget Book* by Harvey Weiss when I was in the second grade.  Since then I took three years of electrical engineering, but none of it had half the impact of that silly little book.
+
+I don't know if anyone took a picture of the finished scanner, but I snagged the schematics as penciled on my mimio white board.
+
+|handscan.png|
+
+
+
+
+
+
+
+
+.. |handscan.png| image:: /unblog/UnBlog/2003-07-07?action=AttachFile&do=get&target=handscan.png
+
+
+.. date: 1057554000

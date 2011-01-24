@@ -1,0 +1,23 @@
+
+Poker in IRC
+------------
+
+As seen in the previous posting my friends and I are on a bit of a poker kick lately.  As mentioned a good while back we sit in an IRC channel all day while working.  I thought it would be fun to find and run a tiny little IRC bot that would deal poker for us.  You know a few hands over lunch.  No real money of course, just a little diversion.  There exist IRC bots that do everything from serve virtual drinks to search google for you.  Making a bot that deals poker should be well within the realm of the medium.  I expected to find ten poker dealing bots in the usual places and if I was lucky one of them would be decent enough to be usable.
+
+A little googling found that someone wrote a very capable IRC dealer. http://www-2.cs.cmu.edu/afs/cs/user/mummert/public/www/ircbot.html Todd W. Mummert a researcher at CMU wrote a great one.  It's stable, full featured, and with a good interface -- and no longer available. What's more there are a plethora of excellent graphical clients written by third party developers that are now completely useless. These developers took hundreds of hours to write nice graphical front ends for a poker system that is now completely unavailable because the author never released the source.
+
+Other searches found a new system in the making from some AI researchers in Canada.  They've got a reasonably well designed protocol, for academics anyway, specified ( http://games.cs.ualberta.ca/webgames/poker/bots.html ), and they've even written two libraries one can use to write clients -- for their unreleased server which could, of course, vanish at any time leaving a supporting developer out in the cold.
+
+No one's making money off this stuff, and everyone's insistence on server-side secrecy is just baffling.  It doesn't prevent cheating; it doesn't facilitate client testing, and I suspect it keeps the best of developers away from their systems.
+
+For now, we'll be poker-less in IRC, and probably get a little more work done because of it, but if I break down and write an IRC poker bot you can be damn sure the source won't be locked away on my drives so that when I finally grow up and move on whomever next wants to write one can start with my crappy code.
+
+
+
+
+
+
+
+
+
+.. date: 1075096800

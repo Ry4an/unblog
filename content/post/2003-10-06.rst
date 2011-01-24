@@ -1,0 +1,43 @@
+
+Calendaring Migration
+---------------------
+
+I'm happy with my email client, text editor, compilers, IRC client, news reader, web browser, and just about every other tool I use in the process of my daily computing.  The only consistent source of displeasure has been my calendaring (when the hell did that become a word?) application.  I have a hideously over-scheduled life and need some sort of scheduling solution be it computerized or otherwise to keep things straight, but I've never found anything that really suits me needs.
+
+Over the last 10 years I've used and discarded a number of solutions, including a paper notebook, palm pilot, gnomecal, and phpGroupWare. Each of them has had their advantages and their drawbacks, but none of them has been perfect.  Wherein 'perfect' meets these requirements:
+
+*  standard data format: for easing inevitable migrations; vCal/iCal lately
+
+*  free: as in speech and as in beer for all the obvious reasons
+
+*  text-mode access: I prefer text mode to GUI applications
+
+*  web access: at least viewable (preferably editable) on the web
+
+*  stored locally: I prefer to host my own data
+
+*  groupware capable: ability view others' calendars and publish mine
+
+To my knowledge nothing out there yet handles all of these requirements. Likely nothing ever will, but so long as they use a standard interface to a data back end I'll be able to mix-and-match sufficiently to reach calendaring nirvana.
+
+There are, however, many applications that do an excellent job with some of the requirements.  Apple's iCal (whose horrible name creates confusion by overlapping that of an established data standard) uses the standard iCal data format and WEB-DAV for good groupware-ness, but they've locked down the groupware functionality to their .mac boondoggle and aren't sufficiently free.  phpGroupWare doesn't use standard data formats and is pretty krufty in general.  Sked (http://sked.sourceforge.net/) has a great interface but uses non-standard data storage and doesn't seem to be actively developed any longer.  Reefknot (http://reefknot.sourceforge.net/) was a promising iCal groupware back end until it was apparently abandoned.
+
+On the horizon is Chandler from the OSAF (http://www.osafoundation.org/) which is promising a good, decentralized-groupware, standard-data-format back end that would allow for text, GUI, and web clients.  I'm trying not to get my hopes up because if 10 years of looking for a decent calendaring solution has taught me anything it's that they'll shoot themselves in the foot somehow.
+
+For the time being I'm moving to remind (http://www.roaringpenguin.com/remind/).  It's free, text mode, offers web viewing, and stores my data locally.  It doesn't offer any sort of groupware capabilities, and perhaps worse yet has a completely non-standard data format.  Moving my existing data (exported from phpGroupWare) into remind's human-editable format required just a few simple conversion scripts (attached), but moving back out of remind's powerful storage format to something more standard (again likely vCal) will be a real nightmare.
+
+If anything I'd say my decision to switch to the hard-to-migrate-from remind application shows my pessimism that anything sufficiently better to be worth switching to will be available within the next two or three years.
+
+`phpgw-calendar-migrate.tar.gz`_
+
+
+
+
+
+
+
+.. _phpgw-calendar-migrate.tar.gz: /unblog/UnBlog/2003-10-06?action=AttachFile&do=get&target=phpgw-calendar-migrate.tar.gz
+
+
+
+.. date: 1065416400

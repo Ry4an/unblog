@@ -1,0 +1,21 @@
+
+Customer Service Call Log
+=========================
+
+Between telecom troubles, warranty repairs, botched on line orders, and marriage related changes in insurance, mortgage, and bank accounts I've spent a lot of time on the phone with customer service representatives lately.  Few issues get resolved in a single call and even fewer without a transfer to another office.
+
+I put together a sheet to keep track of who I spoke to, when, how to get back to them, and what they promised me.  Now I grab one whenever I'm about to dial a 1-800 number to talk to the almost-friendly, nearly-helpful people on the other end.  Besides the convenience of being able to say "On January 21st at 3pm Janice, CSR number JA5692, told me she'd ship the replacement FedEx overnight," representatives seem on their best behavior when you start out every interaction asking for their name and customer representative number.
+
+`printable form`_
+
+
+
+
+
+
+
+.. _printable form: /unblog/UnBlog/2007-02-22?action=AttachFile&do=get&target=customer-service-log.pdf
+
+
+
+.. date: 1172124000

@@ -1,0 +1,29 @@
+
+Poker Table
+-----------
+
+As mentioned previously I'm a tool of the media machine and am thus now playing poker.  I don't like online play so I host local events here at the house.  We're getting more and more people and I wanted something nicer on which to play than folding card tables.  Louis Duhon, a friend, and I drew up some plans, bought a lot of materials, moved the cars out of his garage, and spent four days working on a "one day project".
+
+The result was some very nice tables with high end vinyl, velveteen, and birch.  For the $250 we spent on materials we could have bought some low end tables but nothing approaching what we ended up with quality wise. Below is a photo and the plans in AutoCAD's DXF format and as a .png. Louis has a lot more photos at http://www.theshadowzone.org/media/poker-tables/poker-tables.html .
+
+|poker-table.png|
+
+|ry4an-table.jpg|
+
+`pokertable.dxf`_
+
+
+
+
+
+
+
+.. _pokertable.dxf: /unblog/UnBlog/2004-08-04?action=AttachFile&do=get&target=pokertable.dxf
+
+
+.. |poker-table.png| image:: /unblog/UnBlog/2004-08-04?action=AttachFile&do=get&target=poker-table.png
+
+.. |ry4an-table.jpg| image:: /unblog/UnBlog/2004-08-04?action=AttachFile&do=get&target=ry4an-table.jpg
+
+
+.. date: 1091595600

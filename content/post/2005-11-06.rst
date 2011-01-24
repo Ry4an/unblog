@@ -1,0 +1,33 @@
+
+Using Mutt to Automate Mailman Message Rejections
+-------------------------------------------------
+
+Since `this post`_ I've upgraded my mailman_ installation to a newer version, which allows me to automatically reject messages from non-subscribers without having to resort to external scripting.
+
+However, some of the mailing lists I run are subscribed to by a significant number of members who can't be counted on to post from the email address with which they subscribed, or indeed to even understand what that means.  For those lists a policy that automatically rejects messages from non-members is just too draconion.  Unfortunately, that means the few spam messages a day from non-members which make it past my filters but would normally be automatically rejected due to their non-member origins have be manually discarded so that I can approve the few non-member messages per month that really do belong on the list.
+
+Relying on mailman's email control interface (as differentiated from its web control interface) I was able to craft the following mutt_ macro to make the rejecting of undesirable non-member messages a single keystroke affair:
+
+
+::
+
+   macro index X ":set editor=touch^Mv/confirm^Mryqd:set editor=\"vim -c 'set nocindent' -c 'set textwidth=72' -c '/^$/+1' -c 'nohlsearch'\"^M"
+
+
+When the 'X' key is pressed the message editor is set to the UNIX 'touch' command which represents absolute minimal message editing. The rest of the macro replies to the confirmation subpart of the mailman message, which indicates rejection to mailman's email control interface.  After the reply is sent the message editor is set back to it's usual value (vim).
+
+
+
+
+
+
+
+.. _this post: ../2003-06-22
+
+.. _mailman: http://www.list.org/
+
+.. _mutt: http://mutt.org
+
+
+
+.. date: 1131256800

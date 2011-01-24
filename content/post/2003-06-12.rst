@@ -1,0 +1,21 @@
+
+Minneapolis Surveillance Camera Project
+---------------------------------------
+
+Target Corporation is donating a quarter million dollars to the city of Minneapolis, which city council rapidly accepted, to install 30+ police monitored security cameras.  I'm not able to articulate why stuff like this scares me as much as it does, but I just get a queasy feeling when I think of government surveillance of the citizenry.
+
+The ACLU has found that police cameras do not yield any significant reduction in crime, and there are many documented instances where police cameras have been used to illegally and inappropriately infringe on the privacy rights of citizens.  That said, I think keeping camera counts down is a losing battle.  Most people just can't get worked up about privacy rights in general and security cameras specifically.
+
+The New York Surveillance Camera Project (http://www.mediaeater.com/cameras/overview.html) has produced a great map (http://www.mediaeater.com/cameras/maps/nyc.pdf) of all the thousands of Manhattan area cameras they could find.  I'm looking to do the same thing for Minneapolis.  I guess the hope is that people will be started when they see how frequently they're recorded and will at least think next time the government wants to put up more cameras.  Who knows maybe given enough time we can even set up a least-watched route finder like the people at iSee have (http://www.appliedautonomy.com/isee/).
+
+For now all I've done is define an XML format for representing camera information (http://ry4an.org/surveillance/camera.xml and http://ry4an.org/surveillance/camera.dtd).  The next step is to get a nice map of downtown Minneapolis (hopefully from tonnhaus design: http://www.tonnhaus.com/portfolio/city_area.htm) and create an image map and corresponding CGI form so friends and I can start entering locations.  Lord only know when I'll have time for that.
+
+
+
+
+
+
+
+
+
+.. date: 1055394000

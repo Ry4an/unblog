@@ -1,0 +1,162 @@
+
+Display Google Calendars with PHP iCalendar
+-------------------------------------------
+
+Google has a `new calendar service`_, and it's great.  I really try to avoid hosted data solutions, but this one's just too good to pass up.  My one gripe is that there's no easy way for non google calendar users to view the calendars.  They're available live as both ical and rss/xml files, but the average home web user doesn't know what to do with either of those.
+
+There are plenty of services out there that will display an ical file as a web page, but none of them I tested rendered the google ical output well, and all of them were packed with ads.  Previously, I'd used software called phpicalendar_ to display ical files created by my `old calendaring solution`_ on the web, so I started there.  It didn't parse the google output well either.  However, with a little tweaking (see the patch in the zip file below) and some Apache trickery (see the README in the zip file) I can now get `good phpicalendar output from google`_.
+
+`google-calendar-phpicalendar-2.22.zip`_
+
+Update:  Looks like now google offers `a good way to do this`_.
+
+
+
+
+
+
+
+.. _new calendar service: http://google.com/calendar
+
+.. _phpicalendar: http://sf.net/projects/phpicalendar
+
+.. _old calendaring solution: ../2003-10-09
+
+.. _good phpicalendar output from google: http://ry4an.org/calendar/
+
+.. _google-calendar-phpicalendar-2.22.zip: /unblog/UnBlog/2006-04-14?action=AttachFile&do=get&target=google-calendar-phpicalendar-2.22.zip
+
+.. _a good way to do this: http://www.google.com/googlecalendar/event_publisher_guide.html#site
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+ Hey man I really want to get my php iCalendar working with my new Google Calendar as you have, but my server is not a Linux box, so I don't have a good way to patch the diff file you included in the zip.  I was wondering if you would be willing to upload the actual files that you changed, or would you be willing to email them to me.  I would really appreciate it.
+
+T. J.
+
+-------------------------
+
+ Hrm, not to be unhelpful, but if you read the patch file you'll see I just commented out one block and added a simple if test somewhere else.  It should be very easy to do by hand on the two files.  The unified diff format is nice in that it's quite human readable despite being ready for machine processing. -- Ry4an
+
+-------------------------
+
+ I'm not familiar with php icalendar, but (stupid question...) if using your work around, and I keep making new events in the google calendar, will they show up in the icalendar, or will some kind of cron job be required?  (maybe I should just use the icalendar... but the google site is so seductive....) --Rebecca, cookieshouse.com
+
+-------------------------
+
+ Yes, my phpicalendar hack does a live display of the google data.  One could use phpicalendar all by itself, but I like the invites, access controls, and UI from google calendar well enough that I though it was worth trying to have phpicalendar do a live display of data I keep in google calendar. -- Ry4an
+
+-------------------------
+
+
+
+I was all excited to work on this little project.  Then I realized I don't have the ability to apply patches (or if I do, I haven't a clue how to).  Thanks for sharing though, it looks super cool on your site! --Rebecca, cookieshouse.com
+
+-------------------------
+
+ I could not get your method to work so I had to rework the ical_parser.php. I recreated the $cal_filelist array with my google calendar urls. Then so the names of the calendars were not "basic" I created another array called $cal_names. Here maybe some source code will make this more clear. At about line 102 of ical_parser.php
+
+
+::
+
+   $cal_filelist = array ("http://calendar url 1", "http://calendar url 2");
+   $cal_names = array ("Calendar Name 1","Calendar Name 2");
+   $counter = 0;
+   foreach ($cal_filelist as $cal_key=>$filename) {
+
+           // Find the real name of the calendar.
+           //$actual_calname = getCalendarName($filename); original code commented out
+           $actual_calname = $cal_names[$counter];
+           $counter++;
+
+
+-- Psycho Whale
+
+-------------------------
+
+ That's a more general solution than my quick hack.  You might want to submit your code changes back to the phpicalendar project using their patch tracker.  I'm sure they're getting all sorts of "support google calendar" requests and yours is a good step toward that. -- Ry4an
+
+-------------------------
+
+
+
+I applied your patch... no problem.  But when I did the .htaccess edit, it would not redirect the .ics file to the google calendar.  I then edited the config.inc.php to allow webcal's and added the exact patch of the .ics (which would be redirected) in the ``"$list_webcals[] = *;"`` area.  No dice. It would then give me an error (which is strange since the file actually existed in that spot).  Any idea what I'm doing wrong? Do I need to edit the "$default_path" in the config.inc.php to show the patch to the redirected .ics file also?  I'd love to get this thing to work but doesn't seem to be happening.  Tried Pycho Whale's solution also but that worked even less.  Not sure if he was editing the ical_parser.php before or after your patch or if that even was relevent.  Lot's a questions.  Any help? -- RSmith423
+
+-------------------------
+
+
+
+If the .htacces file is ignoring your Redirect line it's because your httpd.conf file isn't set to allow Redirect lines in .htaccess files.  You can either edit httpd.conf to allow Redirect lines in .htaccess files or you can just put the Redirect line directly into the httpd.conf file.  Instructions for both can be found in the Apache online help. -- Ry4an
+
+-------------------------
+
+
+
+I noticed that recurring events don't display correctly.  If you have a recurring event the start time and end time is always the same.
+
+Here is my hack to PHP iCalendar to make it work:
+
+in ical_parser.php:
+
+my code:
+
+
+::
+
+	ereg('^PT([0-9]+)S', $data, $duration);
+	$the_duration = $duration[1];
+
+
+replaces this original code:
+
+
+::
+
+	ereg ('^P([0-9]{1,2}[W])?([0-9]{1,2}[D])?([T]{0,1})?([0-9]{1,2}[H])?\([0-9]{1,2}[M])?([0-9]{1,2}[S])?', $data, $duration);
+	$weeks                  = str_replace('W', '', $duration[1]);
+	$days                   = str_replace('D', '', $duration[2]);
+	$hours                  = str_replace('H', '', $duration[4]);
+	$minutes                = str_replace('M', '', $duration[5]);
+	$seconds                = str_replace('S', '', $duration[6]);
+	$the_duration   = ($weeks * 60 * 60 * 24 * 7) + ($days * 60 * 60 * 2\4) + ($hours * 60 * 60) + ($minutes * 60) + ($seconds);
+
+
+Apparently Google uses seconds to specify the duration of the event, but PHP iCalendar expects the duration in hour minute second format.
+
+Thanks for the patch!
+
+-Charles
+
+-------------------------
+
+
+
+The only thing I had to do to get GoogleCalendar to work was the following:
+
+
+::
+
+ phpicalendar/config.inc.php: $allow_webcals = 'yes';
+ phpicalendar/config.inc.php: $timezone = 'Europe/Paris';
+ php.ini: allow_url_fopen = On
+
+
+And it worked right out of the box ...*
+
+ ``http:// YOUR-SITE /phpicalendar/month.php?cal=http://www.google.com/calendar/ical/ YOUR-GMAIL /public/basic&getdate=20060518`` 
+
+Thomas.
+
+-------------------------
+
+
+
+Excellent, maybe they've updated.  I kept having it refuse to display any webcal URL that didn't end in '.ics', pehaps that's been fixed.  Also, I found I needed to add some link text to the blank free/busy view entries for them to be clickable, but that would only be required if you use the free/busy (rather than full detail) view gcalendar provides. --* Ry4an
+
+.. date: 1144990800

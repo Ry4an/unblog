@@ -1,0 +1,39 @@
+
+False Point Filtering on the Mimio
+----------------------------------
+
+I'm trying not to have all the projects and ideas posted to this list be computer related, but I guess that's where I expend most of my creative energy.  I bought a Mimio electronic white board (http://mimio.com) cheap on eBay ($40), and while the Windows software for it is reported to be quite good, the Linux software options ranged from vapor to unusable.  I did, however, find some Perl code that handled protocol parsing (the tedious part), so I started with that.
+
+The white board part of it was largely uninteresting, but one fun problem cropped up.  The Mimio infrequently reported false pen position data that caused the resulting image to have some terrible lines across it.  An example of the out with the bad data can be found in the attached unfiltered.png image.
+
+To filter out the bad points I started by tossing out any line segments that were longer/straighter/faster than a human should reasonably be drawing.  Essentially I was taking the first derivative of the position data and discarding anything with too high a speed.
+
+Always one to go too far I modified my filter so it could take Nth order derivatives.  I ended up configuring it to take the first four derivatives of position (velocity, acceleration, jerk, jounce[1]).  I could've set it to 100 or so, but I figured with the time resolution I had I was already pushing it. 
+
+I experimentally arrived at threshold levels for the scalar magnitudes of each derivative using the ophthalmologist technique ("this or this", "this or this").  The end result for the same image can be viewed in filtered.png.  The missing lines that _should_ be there correspond to when I didn't press the pen down hard enough and are actually missing in the unfiltered image as well.  It's still not perfect, but it's good enough for me, unless someone else has a cool filtering idea I can try.
+
+I've attached the tarball for the software for posterity.  If you're using it email me first -- I might have a more current unreleased version.
+
+[1] http://math.ucr.edu/home/baez/physics/General/jerk.html
+
+|unfiltered.png|
+
+|filtered.png|
+
+`perlmimio-2002-04-21.tar.gz`_
+
+
+
+
+
+
+
+.. _perlmimio-2002-04-21.tar.gz: /unblog/UnBlog/2003-04-21?action=AttachFile&do=get&target=perlmimio-2002-04-21.tar.gz
+
+
+.. |filtered.png| image:: /unblog/UnBlog/2003-04-21?action=AttachFile&do=get&target=filtered.png
+
+.. |unfiltered.png| image:: /unblog/UnBlog/2003-04-21?action=AttachFile&do=get&target=unfiltered.png
+
+
+.. date: 1050901200

@@ -1,0 +1,29 @@
+
+Alarm System
+------------
+
+My favorite book in the Wren Hollow Elementary school library was *The Gadget Book* by Harvey Weiss.  I must have checked it out a hundred times during the second and third grade and tried to build most of the half-practical projects it detailed.  The best among them was the burglar alarm.  It used wooden blocks, a door hinge, and a strip of metal to make a simple normally-open contact switch.  It was the first electrical work I ever did and almost certainly shaped my interests and career path.
+
+As a winter (read: indoor) project I decided to install a security system.  Our system at the office uses DSC_ components and works well enough, so I used the same.  I bought a Power 632 panel `on line`_ along with some wired and wireless contact switches, and keypad.  The only difficultly during installation was routing the wire for the keypad from upstairs to downstairs where it couldn't be seen.  Programming was nothing like modern computer programming.  Bits and bytes were entered directly into numbered memory registers by toggling boolean flags and entering hex characters on the keypad.  It was oddly fun.
+
+Everything's working quite well.  We've got a bevy of contact, motion, and temperature sensors.  We can arm/disarm from the keypad or using the wireless remote keys on our key chains.  For monitoring I went with `next alarm`_ and they even make an RSS feed available (though only through yahoo, so I had to fake the User-Agent: HTTP header);
+
+|alarm-rss.png|
+
+
+
+
+
+
+
+.. _DSC: http://dsc.com
+
+.. _on line: http://homesecuritystore.com/
+
+.. _next alarm: http://nextalarm.com
+
+
+.. |alarm-rss.png| image:: /unblog/UnBlog/2007-02-11?action=AttachFile&do=get&target=alarm-rss.png
+
+
+.. date: 1171173600

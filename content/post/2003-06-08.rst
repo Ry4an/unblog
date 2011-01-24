@@ -1,0 +1,31 @@
+
+Symlink Re-Creator
+------------------
+
+At Onion Networks our CVS repository has a lot of symlinks that need to exist within it for builds to work.  Unfortunately, CVS doesn't support symbolic links.  Both subversion and metacvs support symbolic links but neither of those are sufficiently ready for our needs, so we're stuck with creating links manually in each new CVS checkout.
+
+Sick of creating links by hand, I decided to write a quick shell script that creates a new shell script that recreates the symlinks in the current directory and below.  A year or two ago I would have done this in Perl.  I love Perl and I think it gets an undeserved bad wrap, but I find I'm doing little one-off scripts in straight shell (well bash) lately as others are more inclined to try them out that way.
+
+Doing this in shell also gave me a chance to learn the getopt(1) command.  Getopt is one of those things is you know is always there if you need it, but never get around to using.  It's syntax sucks, but I'm not sure I could come up with better, and what they've got works.  While writing my script I kept scaling back the number of options my script was going to offer (absolute, relative, etc. all gone) until really I was down to just one argument and could've put off learning getopt for another few years.  O'well.
+
+Once I'd written all the option parsing stuff and started with the find/for loop/readlink command that was going to print out the ln commands, I noticed that by using the find command's powerful -printf action I could turn my whole damn script into a single line.  At least my extra wordy version has an integrated usage chart.
+
+Here's the one line version:
+
+  find . -type l -printf 'ln -s %l %p\n'
+
+Attached is my script that does pretty much the same thing.
+
+savelinks_
+
+
+
+
+
+
+
+.. _savelinks: /unblog/UnBlog/2003-06-08?action=AttachFile&do=get&target=savelinks
+
+
+
+.. date: 1055048400

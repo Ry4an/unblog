@@ -1,0 +1,28 @@
+
+Time For Another Key Signing
+----------------------------
+
+It's time once again for that marriage of mathematics and paranoia that is a cryptographic key signing.  I'm organizing another for Thursday, January 20th, 2005.   Details can be found at: http://ry4an.org/keysigning/  Results from my last key signing can be found at: http://ry4an.org/keysigning/visualize/
+
+If all that's gibberish to you, check you my much better explanation last time I did one of these: http://ry4an.org/unblog/msg00026.html
+
+Thanks once again to the ACM for letting us use their room.
+
+
+
+
+
+
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+ glad to see a new posting.  i was getting concerned your new non-geek pursuits were interfering with your true purpose. -- Kate Bauer
+
+
+.. date: 1103004000

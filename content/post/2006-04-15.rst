@@ -1,0 +1,41 @@
+
+Meager Home Improvements
+------------------------
+
+After moving into the house I started a series of small home improvement tasks.  Some of them have genuine safety reasons but many happened only because changing things demonstrates residence.  Here's an incomplete list of things I've done:
+
+*  added a ceiling fan to the bedroom
+
+*  rewired the doorbell with modern wire so it doesn't ring everytime you walk past the dining room heat register
+
+*  added shelving, a phone jack and power outlets to create a `server corner`_
+
+*  added appliance-grade outlets behind the stove and fridge (rather than the ungrounded lamp-grade extension cords running through holes in the floor they previously had)
+
+*  added a `motion light`_ to the break-in-ariffic back yard
+
+*  cleaned out the gutters (I *knew* there's a reason I got that condo)
+
+*  replaced the rotting wiring for the basement lighting
+
+`|http://ry4an.org/pictures/web/datacenter|`_ `|http://ry4an.org/pictures/web/motionlight|`_
+
+
+
+
+
+
+
+.. _server corner:
+.. _`|http://ry4an.org/pictures/web/datacenter|`: http://ry4an.org/pictures/web/datacenter
+
+.. _motion light:
+.. _`|http://ry4an.org/pictures/web/motionlight|`: http://ry4an.org/pictures/web/motionlight
+
+
+.. |http://ry4an.org/pictures/web/motionlight| image:: http://ry4an.org/photos/web/motionlight.thumb.jpg
+
+.. |http://ry4an.org/pictures/web/datacenter| image:: http://ry4an.org/photos/web/datacenter.thumb.jpg
+
+
+.. date: 1145077200

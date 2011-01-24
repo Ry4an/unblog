@@ -1,0 +1,25 @@
+
+Last Surveillance Camera Post
+-----------------------------
+
+I got permission from Derek Tonn at tonnhaus design to use his map on the site, and I got the new site fully setup at http://mpls-watched.org. With all that done I figured it was time to send out press released and fired them off to the Strib, City Pages, Rake and Skyway News.  Who knows, maybe one of 'em will run something.
+
+When I wasn't sure if I'd be able to use the tonnhaus map, I was trying to figure out ways to make my gathered location data still useful.  As mentioned I took some GPS points to test the theory that the map was to scale.  I then marked those same four points on the tonnhaus map and calculated the X and Y pixel/degree ratios for each of the six ( (4-1)! ) runs.
+
+If the map was perfectly to scale, and my GPS was perfectly accurate, and my point selection on the map was a perfect correlation to where I stood when taking the GPS points the horizontal and vertical pixel/degree ratios would be the same for all six pairs of points. Unfortunately, they were way off.  I'd've written the map off as not to scale if it hadn't been for how very off the ratios were.  Not only were they of wildly different magnitudes, but some of them even had different signs.  That shouldn't be possible no matter how skewed the scale was.
+
+I spent a good hour puzzling out how my calculations could be so far off when it hit me.  Minneapolis isn't built on a real north/south/east/west grid.  It's horribly skew.  I'd made the rookie mistake of assuming top of the map is always north.  I got out a protractor, make a quick measurement, rotated the tonnhaus design map 22 degrees, re-picked my points on the map, re-did my math and found nice reasonably similar rations.  After I though out the shortest pairs between points (as short runs maximize error) I got the percent standard deviation for both the horizontal and the vertical down to small enough values that I think converting points of the digital map to latitude/longitude coordinates will be sufficiently precise to make my data portable.  Whew.
+
+|mapscale.png|
+
+
+
+
+
+
+
+
+.. |mapscale.png| image:: /unblog/UnBlog/2003-06-18?action=AttachFile&do=get&target=mapscale.png
+
+
+.. date: 1055912400

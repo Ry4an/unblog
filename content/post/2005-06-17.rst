@@ -1,0 +1,25 @@
+
+Netflix Self Annotations
+------------------------
+
+I'm a happy Netflix_ user.  Before I used Netflix I used to maintain a list of movies I wanted to see.  Now I just use my Netflix queue for the same purpose.  The only problem with my new system is by the time a recommended movie goes from the back of the queue to the front, about a year, I've long since forgotten who recommended it.
+
+If Netflix offered a way for me to put a little note next to my own queue entries, I'd better be able to track who recommended movies or just why they made it on to my queue in the first place.  Netflix does offer a feature they call their `two cents`_ system wherein you can write reviews of movies, which other members on your friends list can view. That's not really what I'm looking for though.  I just want some space I can make notes to myself -- not for others.
+
+I've suggested this to Netflix, but I've never received a reponse to a suggestion sent to them, so I'm not holding my breath.
+
+P.S. If you're the person who recommended *The Apostle* to me, I now hate you.
+
+
+
+
+
+
+
+.. _Netflix: http://www.netflix.com/
+
+.. _two cents: http://www.netflix.com/FAQ?p_faqid=514
+
+
+
+.. date: 1118984400

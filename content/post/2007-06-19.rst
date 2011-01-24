@@ -1,0 +1,21 @@
+
+Autobahn Accelerator for iTunes
+-------------------------------
+
+My company, Swarmcast_, announced one of our first public releases today.  Previously we've been primary selling to content providers, but now we're putting out a user facing free release.  If you download our `Autobahn Accelerator for iTunes`_ you'll find your purchases from the iTunes music store come down three to ten times faster than they did before.  We'll be adding support for lots of other sites (you tube, etc.) in upcoming weeks.
+
+Sadly we've got a MacOS version done, but the installation was deemed too clumsy for the polished Mac experience, so we'll have to wait a few weeks to get that out.  Windows only for now (says this Linux user).
+
+
+
+
+
+
+
+.. _Swarmcast: http://swarmcast.com
+
+.. _Autobahn Accelerator for iTunes: http://getautobahn.com
+
+
+
+.. date: 1182229200

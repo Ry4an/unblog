@@ -1,0 +1,38 @@
+
+Making Driftnet work in Webcollage in Xscreensaver
+--------------------------------------------------
+
+EtherPEG (http://www.etherpeg.org/) is software for the Mac the listens in on local network traffic, identifies any images being downloaded, and displays them.  Driftnet (http://www.ex-parrot.com/~chris/driftnet/) is Linux software that does the same thing, but offers better command line integration.  Xscreensaver (http://www.jwz.org/xscreensaver/) is the screen saver/console locking program I use to keep people from using my laptop when I'm getting a refill at my local coffee shop.
+
+Xscreensaver has a display mode called 'webcollage' (http://www.jwz.org/webcollage/) that can use driftnet to show modified images from the network as the screen saver display.  So when I'm away from the laptop it pops up pictures from all the websites that everyone else on the wireless network is looking at.  At least in theory it does. Actually, I couldn't get it to do that at all.
+
+I'm sure there's a single, simple thing I was missing to make xscreensaver use webcollage use driftnet, but I couldn't find it if there was one.  Xscreensaver kept starting multiple copies of driftnet and never finding the images they captured.  I had a blank screen saver and a lot of run-away processes.  I'm sure jwz, Xscreensaver's author, could've told me what I was doing wrong, but people who ask him questions tend to get found hanging from meat hooks in his club.
+
+I ended up hacking the xscreensaver config and webcollage script to get things working.   I've attached a tarball containing instructions and a patch in case anyone else is having the same problems I did.
+
+`driftnet-webcollage-xscreensaver.tar.gz`_
+
+
+
+
+
+
+
+.. _driftnet-webcollage-xscreensaver.tar.gz: /unblog/UnBlog/2004-03-04?action=AttachFile&do=get&target=driftnet-webcollage-xscreensaver.tar.gz
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+ That is actually very cool, every come back to some questionable content for a public place? -- Louis Duhon
+
+-------------------------
+
+ Mostly just friendster stuff, cnn, and sports.  You should try out etherpeg, the mac version, it's definitely fun. -- Ry4an
+
+
+.. date: 1078380000

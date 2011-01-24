@@ -1,0 +1,43 @@
+
+PokerBot in IRC
+---------------
+
+I said I wasn't going to do it, but I ended up doing so anyway.  I've written a Poker dealing IRC bot.  It's not terribly modular and it only supports TexasHold'em, but it works.  It requires Perlbot 1.9.5 which is available on source forge.  Here's an excerpt from play:
+
+
+::
+
+       <Dealer> Board now shows: AH 2C 9D 2D
+       <Dealer> joe, action is to you. Current bet is 0.
+        * joe bets 20
+       <Dealer> joe bets 20.
+       <Dealer> Ry4an, action is to you. Current bet is 20.
+        * joe peeks
+        * Ry4an calls
+       <Dealer> Ry4an calls.
+       <Dealer> Board now shows: AH 2C 9D 2D 2H
+       <Dealer> joe, action is to you. Current bet is 0.
+        * joe checks
+       <Dealer> joe checks.
+       <Dealer> Ry4an, action is to you. Current bet is 0.
+        * Ry4an checks
+       <Dealer> Ry4an checks.
+       <Dealer> joe has been called and shows: 7D 8D
+       <Dealer> Ry4an shows 10C 6C and wins 70 with Trips (2 A T)
+
+
+Anyway, I've attached the code in case someone wants to take it and make it better or update it to the newer versions of perlbot.
+
+`perlbot-1.9.5-Poker.tar.gz`_
+
+
+
+
+
+
+
+.. _perlbot-1.9.5-Poker.tar.gz: /unblog/UnBlog/2004-02-23?action=AttachFile&do=get&target=perlbot-1.9.5-Poker.tar.gz
+
+
+
+.. date: 1077516000

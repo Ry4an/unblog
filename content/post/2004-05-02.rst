@@ -1,0 +1,29 @@
+
+History of the World - Attack Probabilities
+-------------------------------------------
+
+History of the World is a fine game from Avalon Hill.  It's distributed by Hasbro now, and it's one of the rare Avalon Hill games that Hasbro managed to improve when they "cleaned it up".
+
+History of the World uses dice to simulate combat, and they do so in a way so as to intentionally skew the likelihood of success toward the attacker.  There are, however, various terrains (mountainous, ocean straight, forest), types of attack (amphibious), bonuses (strong leader, elite troops, forts, weaponry, etc.) which can affect the success rate of an attacker.
+
+While playing last night we tried to estimate the relative merits of the different troop-efficacy modifiers and found that as if often the case with probability it was difficult to agree even on estimates.
+
+As a result I sat down and wrote some quick Perl simulations to find the numbers for all the various scenarios.  This wasn't done in the most efficient way possible, but it's accurate.  The terms 'win', 'tie', and 'loss' are from the attacker's point of view.
+
+[Table not converted]
+
+Attached is the script and the same output in various formats.
+
+`HoW-dice.tar.gz`_
+
+
+
+
+
+
+
+.. _HoW-dice.tar.gz: /unblog/UnBlog/2004-05-02?action=AttachFile&do=get&target=HoW-dice.tar.gz
+
+
+
+.. date: 1083474000

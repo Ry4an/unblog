@@ -1,0 +1,38 @@
+Remote Repository Creation for Mercurial Over HTTP
+--------------------------------------------------
+
+I park in the #mercurial IRC channel a lot to answer the easy questions, and on that comes up often is, "How can I create a remote repository over HTTP?". The answer is: "You can't.".
+
+Mercurial allows you to create a repository remotely using ssh with a command line like this::
+
+	hg clone localrepo ssh://host//abs/path
+
+but there's no way to do that over HTTP using either hg serve or hgweb behind Apache.
+
+I kept telling people it would be a very easy CGI to write, so a few months back I put my time where my mouth was and did it.:
+
+	#!/bin/sh
+
+	echo -n -e "Content-Type: text/plain\n\n"
+
+	mkdir -p /my/repos/$PATH_INFO
+	cd /my/repos/$PATH_INFO
+	hg init
+
+That gets saved in unsafecreate.cgi and pointed to by Apache like this::
+
+	ScriptAlias /unsafecreate /path/to/unsafecreate.cgi
+
+and you can remotely invoke it like this::
+
+	http://your-poorly-admined-host.com/unsafecreate/path/to/new/repo
+
+That's littered with warning about its lack of safety and bad administrative practices because you're pretty much begging for someone to do this::
+
+	http://your-poorly-admined-host.com/unsafecreate/something%3Brm%20-rf%20
+
+Which is not going to be pretty, but on a LAN maybe it's a risk you can live with. Me? I just use ssh.
+
+At the time I first suggested this someone chimed in with `a cleaned up version in the original pastie <http://paste.lisp.org/display/80442#2>`_, but it's no safer.
+
+.. date: 1253163600

@@ -1,0 +1,19 @@
+
+Motion Lights and Silliness
+---------------------------
+
+We've got an old lighting fixture for our front porch, which we didn't want to replace with an ugly motion light.  I tried putting a socket adapter in-line with the bulb, but it wouldn't fit in the globe.
+
+More time spent staring at the lighting offerings at Home Depot turned up a workable, if convoluted, solution.  An external motion detector sends a wireless signal to a replacement indoor light switch, which then turn on the external light.  To make what should have been a ten minute project even sillier, I should be able to control the remote switch from the `home link`_ button in my car.  Heh.
+
+
+
+
+
+
+
+.. _home link: http://www.acura.com/index.aspx?initPath=RL_Learn_FeaturesOptions_SafetySecurity_Security_HomeLink
+
+
+
+.. date: 1157346000

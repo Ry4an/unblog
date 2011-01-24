@@ -1,0 +1,40 @@
+
+Philips Pronto TSU-2000 Remote
+------------------------------
+
+I try to lead a very uncluttered life whether one's talking about hard drive layout, personal responsibilities, or physical clutter in my condo.  Three years ago I got my first TV and DVD player.  Each came with its own remote control.  Not wanting to deal with two remotes on my coffee table (which at the time was a cardboard box) I went out and bought a nice $20 universal remote that was very programmable and easily handled the functions of both the TV and the DVD player.
+
+Since then I'd added a TiVo and a VCR to the mix and the old remote just wasn't cutting it.  Looking through Remote Central (http://remotecentral.com) it looked like my options were cheap remotes with fixed buttons whose labels would never match their assigned functions or ungodly expensive remotes with touch screen buttons and programming software run on one's computer.
+
+Finally last week after the release of the brand new TSU-3000 remote, the price of a refurbished TSU-2000 (four generations older) dropped into my price range.  The TSU-2000 (http://www.remotecentral.com/tsu2000/) has a few hard buttons around the edges for the functions you want to be able to use without having to look at the remote (volume, pause, etc.) and a large touch screen area in the center for everything else.
+
+Reading reviews for the TSU-2000 shows that owners are divided into 2 categories: those who are geeks and those who find the remote unacceptably difficult to program.  Everything about the remote is user-definable from the location and shape of the buttons to the screen transitions to the pitch of the beeps.
+
+The software it comes with, ProntoEdit, is (I'm told) terrible, but it only runs on windows.  I found a Java implementation called Tonto (http://giantlaser.com/tonto/) which has worked wonderfully thus far.  It probably took a good 20 hours for me to get my remote to the point where my configuration handles most of what I need it to do, and even that was with liberal use of other peoples' graphics.  Is the flexibility worth the time investment?  Probably not for most people, but still there's something nice about being able to make the commercial skip button on the TiVo as big as a quarter.
+
+|tonto.png|
+
+
+
+
+
+
+
+
+.. |tonto.png| image:: /unblog/UnBlog/2003-09-09?action=AttachFile&do=get&target=tonto.png
+
+
+
+**Comments**
+
+
+-------------------------
+
+ So... how much did you pay? -- Gabe Turner
+
+-------------------------
+
+ $120 for the refurbished unit on ebay -- which seems about average for the TSU-2000s.  List that's a $350 remote.  The color ones (TSU-6000) are $700 list and seem to go for about $350 refurb on ebay.  The new TSU-3000s look nice but I don't know if there's a refurb supply yet. -- Ry4an
+
+
+.. date: 1063083600

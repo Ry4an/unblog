@@ -1,0 +1,17 @@
+
+AntFlow 1.0rc1 Released
+-----------------------
+
+I code for a hobby and a profession, but usually it's only the hobby stuff I can release here.  However I'm happy to say and proud to announce that Onion Networks, my employer, has okay-ed the release of AntFlow, a tool I largely wrote.
+
+AntFlow adds hot folder triggers and workflow functionality to the ever popular Ant build tool.  It's a great fit and a right good bit of code, so check it out at http://antflow.onionnetworks.com/ .
+
+
+
+
+
+
+
+
+
+.. date: 1099548000

@@ -1,0 +1,51 @@
+
+Adding a Subject with Procmail
+------------------------------
+
+Lately I've been corresponding a great deal with someone who doesn't elect to use the Subject: line in emails.  When responding to this emails my mail application, mutt, uses the Subject line: ``re: your mail``.  Mutt also groups conversations into threads using (among other things) the Subject line.  So every reply to every person who has sent a message with a blank subject line gets grouped into a single thread when they, in fact, have nothing to do with one another.
+
+I decided to create Subject lines for incoming messages without them on the fly using the standard procmail tool.  This pair of recipes does the trick:
+
+
+::
+
+   :0 fhw
+   * ^Subject:[\ ]*$
+   |formail -i "Subject: Your email ($$)"
+
+   :0 fhw
+   * !^Subject:
+   |formail -i "Subject: Your email ($$)"
+
+
+The  ``$$``  gets turned into a low number (the process id actually) which is unique enough to keep threads separate.  The resulting Subject lines look like:  ``Subject: Your email (1024)`` } and have been working quite well.
+
+There's probably a way to use a single recipe to catch both cases (blank Subject and no Subject), but I hate procmail's almost egrep and just settled on this.
+
+
+
+
+
+
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+ Test comment.
+
+The girl who refuses to use subject lines is leaving a comment. -- Kate Bauer
+
+-------------------------
+
+I updated this idea in `a later entry`_. -- Ry4an
+
+
+.. _a later entry: UnBlog/2005-02-02
+
+
+.. date: 1106546400

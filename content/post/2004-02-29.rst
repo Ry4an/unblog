@@ -1,0 +1,49 @@
+
+Drink Recipe Fortune File
+=========================
+
+I like mixing drinks, despite having no real skill for it.  The commercial bar-tending courses seem to rely extensively on flashcards for the learning of drink recipes, so I though a UNIX fortune file of drink recipes would be a natural fit for learning.
+
+Unfortunately, I couldn't find any good, public drink listings in a format I could parse.  Eventually I found one in CVS from this project: http://drinkmixer.sourceforge.net/  It's not huge, but at least its a start and easily added to.
+
+Output looks like:
+
+[ry4an@home ~]$ fortune drinks Blue Blazer (serve in Old Fashioned Glass)
+
+*  1 1/2 oz. Scotch Whiskey
+
+*  1 1/2 oz. Boiling Water
+
+*  1 tsp. Sugar
+
+Instructions: WARNING USE EXTREME CAUTION! Get two silver plated mugs with handles. pour Scotch and boiling water in one mug. Ignite the liquid, and while blazing pour rapidly back and forth from one mug to another. Pour into old-fashioned glass with sugar.
+
+The nature of the fortune command also makes the recipes search-able using the -m option like this:
+
+[ry4an@home ~]$ fortune -i -m 'Rob Roy' drinks (drinks) % Rob Roy (serve in Cocktail Glass)
+
+*  1 1/2 oz. Scotch
+
+*  3/4 oz. Sweet Vermouth
+
+*  1 dash Orange Bitters
+
+Instructions: Shake well with cracked ice. Strain into cocktail glass. %
+
+The fortune file is probably of no use to anyone actually taking bar-tending classes as everyone's recipes are always a little different, but for the rest of us it's a nice little learning tool.
+
+The fortune file, corresponding .dat index file, source .csv file, and munging script are found in the attached archive.
+
+`drinks-fortune-1.0.tar.gz`_
+
+
+
+
+
+
+
+.. _drinks-fortune-1.0.tar.gz: /unblog/UnBlog/2004-02-29?action=AttachFile&do=get&target=drinks-fortune-1.0.tar.gz
+
+
+
+.. date: 1078034400

@@ -1,0 +1,27 @@
+
+Roomba on the Pronto Remote
+---------------------------
+
+A few weeks back I got a Roomba Robotic Vacuum (http://www.irobot.com/consumer/product_detail.cfm?prodid=9) as a wonderful gift.  Shipped with it was the optional remote control.  The Roomba is fully automatic, but it's programmed to pick up dirt not to chase the cat -- you need the remote for that.
+
+However, long time readers (you poor bastards) will remember that I try to maintain a strictly one remote coffee table (http://ry4an.org/unblog/msg00022.html).  That meant the Roomba had to go onto the Phillips Pronto TSU-2000 Universal Remote.  I thought for sure I'd find a CCF file for it, but it looks like only the people with newer remotes are getting the Roomba.  Fortunately someone in the RemoteCentral forms helped out with instructions on how to back-convert the remote configuration and after a few wasted hours I can now steer the vacuum from the couch.  Apparently I became a yuppie when I wasn't looking.
+
+Anyway, attached are the CCF file and a screen-shot.
+
+|roomba.gif|
+
+`irobot-roomba-ccf.zip`_
+
+
+
+
+
+
+
+.. _irobot-roomba-ccf.zip: /unblog/UnBlog/2004-07-14?action=AttachFile&do=get&target=irobot-roomba-ccf.zip
+
+
+.. |roomba.gif| image:: /unblog/UnBlog/2004-07-14?action=AttachFile&do=get&target=roomba.gif
+
+
+.. date: 1089781200

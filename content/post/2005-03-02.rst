@@ -1,0 +1,23 @@
+
+Ringback Tones Made Less Evil
+-----------------------------
+
+Foreign cell phone services have had a feature for awhile called *Ringback Tones* which allows you replace the normal ringing sound that callers hear while they're waiting for you to answer with a short audio clip.  This isn't the annoying ring that the people near you hear until you answer your phone, but the even more annoying ring that the people calling you will hear directly in their ear.  The feature has come to the US recently, and my cell phone provider, T-Mobile, calls its offering *Caller Tunes*.
+
+When I first heard about this impending nightmare my initial thought was, "Anyone I call with this feature will have their number removed from my phone immediately."  I'm still dreading calling a (soon to be former) friend and hearing the sort of music that sends me diving for a stereo's power cord, but now that I look into the feature more I'm thinking of getting it myself.
+
+As I've discovered from T-Mobile's `on-line flash demo`_ you can actually overlay your voice atop whichever audio clip is playing as a ringback.  Assuming they have a reasonably normal ringing sound as one of the clips I could select that and overlay it with my voice explaining to people that in lieu of a phone call I'd much rather get an email or a text message.  Now that, would be great.  Additionally, caller tunes allows you to set different ringbacks for different times of day and for different callers, which would allow me to omit the snarky message during work hours and for callers whom I know will never text anyone (Hi, mom).
+
+It's still probably not worth doing, but damn is it tempting.
+
+
+
+
+
+
+
+.. _on-line flash demo: http://www.t-mobile.com/services/ctunes/callertunesTour_popup.asp
+
+
+
+.. date: 1109743200

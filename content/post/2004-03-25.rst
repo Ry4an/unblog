@@ -1,0 +1,42 @@
+
+Turn Sequence Diagram for Kill Doctor Lucky
+-------------------------------------------
+
+Cheap Ass Games (http://cheapass.com) make a lot of great games which are available for very little money.  A perennial favorite is Kill Doctor Lucky which is sort of like Clue, in reverse, and with a better sense of humor.  It's an easy game to learn from the rules, but no one wants to read the rules.  I've found that putting this turn sequence diagram I whipped up in front of a first time player augmented with a quick explanation of killing and failure is enough to get someone from zero to playing in 30 seconds.  Maybe the computer geeks with whom I hang out are more into state diagrams than the general populace, but it works for us.
+
+The attached image shows the diagram.  The attached archive contains the source diagram, a .pdf version, and a the same image.
+
+|doctor-lucky.png|
+
+`doctor-lucky.tar.gz`_
+
+
+
+
+
+
+
+.. _doctor-lucky.tar.gz: /unblog/UnBlog/2004-03-25?action=AttachFile&do=get&target=doctor-lucky.tar.gz
+
+
+.. |doctor-lucky.png| image:: /unblog/UnBlog/2004-03-25?action=AttachFile&do=get&target=doctor-lucky.png
+
+
+
+**Comments**
+
+
+-------------------------
+
+ Sometimes the best things to use are the simplest ones, this works perfectly and takes any guesswork out of the equation for a new player. Now if I only one of the for my life, that would be truly useful! -- Louis Duhon
+
+-------------------------
+
+Dude, we made one for your life... it's blank -- Gabe Turner
+
+-------------------------
+
+ Heh. (hate you!) -- Ry4an
+
+
+.. date: 1080194400

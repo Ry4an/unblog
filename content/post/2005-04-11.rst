@@ -1,0 +1,34 @@
+CVS Commit Blocking
+-------------------
+
+When editing source files checked out from CVS I sometimes want to prevent them from going back in to source control without further edits. Until now I've just used  // FIXME  comments and have tried to remember to grep for FIXMEs before committing the files back.
+
+Problem is others use FIXME comments, and sometimes I forget to grep. So I've tweaked our CVSROOT files to prevent custom FIXME tags from going in to source control.
+
+I appended this line to CVSROOT/commitinfo::
+
+	ALL $CVSROOT/CVSROOT/checkforry4an
+
+Added this line to CVSROOT/checkoutlist::
+
+	checkforry4an Tell Ry4an he broke something with checkforry4an
+
+and crated a file named CVSROOT/checkforry4an containing::
+
+	#!/bin/sh
+
+	BASE=$1
+	shift
+
+	for thefile in "$@" ; do
+	    if echo $thefile | grep -v Foreign | grep -q '.java$' ; then
+		if grep -s -q 'FIXME RY4AN' $thefile ; then
+		    echo found a FIXME RY4AN in $thefile
+		    exit 1
+		fi
+	    fi
+	done
+
+Now when I put a  // FIXME RY4AN  comment into a source file commits break until I remove it.
+
+.. date: 1113195600

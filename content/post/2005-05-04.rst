@@ -1,0 +1,52 @@
+
+Guidelines For Better Directions
+--------------------------------
+
+When getting or giving directions I always prefer a map to written directions.  Maps are great because they don't become useless if you make a wrong turn.  With a good map you can always find where on it you are and can always build a new route to your destination.
+
+Unfortunately, one can't always produce a map on the spot -- especially a good map.  In those cases you have to fall back on written directions.  I've given and received plenty of directions, some good, but mostly bad.  I'm thinking a list of guidelines to use when vetting directions could help.
+
+1. Use sequences when available
+
+#. Provide unmistakable backstops ("if you've hit the river you've gone too far")
+
+#. Provide **both** cardinal, N/S/E/W, and left/right directions
+
+#. Give distances when available
+
+#. Try to identity streets as they're labeled, not as they're referred to locally
+
+#. Eschew landmarks, they're single points easily missed
+
+Probably the only one that needs an explanation is the first, which is certainly the most important.  Exit numbers, mile markers, and street numbers all provide good sequences that can be used to easily imbue directions with some great properties they didn't previously have:
+
+*  sequences let you know if you're going in the right direction
+
+*  sequences let you know if you've gone too far
+
+*  sequences allow you to estimate how much further you need to go
+
+Street numbers are probably the most underutilized navigational aid -- even the on-line mapping systems don't use them despite having block-by-block street number data.  "Turn left/west on Washington after the 200 block of 2nd Ave" provides so much much usable data.
+
+I know all the points in the list are pretty obvious, but if even half of them were met by the directions I've tried to follow in the past a lot of time, gas, and worry might have been saved.  I guess the message is to take 5 minutes longer when giving directions to save much more time when driving.
+
+
+
+
+
+
+
+
+
+
+**Comments**
+
+
+-------------------------
+
+
+
+Cell phones are wonderful when in doubt or unsure.
+
+
+.. date: 1115182800

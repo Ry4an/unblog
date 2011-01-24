@@ -1,0 +1,43 @@
+
+Half Baked Ideas I've Had
+=========================
+
+Half Bakery (http://halfbakery.com) is a website where people can post poorly thought out ideas so they can be commented on, criticized, and (occasionally) praised by total (and generally snarky) strangers.  It's a clique-y place that's often unkind to new arrivals, but I was lucky enough to get generally favorable reviews for a few of the ideas I've posted there.  Here are a some of the entries I've created there in the past.
+
+Locking Clothes Dryer http://www.halfbakery.com/idea/Locking_20Clothes_20Dryer
+
+  Designed to prevent laundromat theft and vandalism this idea involves a key or pin that has to be used to open the dryer after the drying cycle has started.  This allows the human operator to leave the laundromat without worrying about the clothes left behind. Optionally dryers left unattended for too long could automatically unlock so rude peoples' clothes can still be dumped on the floor.
+
+Non-Integer Page Numbers http://www.halfbakery.com/idea/non-integer_20page_20numbers
+
+  I thought this one up about ten years ago.  I'd like it if books had their page numbers expressed not only as sequential integers but also as whatever fraction of the book has been read at that point. The primary benefit of this system would be making citation page numbers useful across different editions.  Page 202 is very different in hardback and paperback editions, but page 34.35% is approximately the same place in both.
+
+Secret Off-Shore Bank http://www.halfbakery.com/idea/Secret_20Offshore_20Bank
+
+  Pure silliness.  I want a bank with a name more exciting that Wells Fargo.  It can be based in Nebraska and be boring as hell, but so long as my checks said "Secret Off-Shore Bank" I'd be happy.
+
+Right-Sized Serving Platter http://www.halfbakery.com/idea/Right-Sized_20Serving_20Platter
+
+  Right before the guests show up at a cocktail party the food table looks as good as its going to all night. The hors d'oeuvre platters are arranged nicely and have no gaping holes. However, ten minutes after the first hungry visitor arrives the serving platters have big gaps making the spread look a little sad. Replenishing works so long as one still has food reserves, but as the party winds down barren looking appetizer platers are almost unavoidable.
+
+  If, however, one had a serving platter whose area shrunk with the food quantity one could avoid this unsightly result.  Stupid idea? Of course, that's what the half-bakery is all about.
+
+I'm running out of old ideas to post to this list.  Soon I'll have to either think of something new or shut-up, which I'm sure my one subscriber wouldn't mind.  Hi Gabe.
+
+
+**Comments**
+
+
+-------------------------
+
+
+
+Looks like `the halfbakery`_ suffered a `catestrophic disk crash`_ without backups this past October.  My ideas are still there, but all their positive votes are gone. -- Ry4an
+
+
+.. _the halfbakery: http://www.halfbakery.com/
+
+.. _catestrophic disk crash: http://www.halfbakery.com/editorial/crash.html
+
+
+.. date: 1050469200

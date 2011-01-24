@@ -1,0 +1,33 @@
+
+A Young Hacker's Interactive Primer
+-----------------------------------
+
+For the last five or so years I've been trying to imagine what it would have been like growing up with easy computing, and I don't think it would have been good for me.  Back in 1988 when I first started seriously playing with computers they were hard to use.  You had to learn a lot of obscure text commands, and most everything you tried to do required that you know how something worked that could reasonably have been abstracted away from you.
+
+Because of that level of difficulty I think I turned out to be a much stronger computer user, programmer, and general hacker[1].  I now delve into difficult computer problems confident in the knowledge that with enough effort I'll figure out what I need to understand to make things work.  I'm now quite choosy about which "ease of use" features I'll let hide ugly detail from me, and which ones I'll skip to instead reveal the underlying system.
+
+The problem is, I was forced to climb the steep learning curve of the command line interface and other "old school" hallmarks.  I don't know if I would have done it if I could have dragged myfile.txt onto a picture of printer instead of typing COPY MYFILE.TXT > LPT1
+
+I then start to worry about the young teenagers I know who have grown up in a graphical user interface world.  I don't see them embracing difficult computing and the accompanying power and flexibility.  Who can blame them.  It's a pain in the ass for the first few months/years and teenagers aren't always known for the determination, foresight, and patience.
+
+In an attempt to create an inviting way to draw teens into advanced computing I've started a project called *The Young Hacker's Interactive Primer* (with apologies to Neal Stephenson).  As I see it the two things necessary to get a kid interested in exploring difficult computing were (1) a safe place to do it and (2) inducement to further exploration.
+
+To provide a safe place in which to explore a UNIX system, I decided the easiest was to do it was to just give them one.  There are plenty of alternatives such as dual booting their existing systems, run-from-CD UNIXes, and just giving them remote shell accounts.  I figured actual physical systems were the best solution because there's no risk of them trashing their parents or their real computer, they can have root when they're ready,  and because everyone likes getting a gift -- even when it's a Pentium 233.
+
+The inducement comes in the form of little puzzles and tasks of increasing difficulty.  Initially you just need to log in with provided user name and password.  Then you work on viewing the contents of a file.  Then changing a directory.  Each task can build on the previous ones while requiring one new fundamental skill be learned, ideally from man pages and documentation.  In envision it as something like one of the old infocom text games except taking place right in the UNIX shell.
+
+Who knows, maybe my attempts to make learning difficult computing will still be too boring, frustrating, and un-glamorous to draw a kid through the 10 different layers of abstraction that Apple and Microsoft want them the use unquestioningly.  Worst case I get a few old computers out of my closet.
+
+The fledgling project can be found at http://ry4an.org/primer/  There's still not much to see, but I expect to change that shortly as I've already told a kid I know that I hope to give him a computer shortly after thanksgiving.
+
+[1] http://catb.org/~esr/jargon/html/H/hacker.html
+
+
+
+
+
+
+
+
+
+.. date: 1068789600

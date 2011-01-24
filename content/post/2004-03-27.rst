@@ -1,0 +1,56 @@
+
+University of MN Magic Number Guessing
+--------------------------------------
+
+Back when I started at the University of Minnesota in 1995 the course registration system was terminal/telnet based.  Students would register using a clumsy mainframe-style form interface.  When a class a student wanted was full or required unsatisfied prerequisites, the student come supplicant would go to the department to beg for a "magic number" which, when input into the on-line registration system, would allow him or her admission into the course.
+
+Magic numbers were five digits long and came pre-printed in batches of about sixty when provided to departmental secretaries.  For each course there existed a separate printed list of magic numbers.  As each number was handed out to a student it was crossed off the list, indicating that they were single-use in nature.
+
+As getting one's schedule "just so" was nearly impossible given the limited positions in some courses, and if I recall correctly being particularly frustrated that the only laboratory session remaining open for one of my courses was late on Friday afternoons, I set out to beat the magic number system.
+
+The elegant solution would have been to find the formula used to test a five digit number against the course information to see if it was a match.  This, however, presupposes that there existed an actual test and not just a list of sixty numbers for each course.  Given than the U of MN had 1000s of courses it's certainly hoped that they didn't design a system requiring the generation and storage of 60,000 numbers, but one never knows.  A day spent playing Bletchley Park with previously received magic numbers and their corresponding course numbers found no easily discernible pattern, and given the lack of certainty that there even was one I decided to move on.
+
+A five digit magic number leaves only 100,000 possible options.  With at least sixty available per course that's a one in 1,666 chance per guess. Given average luck that's only 833 expected guesses before a solution hits.  Tedious when done manually, but no problem for a script.
+
+At the time, Fall 1997, my script-fu was weak, but apparently sufficient.  I used Perl (poorly) to create a pair of scripts that allowed me to login, attempt to register for a course, and then kick off a number guesser.  In case the registration system had been programmed to watch for sequential guesses, I pre-randomized all 100,000 possible magic numbers and tried them in that order.  Given that they didn't even bother to watch for thousands of failed guesses in a row this was probably overkill, but better safe than sorry.
+
+The script worked.  My friends and I got our pick of courses for the next few quarters, and despite my boastful nature news never made it back to the U that such a thing was occurring.  We only stopped using the system when the telnet based registration was retired in favor of a web based system.  Knowing what I now do about automating HTTP form submissions, the web based system would likely have been even easier to game.
+
+The biggest glitch in the system was the fact that magic numbers were single use.  Whenever I "guessed" a magic number that was later given by the department to a student, that student's number wouldn't work. However, being given non-working magic numbers was a fairly regular occurrence and certainly not a cause for further investigation on the part of the department.  Indeed, the frequency with which my friends and I were given non-working magic numbers leads one to wonder if others weren't doing exactly as we were either using scripts, manual guessing, or by riffling the secretaries' desks.
+
+I've attached a screen-shot of the script in progress from an actual course registration in 1998.  Also attached are all the files necessary for use of the original script though since the target registration system is long gone they're only of historical interest.  Looking at the code now, I'm really embarrassed at both the general style and the overall design.  The open2 call, the Expect module, or at least named pipes would have made everything _much_ cleaner.  Still it worked well enough, and I never got caught which is what really matters.
+
+|magic-number.gif|
+
+`magic-number.tar.gz`_
+
+
+
+
+
+
+
+.. _magic-number.tar.gz: /unblog/UnBlog/2004-03-27?action=AttachFile&do=get&target=magic-number.tar.gz
+
+
+.. |magic-number.gif| image:: /unblog/UnBlog/2004-03-27?action=AttachFile&do=get&target=magic-number.gif
+
+
+
+**Comments**
+
+
+-------------------------
+
+ Doh, had no idea those attachment were as big as they were.  Sorry 'bout that. -- Ry4an
+
+-------------------------
+
+ Hang on a sec...you're using Emacs in that screenshot! -- Luke Francl
+
+-------------------------
+
+ I know, I didn't see the light and switch to vi until 1998.  Goes to show you're never too late to repent. -- Ry4an
+
+
+.. date: 1080367200

@@ -1,0 +1,27 @@
+
+Canoeing with a GPS Unit
+------------------------
+
+This weekend I had a great time canoeing with six friends.  We camped, swam, paddled, drank and just generally goofed around for a weekend. Two of us had brought along Garmin eTrex GPS units which I'd not previously had when canoeing.  They really added a lot.
+
+I built an 18 point route approximating our course before hand and loaded them into the GPSs.  With that info and the GPS's natural data collection we were able to always know our current speed, average speed (3.2 mph), max speed (mine = 10.5 mph), distance paddled (total = 29.1 miles), and elapsed time (10 hours 31 minutes of paddling).
+
+When we got back I took the GPS units and dumped their track history data to my computer.  Using the attached garbleplot.pl script, it made the attached image of our course.  The x and y scales are internally consistent in the image, but can't be compared with each other as the distance represented by a degree longitude and that of a degree latitude are different anywhere but the equator.  The GPS data has a much higher level of precision than the pixel resolution in the image can show.  At a higher zoom level the red and green lines would should Louis's canoe cutting a nice straight line down the river while mine zig zagged its way along the same general course.
+
+|canoe-tracks.png|
+
+`garbleplot.pl.gz`_
+
+
+
+
+
+
+
+.. _garbleplot.pl.gz: /unblog/UnBlog/2003-07-21?action=AttachFile&do=get&target=garbleplot.pl.gz
+
+
+.. |canoe-tracks.png| image:: /unblog/UnBlog/2003-07-21?action=AttachFile&do=get&target=canoe-tracks.png
+
+
+.. date: 1058763600
