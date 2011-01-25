@@ -32,7 +32,7 @@
                     (url_for('views.home'), '', 'Blog'),
                     (url_for('views.content', slug='about'), 'about', 'About'),
                     (url_for('views.content', slug='resume'), 'resume', 'Resume'),
-                    (url_for('views.content', slug='contact'), 'contact', 'Contact'),
+                    (url_for('views.post_list'), 'post', 'Posts'),
                 ] %}
                 <li><a href="{{ href }}"{% if id == active_page %} class="active"{%
                     endif %}>{{ title }}</a></li>

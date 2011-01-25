@@ -24,7 +24,7 @@ It's on a reasonably fast, unloaded box so the test suite runs in about 3 mins 3
 
 Unfortunately, the output is getting buffered somewhere so there's no output after "searching for changes" for almost 4 minutes, but the final output looks as attached.
 
-The machine's RSA host key fingerprint is: ac:81:ac:0b:47:f4:20:a1:4d:7e:6a:c5:62:ba:62:be. (updated 2010/06/07)
+The machine's RSA host key fingerprint is: ``ac:81:ac:0b:47:f4:20:a1:4d:7e:6a:c5:62:ba:62:be``. (updated 2010/06/07)
 
 The scripts can be viewed here: http://bitbucket.org/Ry4an/hgtester/
 

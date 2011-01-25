@@ -1,5 +1,4 @@
-
-Email -> SMS Conversion
+Email to SMS Conversion
 -----------------------
 
 There's a program on freshmeat called email2sms (http://freshmeat.net/projects/email2sms/) that runs emails through a series of filters until they're short enough to be sent to a cell phone as a SMS message -- which typically have a maximum length of 150 characters.  The script is mostly just a wrapper around the nifty Lingua::EN::Squeeze Perl module.  
