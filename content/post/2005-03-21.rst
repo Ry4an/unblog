@@ -10,7 +10,7 @@ Approval Voting for the ACM
 
 
 
-.. _Approval voting: wiki:WikiPedia:Approval voting
+.. _Approval voting: http://en.wikipedia.org/wiki/Approval_voting
 
 .. _many: http://www.approvalvoting.com/
 
@@ -18,7 +18,7 @@ Approval Voting for the ACM
 
 .. _as compared to: http://electionmethods.org/IRVproblems.htm
 
-.. _Instant Run-Off Voting: wiki:WikiPedia:Instant-runoff voting
+.. _Instant Run-Off Voting: http://en.wikipedia.org/wiki/Instant-runoff_voting
 
 .. _local campus chapter: http://acm.cs.umn.edu/
 

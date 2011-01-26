@@ -30,7 +30,7 @@ However, given that the default fortune data files only provide 3371 sayings tha
 
 .. _Earlier: ../2005-01-24
 
-.. _Birthday_paradox: wiki:WikiPedia:Birthday paradox
+.. _Birthday_paradox: http://en.wikipedia.org/wiki/Birthday_problem
 
 
 

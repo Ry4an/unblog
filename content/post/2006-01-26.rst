@@ -38,11 +38,11 @@ Somewhat related: Some folks at IBM did a very cool project wherein they generat
 
 .. _Wikipedia: http://wikipedia.org/
 
-.. _Abraham_Lincoln: wiki:WikiPedia:Abraham Lincoln
+.. _Abraham_Lincoln: http://en.wikipedia.org/wiki/Abraham_Lincoln
 
 .. _database dumps: http://download.wikimedia.org/
 
-.. _activity graphs: wiki:MetaWikiPedia:IBM History flow project
+.. _activity graphs: http://meta.wikimedia.org/wiki/IBM_History_flow_project
 
 .. _pretty pictures: http://researchweb.watson.ibm.com/history/images/capitalism_group.gif
 

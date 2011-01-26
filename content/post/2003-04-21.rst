@@ -10,7 +10,7 @@ To filter out the bad points I started by tossing out any line segments that wer
 
 Always one to go too far I modified my filter so it could take Nth order derivatives.  I ended up configuring it to take the first four derivatives of position (velocity, acceleration, jerk, jounce[1]).  I could've set it to 100 or so, but I figured with the time resolution I had I was already pushing it. 
 
-I experimentally arrived at threshold levels for the scalar magnitudes of each derivative using the ophthalmologist technique ("this or this", "this or this").  The end result for the same image can be viewed in filtered.png.  The missing lines that _should_ be there correspond to when I didn't press the pen down hard enough and are actually missing in the unfiltered image as well.  It's still not perfect, but it's good enough for me, unless someone else has a cool filtering idea I can try.
+I experimentally arrived at threshold levels for the scalar magnitudes of each derivative using the ophthalmologist technique ("this or this", "this or this").  The end result for the same image can be viewed in filtered.png.  The missing lines that *should* be there correspond to when I didn't press the pen down hard enough and are actually missing in the unfiltered image as well.  It's still not perfect, but it's good enough for me, unless someone else has a cool filtering idea I can try.
 
 I've attached the tarball for the software for posterity.  If you're using it email me first -- I might have a more current unreleased version.
 

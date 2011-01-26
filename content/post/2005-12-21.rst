@@ -34,11 +34,11 @@ The modified script can be `viewed here`_ and `downloaded here`_.
 
 .. _wrote an IRC nick tracking script: ../2003-10-03
 
-.. _Levenshtein_distance: wiki:WikiPedia:Levenshtein distance
+.. _Levenshtein_distance: http://en.wikipedia.org/wiki/Levenshtein_distance
 
 .. _`String::Approx`: http://search.cpan.org/dist/String-Approx/
 
-.. _Soundex: wiki:WikiPedia:Soundex
+.. _Soundex: http://en.wikipedia.org/wiki/Soundex
 
 .. _`String::Trigram`: http://search.cpan.org/dist/String-Trigram/
 

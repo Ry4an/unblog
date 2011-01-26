@@ -104,7 +104,7 @@ More talk later::
     better/worse/same, but no one ever says 'same' because their brain
     demands a difference
   <Ry4an> and when the whole point of the test is "does it make a
-    difference" the same is _more_ important than better/worse but when you
+    difference" the same is *more* important than better/worse but when you
     ask better/worse/same no one considers same equally
   <Vane> ry4an: i just think you should have a 'control' beer that is
     obviously different

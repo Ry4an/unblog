@@ -2,7 +2,7 @@
 Diplomacy Tutorial
 ------------------
 
-My all time favorite board game is called _Diplomacy_.  It's got the tactical simplicity of chess mixed with the social aspects of poker. It's been popular in quite a few white houses -- reportedly the Kennedys played ferociously.
+My all time favorite board game is called *Diplomacy*.  It's got the tactical simplicity of chess mixed with the social aspects of poker. It's been popular in quite a few white houses -- reportedly the Kennedys played ferociously.
 
 Unfortunately, it can be a difficult game to learn.  Not because the rules are complex -- they're not, but only because there aren't a lot of good presentations of the rules.  Oral descriptions quickly devolve into edge cases and exceptions, the printed rules look like they were written by lawyers, and just looking at the game board gives one the totally wrong impression that Diplomacy is like Risk or the hateful Axis and Allies.
 

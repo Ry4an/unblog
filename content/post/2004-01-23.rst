@@ -6,7 +6,7 @@ I live in a sleep deprived state.  Not just because I have a lot to do and resen
 
 Buying a good alarm clock is an exercise in frustration.  The features advertised on the box are seldom relevant, and the most important ones are never mentioned.  In the absence of a plugged in display model one is left to read the labels on the buttons or if available a manual to try to see how the thing actually works.  Two features which cannot be omitted without ruining the clock are:
 
-*  Turning the alarm off _must_ leave it ready to go off again the next day without having to switch it back on.
+*  Turning the alarm off *must* leave it ready to go off again the next day without having to switch it back on.
 
 *  The snooze button must be much larger than the off button.
 
@@ -48,7 +48,7 @@ Unfortunately the little micro-switch was a surface mount component and getting 
 
 -------------------------
 
- When I was 10 years old, I picked up a Sony "Dream Machine" (ICF-C370). Not only does the alarm stay set, it requires pressing _two_ buttons to turn it off.  Not in succession, either, you have to press them both in the proper order - first the 'Alarm' button, and while holding that down, the 'Alarm on/off' button.  I've been using this alarm for 15 years and it's performed flawlessly.  Although I'm extremely happy with it, I find myself requiring more, as of late.  See, I'm not some gimp that requires the use of the snooze button.  My problem is that the snooze button is so large that I accidentally hit while fumbling to turn the alarm off.  Then, while I'm happily showering or something, it starts going off.  I need a way of reducing the size of the snooze button, or disabling it entirely.  Also, my clock makes annoying clicking noises if I set my phone to close to it... I'm sad that the alarm clock market sucks so bad now... I really want to find a good one -- Gabe Turner
+ When I was 10 years old, I picked up a Sony "Dream Machine" (ICF-C370). Not only does the alarm stay set, it requires pressing *two* buttons to turn it off.  Not in succession, either, you have to press them both in the proper order - first the 'Alarm' button, and while holding that down, the 'Alarm on/off' button.  I've been using this alarm for 15 years and it's performed flawlessly.  Although I'm extremely happy with it, I find myself requiring more, as of late.  See, I'm not some gimp that requires the use of the snooze button.  My problem is that the snooze button is so large that I accidentally hit while fumbling to turn the alarm off.  Then, while I'm happily showering or something, it starts going off.  I need a way of reducing the size of the snooze button, or disabling it entirely.  Also, my clock makes annoying clicking noises if I set my phone to close to it... I'm sad that the alarm clock market sucks so bad now... I really want to find a good one -- Gabe Turner
 
 
 .. date: 1074837600

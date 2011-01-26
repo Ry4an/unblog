@@ -74,6 +74,7 @@ I was all excited to work on this little project.  Then I realized I don't have 
            //$actual_calname = getCalendarName($filename); original code commented out
            $actual_calname = $cal_names[$counter];
            $counter++;
+   }
 
 
 -- Psycho Whale

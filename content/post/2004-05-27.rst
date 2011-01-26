@@ -20,23 +20,19 @@ However, when you're an idiot in a rush like me in addition to skipping the dest
 
   scp myfile ry4an@elsewhere
 
-When you make that mistake scp decides that what you wanted to do was take the local file named 'myfile' and copy it to another local file named 'ry4an@elsewhere'.  That's certainly consistent with their syntax -- no colon, no remote system, but it is _never_ what I want.
+When you make that mistake scp decides that what you wanted to do was take the local file named 'myfile' and copy it to another local file named 'ry4an@elsewhere'.  That's certainly consistent with their syntax -- no colon, no remote system, but it is *never* what I want.
 
 Instead I go to the 'elsewhere' machine and start looking for 'myfile' and it's not there, and I'm very puzzled because scp didn't give me any error messages.  I don't know of anyone who has ever wanted scp to do a local copy, but for some reason the scp developers took extra time to add that feature.  I want to remove it.
 
 The best way would be to edit the scp source and neuter the part that does local copies.  The problem with that is I'd have to modify the scp program on lots of machines, many of which I have no control over.
 
-So, as a cheesy work around I spent a few seconds writing a bash shell function that refuses to invoke scp if there is no colon in the command line.  It's a crappy band-aid on what's definitely a user-error problem, but it's already saved me from making the same frustrating mistake 10 times since I wrote it last week.  Here it is in case anyone else has the same un-problem I do:
+So, as a cheesy work around I spent a few seconds writing a bash shell function that refuses to invoke scp if there is no colon in the command line.  It's a crappy band-aid on what's definitely a user-error problem, but it's already saved me from making the same frustrating mistake 10 times since I wrote it last week.  Here it is in case anyone else has the same un-problem I do::
 
   function scp () { if echo $* | grep -v -q -s : ; then
-
     echo scp: missing colon /usr/bin/scp
-
   else
-
     /usr/bin/scp $@
-
-  fi }
+  fi
 
 Just put that in your .bashrc and forever be saved from having a drive full of user@elsewhere files.  Or don't; I don't care about you.
 
