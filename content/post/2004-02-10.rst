@@ -21,7 +21,7 @@ I ended up going with a system of strictly linear time for the first 45 minutes 
 
 
 
-.. |phosphor| image:: http://www.jwz.org/xscreensaver/phosphor.gif
+.. |phosphor| image:: http://www.jwz.org/xscreensaver/screenshots/phosphor.jpg
 
 
 .. date: 1076392800

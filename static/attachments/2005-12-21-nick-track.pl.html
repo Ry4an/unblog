@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>Enscript Output</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#1F00FF" ALINK="#FF0000" VLINK="#9900DD">
+<A NAME="top">
+<A NAME="file1">
+<H1>nick-track.pl</H1>
+
+<PRE>
+<I><FONT COLOR="#B22222"># I wrote this IRSSI script because I got sick of remembering which of my
+</FONT></I><I><FONT COLOR="#B22222"># meat space friends mapped to which stupid nicks in IRC.  So that they 
+</FONT></I><I><FONT COLOR="#B22222"># couldn't evade my mappings I also track nick changes.  Here's an example
+</FONT></I><I><FONT COLOR="#B22222"># session:
+</FONT></I><I><FONT COLOR="#B22222"># 
+</FONT></I><I><FONT COLOR="#B22222"># &lt;Ry4an&gt; dopp, who are you again?
+</FONT></I><I><FONT COLOR="#B22222"># &lt;dopp&gt; Gabe
+</FONT></I><I><FONT COLOR="#B22222"># /call dopp Gabe                              &lt;-- command I issue locally
+</FONT></I><I><FONT COLOR="#B22222"># &lt;Gabe(dopp)&gt; I can't beleive you can't remember that.
+</FONT></I><I><FONT COLOR="#B22222">#  (!) dopp is now known as joe
+</FONT></I><I><FONT COLOR="#B22222"># &lt;Gabe(joe)&gt; I bet you're extra confused now.
+</FONT></I><I><FONT COLOR="#B22222"># &lt;Ry4an&gt; Not so much.
+</FONT></I><I><FONT COLOR="#B22222">#
+</FONT></I><I><FONT COLOR="#B22222"># These are a ton of things I could do to make this script better.  Just off
+</FONT></I><I><FONT COLOR="#B22222"># the top of my head are:
+</FONT></I><I><FONT COLOR="#B22222"># - munge private messages and notices in addition to public messages
+</FONT></I><I><FONT COLOR="#B22222"># - persistance
+</FONT></I><I><FONT COLOR="#B22222"># - use Irssi's expando mechanism to safely do nick rewriting (ala showmodes.pl)
+</FONT></I><I><FONT COLOR="#B22222"># 
+</FONT></I><I><FONT COLOR="#B22222"># I will almost certainly never get around to doing any of those.
+</FONT></I>
+<B><FONT COLOR="#A020F0">use</FONT></B> Irssi;
+<B><FONT COLOR="#A020F0">use</FONT></B> strict;
+<B><FONT COLOR="#A020F0">use</FONT></B> String::Trigram;
+<B><FONT COLOR="#A020F0">use</FONT></B> vars <B><FONT COLOR="#A020F0">qw</FONT></B>(</FONT></B>$VERSION </FONT></B>%IRSSI </FONT></B>%MAP);
+
+</FONT></B>$VERSION = <FONT COLOR="#BC8F8F"><B>&quot;1.1&quot;</FONT></B>;
+</FONT></B>%IRSSI = (
+	authors     =&gt; <FONT COLOR="#BC8F8F"><B>&quot;Ry4an Brase&quot;</FONT></B>,
+	contact     =&gt; <FONT COLOR="#BC8F8F"><B>'ry4an-irssi@ry4an.org'</FONT></B>,
+	name        =&gt; <FONT COLOR="#BC8F8F"><B>&quot;NickTrack&quot;</FONT></B>,
+	description =&gt; <FONT COLOR="#BC8F8F"><B>&quot;Hides nickname switching tomfoolery&quot;</FONT></B>,
+	license     =&gt; <FONT COLOR="#BC8F8F"><B>&quot;public domain&quot;</FONT></B>,
+	url         =&gt; <FONT COLOR="#BC8F8F"><B>&quot;http://ry4an.org&quot;</FONT></B>,
+	changed     =&gt; <FONT COLOR="#BC8F8F"><B>&quot;Tue Dec 20 23:41:48 CST 2005&quot;</FONT></B>,
+);
+</FONT></B>%MAP = (
+    <FONT COLOR="#BC8F8F"><B>'shadow9600'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Louis'</FONT></B>,
+    <FONT COLOR="#BC8F8F"><B>'Asrael'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Sammi'</FONT></B>,
+    <FONT COLOR="#BC8F8F"><B>'dopp'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Gabe'</FONT></B>,
+<I><FONT COLOR="#B22222">#    'orasis' =&gt; 'Justin',
+</FONT></I>    <FONT COLOR="#BC8F8F"><B>'idea_rat'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Rogers'</FONT></B>,
+    <FONT COLOR="#BC8F8F"><B>'Legato'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Sammi'</FONT></B>,
+    <FONT COLOR="#BC8F8F"><B>'Tofurky'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Sammi'</FONT></B>,
+    <FONT COLOR="#BC8F8F"><B>'yTpo'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Sammi'</FONT></B>,
+    <FONT COLOR="#BC8F8F"><B>'asrael'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Sammi'</FONT></B>,
+    <FONT COLOR="#BC8F8F"><B>'Asrael'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Sammi'</FONT></B>,
+    <FONT COLOR="#BC8F8F"><B>'Cordelia'</FONT></B> =&gt; <FONT COLOR="#BC8F8F"><B>'Sammi'</FONT></B>,
+);
+
+<B><FONT COLOR="#A020F0">sub</FONT></B> call_cmd {
+    <B><FONT COLOR="#A020F0">my</FONT></B> (</FONT></B>$data, </FONT></B>$server, </FONT></B>$witem) = </FONT></B>@_;
+    <B><FONT COLOR="#A020F0">my</FONT></B> (</FONT></B>$left, </FONT></B>$right) = <B><FONT COLOR="#A020F0">split</FONT></B> <FONT COLOR="#BC8F8F"><B>' '</FONT></B>, </FONT></B>$data;
+    <B><FONT COLOR="#A020F0">unless</FONT></B> (<B><FONT COLOR="#A020F0">defined</FONT></B> </FONT></B>$left &amp;&amp; <B><FONT COLOR="#A020F0">defined</FONT></B> </FONT></B>$right) {
+        <B><FONT COLOR="#A020F0">print</FONT></B> <FONT COLOR="#BC8F8F"><B>&quot;Usage: /call theirnick yournameforthem&quot;</FONT></B>;
+        <B><FONT COLOR="#A020F0">return</FONT></B>;
+    }
+    </FONT></B>$MAP{</FONT></B>$left} = </FONT></B>$right;
+    <B><FONT COLOR="#A020F0">print</FONT></B> <FONT COLOR="#BC8F8F"><B>&quot;$left will now be known as $right&quot;</FONT></B>;
+};
+
+Irssi::command_bind call =&gt; \</FONT></B>&amp;call_cmd;
+
+<B><FONT COLOR="#A020F0">sub</FONT></B> uncall_cmd {
+    <B><FONT COLOR="#A020F0">my</FONT></B> (</FONT></B>$data, </FONT></B>$server, </FONT></B>$witem) = </FONT></B>@_;
+    <B><FONT COLOR="#A020F0">if</FONT></B> (<B><FONT COLOR="#A020F0">exists</FONT></B> </FONT></B>$MAP{</FONT></B>$data}) {
+        <B><FONT COLOR="#A020F0">print</FONT></B> <FONT COLOR="#BC8F8F"><B>&quot;forgetting $data =&gt; &quot;</FONT></B> . <B><FONT COLOR="#A020F0">delete</FONT></B> </FONT></B>$MAP{</FONT></B>$data};
+    } <B><FONT COLOR="#A020F0">else</FONT></B> {
+        <B><FONT COLOR="#A020F0">print</FONT></B> <FONT COLOR="#BC8F8F"><B>&quot;no mapping known for $data&quot;</FONT></B>;
+    }
+};
+
+Irssi::command_bind uncall =&gt; \</FONT></B>&amp;uncall_cmd;
+
+<B><FONT COLOR="#A020F0">sub</FONT></B> rewrite {
+    <B><FONT COLOR="#A020F0">my</FONT></B> (</FONT></B>$server, </FONT></B>$data, </FONT></B>$nick, </FONT></B>$mask, </FONT></B>$target) = </FONT></B>@_;
+    <B><FONT COLOR="#A020F0">if</FONT></B> (<B><FONT COLOR="#A020F0">defined</FONT></B> </FONT></B>$MAP{</FONT></B>$nick}) {
+        </FONT></B>$nick = <FONT COLOR="#BC8F8F"><B>&quot;$MAP{$nick}($nick)&quot;</FONT></B>;
+    }
+    Irssi::signal_continue(</FONT></B>$server, </FONT></B>$data, <B><FONT COLOR="#A020F0">ucfirst</FONT></B> </FONT></B>$nick, </FONT></B>$mask, </FONT></B>$target);
+}
+
+<B><FONT COLOR="#A020F0">sub</FONT></B> nick_change {
+    <B><FONT COLOR="#A020F0">my</FONT></B> (</FONT></B>$chan, </FONT></B>$nick_rec, </FONT></B>$old_nick) = </FONT></B>@_;
+    <B><FONT COLOR="#A020F0">my</FONT></B> </FONT></B>$nick = </FONT></B>$nick_rec-&gt;{<FONT COLOR="#BC8F8F"><B>'nick'</FONT></B>};
+
+    <B><FONT COLOR="#A020F0">if</FONT></B> (<B><FONT COLOR="#A020F0">defined</FONT></B> </FONT></B>$MAP{</FONT></B>$old_nick}) {  <I><FONT COLOR="#B22222"># if a previous mappings exists
+</FONT></I>        <B><FONT COLOR="#A020F0">if</FONT></B> (String::Trigram::compare(</FONT></B>$nick, </FONT></B>$MAP{</FONT></B>$old_nick},
+                warp =&gt; 1.8,
+                ignoreCase =&gt; 1,
+                keepOnlyAlNums =&gt; 1) &lt; 0.5) {  <I><FONT COLOR="#B22222"># ignore trivial changes
+</FONT></I>            </FONT></B>$MAP{</FONT></B>$nick} = </FONT></B>$MAP{</FONT></B>$old_nick};
+        }
+        <B><FONT COLOR="#A020F0">delete</FONT></B> </FONT></B>$MAP{</FONT></B>$old_nick};
+    } <B><FONT COLOR="#A020F0">else</FONT></B> {  <I><FONT COLOR="#B22222"># no old mapping exists, create a new one
+</FONT></I>        <B><FONT COLOR="#A020F0">if</FONT></B> (String::Trigram::compare(</FONT></B>$nick, </FONT></B>$old_nick,
+                warp =&gt; 1.8,
+                ignoreCase =&gt; 1,
+                keepOnlyAlNums =&gt; 1) &lt; 0.5) {  <I><FONT COLOR="#B22222"># ignore trivial changes
+</FONT></I>            </FONT></B>$MAP{</FONT></B>$nick} = </FONT></B>$old_nick;
+        }
+    }
+}
+
+Irssi::signal_add(<FONT COLOR="#BC8F8F"><B>&quot;message public&quot;</FONT></B>, \</FONT></B>&amp;rewrite);
+Irssi::signal_add(<FONT COLOR="#BC8F8F"><B>&quot;nicklist changed&quot;</FONT></B>, \</FONT></B>&amp;nick_change);
+</PRE>
+<HR>
+<ADDRESS>Generated by <A HREF="http://www.iki.fi/~mtr/genscript/">GNU enscript 1.6.1</A>.</ADDRESS>
+</BODY>
+</HTML>
