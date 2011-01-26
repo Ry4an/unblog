@@ -17,3 +17,4 @@ If you ever came by and admired the place, tell your house hunting friends.
 
 
 .. date: 1142920800
+.. tags: home

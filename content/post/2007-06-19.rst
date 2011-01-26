@@ -19,3 +19,4 @@ Sadly we've got a MacOS version done, but the installation was deemed too clumsy
 
 
 .. date: 1182229200
+.. tags: ideas-built,software

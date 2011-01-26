@@ -34,3 +34,4 @@ This weekend I put in a Honeywell 360A whole house humidifier.  The instructions
 
 
 .. date: 1164693600
+.. tags: home,ideas-built

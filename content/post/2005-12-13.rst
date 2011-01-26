@@ -54,3 +54,4 @@ Now to try qtparted to squish down the NTFS windows partition to something reaso
 
 
 .. date: 1134453600
+.. tags: ideas-built,software

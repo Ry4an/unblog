@@ -27,3 +27,4 @@ The result was some very nice tables with high end vinyl, velveteen, and birch. 
 
 
 .. date: 1091595600
+.. tags: home,ideas-built

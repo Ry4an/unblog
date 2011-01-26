@@ -29,3 +29,4 @@ So, if you're doing any sort of HTTP data transfer in your Java application, the
 
 
 .. date: 1108447200
+.. tags: ideas-built,software

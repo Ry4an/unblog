@@ -17,3 +17,4 @@ I wrote `an article`_ that got posted on the O'Reilly Network.  It sounds a litt
 
 
 .. date: 1111039200
+.. tags: ideas-built,software

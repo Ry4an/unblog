@@ -17,3 +17,4 @@ While years (x) is >= 2 it looks like an asymptote headed toward zero.  Somethin
 
 
 .. date: 1050382800
+.. tags: funny,ideas-built

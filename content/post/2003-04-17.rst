@@ -41,3 +41,4 @@ Attached is the diff for index.html to add this little hack.  I created an ugly 
 
 
 .. date: 1050555600
+.. tags: ideas-built,software

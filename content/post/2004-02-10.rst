@@ -25,3 +25,4 @@ I ended up going with a system of strictly linear time for the first 45 minutes 
 
 
 .. date: 1076392800
+.. tags: funny,ideas-built,software

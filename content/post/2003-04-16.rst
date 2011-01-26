@@ -41,3 +41,4 @@ Looks like `the halfbakery`_ suffered a `catestrophic disk crash`_ without backu
 
 
 .. date: 1050469200
+.. tags: funny,ideas-unbuilt

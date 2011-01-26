@@ -19,3 +19,4 @@ I put together a sheet to keep track of who I spoke to, when, how to get back to
 
 
 .. date: 1172124000
+.. tags: funny,ideas-built

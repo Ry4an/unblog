@@ -30,3 +30,4 @@ I know that we both know people who have dealt with Bell's Palsy, which is indee
 
 
 .. date: 1131516000
+.. tags: funny

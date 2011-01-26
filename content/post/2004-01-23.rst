@@ -52,3 +52,4 @@ Unfortunately the little micro-switch was a surface mount component and getting 
 
 
 .. date: 1074837600
+.. tags: ideas-built

@@ -17,3 +17,4 @@ Ten minutes later I had a list of 27,648 (4 * 3 * 4 * 3 * 3 * 4 * 4 * 4) possibi
 
 
 .. date: 1103522400
+.. tags: security,ideas-built

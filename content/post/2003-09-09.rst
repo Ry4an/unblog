@@ -38,3 +38,4 @@ The software it comes with, ProntoEdit, is (I'm told) terrible, but it only runs
 
 
 .. date: 1063083600
+.. tags: ideas-built

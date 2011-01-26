@@ -105,3 +105,4 @@ Yeah, I don't get it either.  Most of the modern blogging software includes emai
 
 
 .. date: 1050210000
+.. tags: meta,ideas-built,software

@@ -19,3 +19,4 @@ For now all I've done is define an XML format for representing camera informatio
 
 
 .. date: 1055394000
+.. tags: security,ideas-built

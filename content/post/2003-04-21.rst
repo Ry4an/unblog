@@ -37,3 +37,4 @@ I've attached the tarball for the software for posterity.  If you're using it em
 
 
 .. date: 1050901200
+.. tags: ideas-built,software

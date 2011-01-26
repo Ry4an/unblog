@@ -39,3 +39,4 @@ After moving into the house I started a series of small home improvement tasks. 
 
 
 .. date: 1145077200
+.. tags: home,ideas-built

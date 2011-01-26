@@ -17,3 +17,4 @@ More time spent staring at the lighting offerings at Home Depot turned up a work
 
 
 .. date: 1157346000
+.. tags: security,home

@@ -160,3 +160,4 @@ Thomas.
 Excellent, maybe they've updated.  I kept having it refuse to display any webcal URL that didn't end in '.ics', pehaps that's been fixed.  Also, I found I needed to add some link text to the blank free/busy view entries for them to be clickable, but that would only be required if you use the free/busy (rather than full detail) view gcalendar provides. --* Ry4an
 
 .. date: 1144990800
+.. tags: ideas-built,software

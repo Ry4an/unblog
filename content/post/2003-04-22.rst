@@ -32,3 +32,4 @@ haha, just kidding about that...
 
 
 .. date: 1050987600
+.. tags: funny,ideas-unbuilt

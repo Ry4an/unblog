@@ -27,3 +27,4 @@ remote-color-bashrc_
 
 
 .. date: 1090472400
+.. tags: ideas-built,software

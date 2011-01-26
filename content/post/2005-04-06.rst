@@ -25,3 +25,4 @@ Anyway, I re-rendered the site for the first time in ages, and here's a screen s
 
 
 .. date: 1112763600
+.. tags: funny,ideas-built

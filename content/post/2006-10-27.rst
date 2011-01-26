@@ -43,3 +43,4 @@ In the end it worked well -- no details fell through the cracks --, but it was p
 
 
 .. date: 1161925200
+.. tags: people,software

@@ -27,3 +27,4 @@ Last night the friends were coming by for poker again and wanted to play tournam
 
 
 .. date: 1075010400
+.. tags: ideas-built,software

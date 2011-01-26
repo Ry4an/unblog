@@ -50,3 +50,4 @@ Cell phones are wonderful when in doubt or unsure.
 
 
 .. date: 1115182800
+.. tags: funny

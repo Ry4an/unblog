@@ -21,3 +21,4 @@ For now, we'll be poker-less in IRC, and probably get a little more work done be
 
 
 .. date: 1075096800
+.. tags: ideas-built,software

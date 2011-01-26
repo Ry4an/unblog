@@ -25,3 +25,4 @@ The whole thing fits into a nice tidy Perl script.  It's invoked via procmail an
 
 
 .. date: 1056258000
+.. tags: ideas-built,software

@@ -19,3 +19,4 @@ Last week Kate, Natz, and I painted a few more rooms, added handles to the cabin
 
 
 .. date: 1139464800
+.. tags: home

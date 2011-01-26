@@ -17,3 +17,4 @@ A few years back I decided that a simple introduction to the rules was lacking, 
 
 
 .. date: 1094619600
+.. tags: ideas-built

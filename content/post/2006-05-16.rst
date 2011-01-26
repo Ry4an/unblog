@@ -28,3 +28,4 @@ Yay! We'll finally have a sofa for people to sit on.
 
 
 .. date: 1147755600
+.. tags: home

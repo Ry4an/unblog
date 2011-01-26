@@ -27,3 +27,4 @@ Everything's working quite well.  We've got a bevy of contact, motion, and tempe
 
 
 .. date: 1171173600
+.. tags: security,home,ideas-built

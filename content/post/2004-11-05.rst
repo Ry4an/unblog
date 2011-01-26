@@ -39,3 +39,4 @@ So if I could get a little feedback, it'd be great.  Is this funny or just a dum
 
 
 .. date: 1099634400
+.. tags: funny,ideas-unbuilt

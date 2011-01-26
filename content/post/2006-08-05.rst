@@ -31,3 +31,4 @@ Meager construction efforts aside I've been working on some big things at work a
 
 
 .. date: 1154754000
+.. tags: home,ideas-built

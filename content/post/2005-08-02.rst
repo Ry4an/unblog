@@ -17,3 +17,4 @@ Alternatively, you could ditch your land line.  That worked for me.  --Greg
 Yeah, I've considered that but I like having a phone number I can give out to people whom I don't want reaching me on my cell phone -- especially since I work from home.  Indeed, that's why I got the call-forwarding initially.
 
 .. date: 1122958800
+.. tags: ideas-unbuilt

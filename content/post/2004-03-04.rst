@@ -36,3 +36,4 @@ I ended up hacking the xscreensaver config and webcollage script to get things w
 
 
 .. date: 1078380000
+.. tags: ideas-built,software

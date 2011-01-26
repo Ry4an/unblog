@@ -54,3 +54,4 @@ I've attached a screen-shot of the script in progress from an actual course regi
 
 
 .. date: 1080367200
+.. tags: security,funny,ideas-built,software

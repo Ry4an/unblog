@@ -19,3 +19,4 @@ The site also links to our `engagement photos`_, where you can see how very luck
 
 
 .. date: 1135576800
+.. tags: people

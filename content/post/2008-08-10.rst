@@ -36,3 +36,4 @@ Presumably you're referring to this_, though I've no idea why you attached the c
 
 
 .. date: 1218344400
+.. tags: people,ideas-built

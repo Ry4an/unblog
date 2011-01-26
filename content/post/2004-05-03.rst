@@ -15,3 +15,4 @@ The feed is at http://mpls-watched.org/map/rss.xml
 
 
 .. date: 1083560400
+.. tags: ideas-built,software
