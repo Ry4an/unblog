@@ -20,7 +20,7 @@ Is it perfect?  No.  The people in the channel still refer to one another by the
 
 
 
-.. _nick-track.pl.gz: /unblog/UnBlog/2003-10-03?action=AttachFile&do=get&target=nick-track.pl.gz
+.. _nick-track.pl.gz: /unblog/static/attachments/2003-10-03-nick-track.pl.gz
 
 
 

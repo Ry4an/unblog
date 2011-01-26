@@ -22,7 +22,7 @@ remote-color-bashrc_
 
 
 
-.. _remote-color-bashrc: /unblog/UnBlog/2004-07-22?action=AttachFile&do=get&target=remote-color-bashrc
+.. _remote-color-bashrc: /unblog/static/attachments/2004-07-22-remote-color-bashrc
 
 
 

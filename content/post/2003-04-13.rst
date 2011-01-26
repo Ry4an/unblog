@@ -101,7 +101,7 @@ Yeah, I don't get it either.  Most of the modern blogging software includes emai
 --Ry4an
 
 
-.. _attached a tarball: /unblog/UnBlog/2003-04-14/Comments?action=AttachFile&do=get&target=unblog.tar.gz
+.. _attached a tarball: /unblog/static/attachments/2003-04-14-Comments-unblog.tar.gz
 
 
 .. date: 1050210000

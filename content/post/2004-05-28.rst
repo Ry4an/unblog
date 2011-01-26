@@ -52,7 +52,7 @@ I found that spam does, indeed, favor no particular hour.  However, the non-spam
 
 
 
-.. |mailchart.png| image:: /unblog/UnBlog/2004-05-28?action=AttachFile&do=get&target=mailchart.png
+.. |mailchart.png| image:: /unblog/static/attachments/2004-05-28-mailchart.png
 
 
 .. date: 1085720400

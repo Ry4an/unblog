@@ -37,7 +37,7 @@ Attached is my version of the email2sms script, the configuration files I use wi
 
 
 
-.. _email2sms-ry4an.tar.gz: /unblog/UnBlog/2003-09-11?action=AttachFile&do=get&target=email2sms-ry4an.tar.gz
+.. _email2sms-ry4an.tar.gz: /unblog/static/attachments/2003-09-11-email2sms-ry4an.tar.gz
 
 
 

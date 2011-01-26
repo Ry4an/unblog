@@ -22,7 +22,7 @@ As alluded to previously, Bugzilla has a user-interface that only a software dev
 
 In the end it worked well -- no details fell through the cracks --, but it was probably overkill for a two-person project.  Something like basecamp_ is probably a much better fit. Bugzilla does have some nearly useless charts that allowed me to produce the horrible dependency graph below:
 
-.. image:: /unblog/UnBlog/2006-10-27?action=AttachFile&do=get&target=wedding-dependencies.png
+.. image:: /unblog/static/attachments/2006-10-27-wedding-dependencies.png
 
 .. _wedding website: http://kateandry4an.org
 

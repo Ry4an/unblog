@@ -22,10 +22,10 @@ Attached is a small copy of the graphic and an archive containing the layered gi
 
 
 
-.. _shrimp-recycling.tar.gz: /unblog/UnBlog/2004-01-24?action=AttachFile&do=get&target=shrimp-recycling.tar.gz
+.. _shrimp-recycling.tar.gz: /unblog/static/attachments/2004-01-24-shrimp-recycling.tar.gz
 
 
-.. |shrimp-recycling-sm.png| image:: /unblog/UnBlog/2004-01-24?action=AttachFile&do=get&target=shrimp-recycling-sm.png
+.. |shrimp-recycling-sm.png| image:: /unblog/static/attachments/2004-01-24-shrimp-recycling-sm.png
 
 
 

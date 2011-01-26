@@ -18,7 +18,7 @@ I ended up hacking the xscreensaver config and webcollage script to get things w
 
 
 
-.. _driftnet-webcollage-xscreensaver.tar.gz: /unblog/UnBlog/2004-03-04?action=AttachFile&do=get&target=driftnet-webcollage-xscreensaver.tar.gz
+.. _driftnet-webcollage-xscreensaver.tar.gz: /unblog/static/attachments/2004-03-04-driftnet-webcollage-xscreensaver.tar.gz
 
 
 

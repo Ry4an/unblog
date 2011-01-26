@@ -21,7 +21,7 @@ The software it comes with, ProntoEdit, is (I'm told) terrible, but it only runs
 
 
 
-.. |tonto.png| image:: /unblog/UnBlog/2003-09-09?action=AttachFile&do=get&target=tonto.png
+.. |tonto.png| image:: /unblog/static/attachments/2003-09-09-tonto.png
 
 
 

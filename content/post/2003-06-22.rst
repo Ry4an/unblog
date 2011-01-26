@@ -20,7 +20,7 @@ The whole thing fits into a nice tidy Perl script.  It's invoked via procmail an
 
 
 
-.. _mailman-auto-reject.pl: /unblog/UnBlog/2003-06-22?action=AttachFile&do=get&target=mailman-auto-reject.pl
+.. _mailman-auto-reject.pl: /unblog/static/attachments/2003-06-22-mailman-auto-reject.pl
 
 
 

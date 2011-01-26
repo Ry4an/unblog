@@ -27,7 +27,7 @@ I'm sure the makers of real word processors, like open office, could add such a 
 
 
 
-.. |highlight.png| image:: /unblog/UnBlog/2005-03-11?action=AttachFile&do=get&target=highlight.png
+.. |highlight.png| image:: /unblog/static/attachments/2005-03-11-highlight.png
 
 
 .. date: 1110520800

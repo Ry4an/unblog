@@ -21,7 +21,7 @@ Anyway, I re-rendered the site for the first time in ages, and here's a screen s
 .. _wikipedia: http://en.wikipedia.org/wiki/Der_Spiegel
 
 
-.. |adoptaveggie.gif| image:: /unblog/UnBlog/2005-04-06?action=AttachFile&do=get&target=adoptaveggie.gif
+.. |adoptaveggie.gif| image:: /unblog/static/attachments/2005-04-06-adoptaveggie.gif
 
 
 .. date: 1112763600

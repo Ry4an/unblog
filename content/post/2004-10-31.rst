@@ -13,7 +13,7 @@ My Halloween costume this year came out pretty well.  I went as Alex from Kubric
 
 
 
-.. |clockworkorange.jpg| image:: /unblog/UnBlog/2004-10-31?action=AttachFile&do=get&target=clockworkorange.jpg
+.. |clockworkorange.jpg| image:: /unblog/static/attachments/2004-10-31-clockworkorange.jpg
 
 
 .. date: 1099198800

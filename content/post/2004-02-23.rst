@@ -36,7 +36,7 @@ Anyway, I've attached the code in case someone wants to take it and make it bett
 
 
 
-.. _perlbot-1.9.5-Poker.tar.gz: /unblog/UnBlog/2004-02-23?action=AttachFile&do=get&target=perlbot-1.9.5-Poker.tar.gz
+.. _perlbot-1.9.5-Poker.tar.gz: /unblog/static/attachments/2004-02-23-perlbot-1.9.5-Poker.tar.gz
 
 
 

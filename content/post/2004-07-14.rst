@@ -18,10 +18,10 @@ Anyway, attached are the CCF file and a screen-shot.
 
 
 
-.. _irobot-roomba-ccf.zip: /unblog/UnBlog/2004-07-14?action=AttachFile&do=get&target=irobot-roomba-ccf.zip
+.. _irobot-roomba-ccf.zip: /unblog/static/attachments/2004-07-14-irobot-roomba-ccf.zip
 
 
-.. |roomba.gif| image:: /unblog/UnBlog/2004-07-14?action=AttachFile&do=get&target=roomba.gif
+.. |roomba.gif| image:: /unblog/static/attachments/2004-07-14-roomba.gif
 
 
 .. date: 1089781200

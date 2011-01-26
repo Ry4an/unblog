@@ -24,7 +24,7 @@ Update:  Looks like now google offers `a good way to do this`_.
 
 .. _good phpicalendar output from google: http://ry4an.org/calendar/
 
-.. _google-calendar-phpicalendar-2.22.zip: /unblog/UnBlog/2006-04-14?action=AttachFile&do=get&target=google-calendar-phpicalendar-2.22.zip
+.. _google-calendar-phpicalendar-2.22.zip: /unblog/static/attachments/2006-04-14-google-calendar-phpicalendar-2.22.zip
 
 .. _a good way to do this: http://www.google.com/googlecalendar/event_publisher_guide.html#site
 

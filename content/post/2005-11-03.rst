@@ -27,7 +27,7 @@ Thanks to all who attended,
 
 
 
-.. |15.jpg| image:: /unblog/UnBlog/2005-11-03?action=AttachFile&do=get&target=15.jpg
+.. |15.jpg| image:: /unblog/static/attachments/2005-11-03-15.jpg
 
 
 .. date: 1130997600

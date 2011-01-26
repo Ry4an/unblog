@@ -18,7 +18,7 @@ The outcome can be seen on the http://ry4an.org/dipatsea/ site, though it looks 
 
 
 
-.. _evolver-template.zip: /unblog/UnBlog/2004-05-06?action=AttachFile&do=get&target=evolver-template.zip
+.. _evolver-template.zip: /unblog/static/attachments/2004-05-06-evolver-template.zip
 
 
 

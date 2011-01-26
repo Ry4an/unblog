@@ -16,10 +16,10 @@ The attached image shows the diagram.  The attached archive contains the source 
 
 
 
-.. _doctor-lucky.tar.gz: /unblog/UnBlog/2004-03-25?action=AttachFile&do=get&target=doctor-lucky.tar.gz
+.. _doctor-lucky.tar.gz: /unblog/static/attachments/2004-03-25-doctor-lucky.tar.gz
 
 
-.. |doctor-lucky.png| image:: /unblog/UnBlog/2004-03-25?action=AttachFile&do=get&target=doctor-lucky.png
+.. |doctor-lucky.png| image:: /unblog/static/attachments/2004-03-25-doctor-lucky.png
 
 
 

@@ -36,7 +36,7 @@ If anything I'd say my decision to switch to the hard-to-migrate-from remind app
 
 
 
-.. _phpgw-calendar-migrate.tar.gz: /unblog/UnBlog/2003-10-06?action=AttachFile&do=get&target=phpgw-calendar-migrate.tar.gz
+.. _phpgw-calendar-migrate.tar.gz: /unblog/static/attachments/2003-10-06-phpgw-calendar-migrate.tar.gz
 
 
 

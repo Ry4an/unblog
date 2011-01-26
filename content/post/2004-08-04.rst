@@ -18,12 +18,12 @@ The result was some very nice tables with high end vinyl, velveteen, and birch. 
 
 
 
-.. _pokertable.dxf: /unblog/UnBlog/2004-08-04?action=AttachFile&do=get&target=pokertable.dxf
+.. _pokertable.dxf: /unblog/static/attachments/2004-08-04-pokertable.dxf
 
 
-.. |poker-table.png| image:: /unblog/UnBlog/2004-08-04?action=AttachFile&do=get&target=poker-table.png
+.. |poker-table.png| image:: /unblog/static/attachments/2004-08-04-poker-table.png
 
-.. |ry4an-table.jpg| image:: /unblog/UnBlog/2004-08-04?action=AttachFile&do=get&target=ry4an-table.jpg
+.. |ry4an-table.jpg| image:: /unblog/static/attachments/2004-08-04-ry4an-table.jpg
 
 
 .. date: 1091595600

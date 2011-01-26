@@ -42,7 +42,7 @@ The fortune file, corresponding .dat index file, source .csv file, and munging s
 
 
 
-.. _drinks-fortune-1.0.tar.gz: /unblog/UnBlog/2004-02-29?action=AttachFile&do=get&target=drinks-fortune-1.0.tar.gz
+.. _drinks-fortune-1.0.tar.gz: /unblog/static/attachments/2004-02-29-drinks-fortune-1.0.tar.gz
 
 
 

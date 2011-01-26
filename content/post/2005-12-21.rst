@@ -44,9 +44,9 @@ The modified script can be `viewed here`_ and `downloaded here`_.
 
 .. _this paper: http://scholar.google.com/scholar?q=%22Angell%22+%22Automatic+spelling+correction%22
 
-.. _viewed here: /unblog/UnBlog/2005-12-21?action=AttachFile&do=get&target=nick-track.pl.html
+.. _viewed here: /unblog/static/attachments/2005-12-21-nick-track.pl.html
 
-.. _downloaded here: /unblog/UnBlog/2005-12-21?action=AttachFile&do=get&target=nick-track-1.1.tar.gz
+.. _downloaded here: /unblog/static/attachments/2005-12-21-nick-track-1.1.tar.gz
 
 
 

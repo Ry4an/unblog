@@ -14,7 +14,7 @@ I put together a sheet to keep track of who I spoke to, when, how to get back to
 
 
 
-.. _printable form: /unblog/UnBlog/2007-02-22?action=AttachFile&do=get&target=customer-service-log.pdf
+.. _printable form: /unblog/static/attachments/2007-02-22-customer-service-log.pdf
 
 
 

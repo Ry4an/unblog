@@ -20,7 +20,7 @@ Attached is the patch file and README which was submitted to the project.
 
 
 
-.. _foldergroup-patch--bookmarksync-0.3.3.tar.gz: /unblog/UnBlog/2004-05-01?action=AttachFile&do=get&target=foldergroup-patch--bookmarksync-0.3.3.tar.gz
+.. _foldergroup-patch--bookmarksync-0.3.3.tar.gz: /unblog/static/attachments/2004-05-01-foldergroup-patch--bookmarksync-0.3.3.tar.gz
 
 
 

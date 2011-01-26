@@ -23,7 +23,7 @@ Everything's working quite well.  We've got a bevy of contact, motion, and tempe
 .. _next alarm: http://nextalarm.com
 
 
-.. |alarm-rss.png| image:: /unblog/UnBlog/2007-02-11?action=AttachFile&do=get&target=alarm-rss.png
+.. |alarm-rss.png| image:: /unblog/static/attachments/2007-02-11-alarm-rss.png
 
 
 .. date: 1171173600

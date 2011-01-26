@@ -24,7 +24,7 @@ savelinks_
 
 
 
-.. _savelinks: /unblog/UnBlog/2003-06-08?action=AttachFile&do=get&target=savelinks
+.. _savelinks: /unblog/static/attachments/2003-06-08-savelinks
 
 
 
