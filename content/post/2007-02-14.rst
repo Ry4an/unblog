@@ -3,8 +3,23 @@ View Any Simon Delivers Order
 -----------------------------
 
 I forwarded a Simon Delivers order receipt email on to a friend, and he was able to view the order without being logged in as me.  Turns out that if you have a Simon Delivers account at all they let you view any order.  I created a `quick web form`_ to let anyone view any order using my account.  Here's my favorite order so far:
+ 
+===  =============================================================  =======
+Qty  Item Name                                                      Each
+---  -------------------------------------------------------------  -------
+1    Cetaphil Moisturizing Lotion                                   $10.99
+2    Coke Diet - 24/12 oz. Cans                                     $7.49
+2    Dr Pepper Diet - 24/12 oz. Cans                                $7.49
+2    Hershey's Milk Chocolate Candy Bars - 6 ct.                    $3.49
+2    Life Savers Wintergreen Flavored - Individually Wrapped - Bag  $1.89
+1    Nabisco Nutter Butter Peanut Butter Sandwich Cookies           $3.79
+1    Nestea Cool Lemon Iced Tea Fridge Pack - 12/12 oz. Cans        $4.19
+2    Pepsi - 24/12 oz. Cans                                         $7.49
+2    Pepsi 8/12 oz. Bottles                                         $3.69
+1    Seven-Up - 12/12 oz. Cans                                      $4.19
+2    Seven-Up Diet - 12/12 oz. Cans                                 $4.19
+===  =============================================================  =======
 
-[Table not converted]
 
 I'm sure fixing this problem is simple as adding whatever the .asp equivalent of this is:
 

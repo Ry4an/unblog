@@ -6,14 +6,20 @@ The w3c_, the nominal leader of web standards, has a `recommendation against`_ u
 
 That said I wondered who was winning the battles for google's *here* and *click here* turf.  To find out I took the top entries for each and then googled them with both *click here* and *here*.  Here's the resulting table.
 
-[Table not converted]
+===================  ====  ============  ====  ==========
+Phrase               Here                "Click Here" 
+-------------------  ------------------  ----------------
+Measure              Rank  Hits          Rank  Hits       
+-------------------  ----  ------------  ----  ----------
+Adobe                1     14,300,000    1     11,000,000 
+QuickTime            2     3,560,000     2     1,830,000  
+"Real Player"        3     1,720,000     4     900,000    
+"Internet Explorer"  4     13,500,000    3     7,940,000  
+MapQuest             5     1,970,000     5     1,130,000  
+ShockWave            7     1,240,000     6     564,000    
+===================  ====  ============  ====  ==========
 
 So, what can we conclude from these numbers?  Nothing at all.  They provide only an aggregate of popularity, web design savvy, and a bunch of other unidentified factors.  But, there they are just the same.
-
-
-
-
-
 
 
 .. _w3c: http://www.w3.org/
