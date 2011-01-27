@@ -24,7 +24,7 @@ It looks like there's been some updating and porting discussion of this script a
 
 .. _mail2wiki.zip: /unblog/static/attachments/2004-09-18-mail2wiki.zip
 
-.. _ScriptMarket/EmailToWikiGateway: wiki:MoinMoin:ScriptMarket/EmailToWikiGateway
+.. _ScriptMarket/EmailToWikiGateway: http://moinmo.in/ScriptMarket/EmailToWikiGateway
 
 
 
