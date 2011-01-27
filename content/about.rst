@@ -1,15 +1,21 @@
 About
 =====
 
-I'm a Brazilian Engineering student and a Gentoo Linux developer.
+Minneapolis, outdoorsman, geek, dad.
 
-More info will be available soon. :)
+I'm finally getting this site back into shape.  Expect a little more soon.
 
+.. _30ADBB9E: http://ry4an.org/home/ry4an-key.txt
+.. _CV: http://careers.stackoverflow.com/ry4an
 
-.. date added automatically by the script blohg_dump.py.
-   this file was exported from an old repository, and this comment will
-   help me to forcing the old creation date, instead of the date of the
-   first commit on the new repository.
+- **Email**: ry4an [at] ry4an [dot] org
+- **Blog**: http://ry4an.org/unblog/
+- **Resume**: http://ry4an.org/unblog/resume/
+- **Google Buzz**: http://www.google.com/profiles/ry4anb#buzz
+- **LinkedIn**: http://www.linkedin.com/in/ry4an
+- **Stack Overflow**: CV_ and `Profile <http://stackoverflow.com/users/8992/ry4an>`_
+- **Twitter**: http://twitter.com/ry4an/
+- **IRC**: Ry4an [at] Freenode / OFTC
+- **GPG key**: 30ADBB9E_
 
-.. date: 1261025681
-
+.. image:: http://stackoverflow.com/users/flair/8992.png
