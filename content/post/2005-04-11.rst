@@ -32,4 +32,4 @@ and crated a file named CVSROOT/checkforry4an containing::
 Now when I put a  // FIXME RY4AN  comment into a source file commits break until I remove it.
 
 .. date: 1113195600
-.. tags: ideas-built,software
+.. tags: java,ideas-built,software

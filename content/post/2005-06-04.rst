@@ -52,4 +52,4 @@ It looks like someone did start making something like this (before I posted).  T
 
 
 .. date: 1117861200
-.. tags: ideas-unbuilt
+.. tags: java,ideas-unbuilt
