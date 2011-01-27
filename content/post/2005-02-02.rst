@@ -35,4 +35,4 @@ However, given that the default fortune data files only provide 3371 sayings tha
 
 
 .. date: 1107324000
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software

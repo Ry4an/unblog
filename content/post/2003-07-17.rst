@@ -45,4 +45,4 @@ I whipped up a little Perl script to extract some stats and create a histogram. 
 
 
 .. date: 1058418000
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software

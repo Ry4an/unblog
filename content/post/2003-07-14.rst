@@ -22,4 +22,4 @@ Attached is a tarball containing that script.
 
 
 .. date: 1058158800
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software

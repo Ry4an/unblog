@@ -60,4 +60,4 @@ There was a little more `talk about this on the moin moin general mailing list`_
 
 
 .. date: 1110348000
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software

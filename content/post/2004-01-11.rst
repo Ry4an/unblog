@@ -21,4 +21,4 @@ I've got a silly little project in the works for using friendsd in a manner othe
 
 
 .. date: 1073800800
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software

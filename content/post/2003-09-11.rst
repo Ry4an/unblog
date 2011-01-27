@@ -42,4 +42,4 @@ Attached is my version of the email2sms script, the configuration files I use wi
 
 
 .. date: 1063256400
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software

@@ -47,4 +47,4 @@ Attached is the script and the same output in various formats.
 .. _HoW-dice.tar.gz: /unblog/static/attachments/2004-05-02-HoW-dice.tar.gz
 
 .. date: 1083474000
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software

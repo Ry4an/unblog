@@ -23,4 +23,4 @@ Earlier this month some friends and I hiked across Isle Royale in lake Superior.
 
 
 .. date: 1127365200
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software

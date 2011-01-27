@@ -25,4 +25,4 @@ When we got back I took the GPS units and dumped their track history data to my 
 
 
 .. date: 1058763600
-.. tags: ideas-built,software
+.. tags: perl,ideas-built,software
