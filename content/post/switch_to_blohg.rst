@@ -39,7 +39,7 @@ search results -- please let me know if you find a broken one.
 
 .. _fork: http://www.xent.com/FoRK-archive/spring96/0000.html
 .. _tol: http://lists.canonical.org/pipermail/kragen-tol/
-.. _mailing list archive software to look like a blog: ../2003-04-13/
+.. _mailing list archive software to look like a blog: /unblog/post/2003-04-13/
 .. _built a blog around a wiki: /unblog/post/2005-01-16/
 .. _blohg: http://hg.rafaelmartins.eng.br/blohg/
 .. _mercurial: http://mercurial.selenic.com/
