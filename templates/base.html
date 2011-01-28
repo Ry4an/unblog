@@ -68,6 +68,20 @@
                         {%- endfor %}
                     </ul>
                     {%- endif %}
+                    <h2>Contact</h2>
+                    <ul>
+                        {%- for icon, href, title in [
+                            ('http://google.com/s2/favicons?domain=www.google.com', 'http://www.google.com/profiles/ry4anb#buzz', 'Google Buzz'),
+                            ('http://google.com/s2/favicons?domain=twitter.com', 'http://twitter.com/Ry4an', 'Twitter'),
+                            ('http://google.com/s2/favicons?domain=ry4an.org', 'mailto:ry4an@ry4an.org', 'Email'),
+                            ('http://google.com/s2/favicons?domain=www.linkedin.com', 'http://www.linkedin.com/in/ry4an', 'LinkedIn'),
+                            ('http://google.com/s2/favicons?domain=careers.stackoverflow.com', 'http://careers.stackoverflow.com/ry4an', 'CV @ Stackoverflow'),
+                            ('http://google.com/s2/favicons?domain=stackoverflow.com', 'http://stackoverflow.com/users/8992/ry4an', 'Stackoverflow Profile'),
+                            ('http://google.com/s2/favicons?domain=ry4an.org', 'http://ry4an.org/home/ry4an-key.txt', 'GPG Key (30ADBB9E)'),
+                        ] %}
+                        <li><a rel="me" href="{{ href }}"><img class="contact" width="16" height="16" src="{{icon}}"/>{{ title }}</a></li>
+                        {%- endfor %}
+                    </ul>
                     <h2>Content License</h2>
                     <p>
                         <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.5/">

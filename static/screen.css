@@ -37,6 +37,14 @@ img {
     margin:10px 0 5px;
 }
 
+img.contact {
+  float: left;
+  margin: 0px 0px 0px;
+  height: 16px;
+  padding-right: 4px;
+  width: 16px;
+}
+
 /* Header styles */
 #header {
     clear: both;
@@ -204,7 +212,7 @@ img {
 .col2 ul, .col2 li {
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin: 4px;
 }
 
 /*.col2 p {
