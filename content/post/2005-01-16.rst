@@ -10,7 +10,7 @@ I've switched from a mailing list driven system to a wiki based one for this UnB
 
 
 
-.. _WikiChump: ../2003-07-14
+.. _WikiChump: /unblog/post/2003-07-14
 
 
 

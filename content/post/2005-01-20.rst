@@ -42,7 +42,7 @@ Here's the histogram for 2004:
 
 |email-response-times.png|
 
-.. _Back in 2003: ../2003-07-17
+.. _Back in 2003: /unblog/post/2003-07-17
 
 .. |email-response-times.png| image:: /unblog/static/attachments/2005-01-20-email-response-times.png
 

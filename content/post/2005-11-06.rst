@@ -22,7 +22,7 @@ When the 'X' key is pressed the message editor is set to the UNIX 'touch' comman
 
 
 
-.. _this post: ../2003-06-22
+.. _this post: /unblog/post/2003-06-22
 
 .. _mailman: http://www.list.org/
 

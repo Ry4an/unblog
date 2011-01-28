@@ -12,7 +12,7 @@ I wrote `an article`_ that got posted on the O'Reilly Network.  It sounds a litt
 
 .. _an article: http://www.onjava.com/pub/a/onjava/2005/03/16/swarmstream.html
 
-.. _SwarmStream Public Edition: ../2005-02-15
+.. _SwarmStream Public Edition: /unblog/post/2005-02-15
 
 
 

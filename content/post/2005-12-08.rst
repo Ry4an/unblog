@@ -42,8 +42,8 @@ Gmail users: You can `do the same thing`_ using the plus sign.
 
 Yeah, the one I gave to United actually garners me the most spam.  I emailed them to complain but was brushed off relatively quickly. -- Anonymous
 
-.. _Oldenburg: ../2004-06-05/
-.. _resume: ../../resume/
+.. _Oldenburg: /unblog/post/2004-06-05/
+.. _resume: /unblog/post/../resume/
 
 
 .. date: 1134021600

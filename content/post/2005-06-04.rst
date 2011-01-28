@@ -34,7 +34,7 @@ I suspect if someone took the time to put together such a DVD it could be sold i
 
 
 
-.. _poker time software: ../2004-01-25
+.. _poker time software: /unblog/post/2004-01-25
 
 .. _dedicated hardware: http://www.thepokergenie.com
 

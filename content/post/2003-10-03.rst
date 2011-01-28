@@ -33,7 +33,7 @@ Is it perfect?  No.  The people in the channel still refer to one another by the
 This script has been updated `in a recent entry`_.
 
 
-.. _in a recent entry: UnBlog/2005-12-21
+.. _in a recent entry: /unblog/post/2005-12-21/
 
 
 .. date: 1065157200
