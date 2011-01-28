@@ -45,7 +45,7 @@ The girl who refuses to use subject lines is leaving a comment. -- Kate Bauer
 I updated this idea in `a later entry`_. -- Ry4an
 
 
-.. _a later entry: UnBlog/2005-02-02
+.. _a later entry: /unblog/post/2005-02-02/
 
 
 .. date: 1106546400
