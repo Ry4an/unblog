@@ -41,9 +41,9 @@
             </ul>
             <p id="submenu">
                 {%- for href, title in [
-                    ('http://www.gentoo.org/', 'http://ry4an.org/'),
+                    ('http://ry4an.org/', 'http://ry4an.org/'),
                 ] %}
-                <a href="{{ href }}">{{ title }}</a>{%
+                <a rel="me" href="{{ href }}">{{ title }}</a>{%
                     if not loop.last %} -{% endif %}
                 {%- endfor %}
             </p>
