@@ -9,7 +9,8 @@ Mercurial allows you to create a repository remotely using ssh with a command li
 
 but there's no way to do that over HTTP using either hg serve or hgweb behind Apache.
 
-I kept telling people it would be a very easy CGI to write, so a few months back I put my time where my mouth was and did it.:
+I kept telling people it would be a very easy CGI to write, so a few months
+back I put my time where my mouth was and did it.::
 
 	#!/bin/sh
 
