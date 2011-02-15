@@ -17,5 +17,6 @@ I'm finally getting this site back into shape.  Expect a little more soon.
 - **Twitter**: http://twitter.com/ry4an/
 - **IRC**: Ry4an [at] Freenode / OFTC
 - **GPG key**: 30ADBB9E_
+- **BitBucket**: https://bitbucket.org/Ry4an
 
 .. image:: http://stackoverflow.com/users/flair/8992.png
