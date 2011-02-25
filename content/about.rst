@@ -1,9 +1,18 @@
 About
 =====
 
-Minneapolis, outdoorsman, geek, dad.
+I've had a public online life since 1996, earlier if you count my WWIV BBS, and
+this site is the latest iteration.  It brings together all my blog entries since
+2003 and whatever old content is still relevant.  Of course, a great deal of my
+online life exists on other sites, listed below, but I try to keep anything
+substantial here.
 
-I'm finally getting this site back into shape.  Expect a little more soon.
+If there's anything in my life that passes as a FAQ, it's the four in my name.  
+Covering the standard questions: It's not a typo. It is legal, and it's silent
+when pronounced.  I added the four 20 years ago for what seemed like good
+reasons at the time.  I'm still quite fond of it even if it does make every
+aspect of my life very easy to Google.  Besides, if I thought about changing
+back I'd have a tattoo to remove.
 
 .. _30ADBB9E: http://ry4an.org/home/ry4an-key.txt
 .. _CV: http://careers.stackoverflow.com/ry4an
