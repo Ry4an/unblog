@@ -33,8 +33,8 @@ class to represent a Boing Boing post:
       object created_on extends DateTimeField(this)
     }
 
-and the rest took care of it self.  After a few imports I could query the posts
-directly from the Scala repl:
+and the rest took care of itself.  After a few imports I could query the posts
+directly from the Scala repl::
 
     scala> (Post where (_.author eqs "Cory Doctorow") fetch).length
     res0: Int = 27701
@@ -48,7 +48,7 @@ directly from the Scala repl:
     Louisiana Purchase, moonshot, S&L bailout..
 
 What code there is is up in the `repository at BitBucket`_.  Thanks to
-`@jorgeoritz85`_ for on-site help and to the Foursquare folks for a tools that's
+`@jorgeoritz85`_ for on-site help and to the Foursquare folks for a tool that's
 as easy to use as it looks.
 
 .. _repository at BitBucket: https://bitbucket.org/Ry4an/boingboing-rogue
