@@ -37,7 +37,7 @@ Next I turned to reStructuredText, and found it yielded a workable system.  I
 started with `Guillaume ChéreAu's blog post`_ and template and used the regular
 docutils_ tool rst2html_ to generate the HTML versions.  The normal route for
 turning reStructuredText into PDF using doctools passes through LaTeX, but I
-didn't want to go that route, so I used rst2pdf_, which gets there directrly.  I
+didn't want to go that route, so I used rst2pdf_, which gets there directly.  I
 counted the reStructuredText version as close-enough to text for that format.
 
 .. _Guillaume ChéreAu's blog post: http://charlie137-2.blogspot.com/2010/02/writing-resume-using-restructuredtext.html
@@ -48,9 +48,11 @@ counted the reStructuredText version as close-enough to text for that format.
 Since now I was dealing entirely with a source file that compiled to generated
 outputs it only made sense to use a Makefile_ and keep everything in a
 `Mercurial repository`_.  That gives me the ability to easily track changes and
-to merge across multiple version (different objectives) should the need arise.
-Since I've always used a source control repository for the HTML version it's
-possible to compare revisions back to 2001, which get pretty silly.
+to merge across multiple versions (different objectives) should the need arise.
+With the Makefile and Mercurial in place I was able to add an automated version
+string/link to the resume so I can tell from a print out which version someone
+lis looking at.  Since I've always used a source control repository for the HTML
+version it's possible to compare revisions back to 2001, which get pretty silly.
 
 .. _Makefile: http://ry4an.org/hg/resume/file/tip/Makefile
 .. _Mercurial repository: http://ry4an.org/hg/resume/
