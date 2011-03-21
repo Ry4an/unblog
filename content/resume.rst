@@ -11,6 +11,6 @@ interested in positions that require a MS Word version.
 - `HTML version <http://ry4an.org/resume/resume.html>`_
 - `PDF version <http://ry4an.org/resume/resume.pdf>`_
 - `Text version <http://ry4an.org/resume/resume.txt>`_
-- `Mercurial repository <http://ry4an.org/hg/resume>`_
+- `The making of this resume <http://ry4an.org/unblog/post/restructuredtext_resume/>`_ including the `Mercurial repository <http://ry4an.org/hg/resume>`_
 
 .. _Mercurial: http://mercurial.selenic.com/
