@@ -51,54 +51,62 @@ Below are some of the choice parts from the `full chat transcript`_:
 
 ::
 
-    (10:32) <Kid> it just brings me to the homepage,
-    (10:33) <Ry4an> I don't know what to say.  That's a popular website and logins should work from anywhere.  When you figure out how to login ping me again and we can do this.
-    (10:33) <Kid> Dude...can i do somthing else? This is not working...and i really need the money. :(
-    (10:34) <Ry4an> no.  Figure out how to login to khan academy and we'll talk.
+    <Kid> it just brings me to the homepage,
+    <Ry4an> I don't know what to say.  That's a popular website and logins
+        should work from anywhere.  When you figure out how to login ping me again
+        and we can do this.
+    <Kid> Dude...can i do somthing else? This is not working...and i really need
+        the money. :(
+    <Ry4an> no.  Figure out how to login to khan academy and we'll talk.
 
 ::
 
-    (10:35) <Kid> And if we start it, can i get 10 up-front...so i know its legit?
-    (10:36) <Kid> ?
-    (10:36) <Kid> its working now.
-    (10:37) <Kid> hello?
-    (10:37) <Kid> ??
-    (10:37) <Kid> you there?
-    (10:38) <Kid> ??
-    (10:39) <Kid> Man...you  didnt leave did you? :(
-    (10:40) <Ry4an> yeah, I'm here, and no.  Do it and I'll pay you.
-    (10:40) <Kid> Why..how do i know its legit? Can i get 5 now...so that i know its legit? Please?
-    (10:41) <Kid> ?
-    (10:41) <Ry4an> No.  I'm not getting anything out of this.  I'm given you a relatively easy way to make $20.  Take it or walk.
-    (10:42) <Kid> Okay...but some of these i dont know.
+    <Kid> And if we start it, can i get 10 up-front...so i know its legit?
+    <Kid> ?
+    <Kid> its working now.
+    <Kid> hello?
+    <Kid> ??
+    <Kid> you there?
+    <Kid> ??
+    <Kid> Man...you  didnt leave did you? :(
+    <Ry4an> yeah, I'm here, and no.  Do it and I'll pay you.
+    <Kid> Why..how do i know its legit? Can i get 5 now...so that i know its
+        legit? Please?
+    <Kid> ?
+    <Ry4an> No.  I'm not getting anything out of this.  I'm given you
+        a relatively easy way to make $20.  Take it or walk.
+    <Kid> Okay...but some of these i dont know.
 
 including a free grammar lesson::
 
-    (10:54) <Kid> im doing good.
-    (10:54) <Ry4an> yah, 6 for 6 so far
-    (10:54) <Ry4an> (though it's doing "well"; "doing" is a verb)
-    (10:56) <Kid> man.
-    (10:57) <Kid> i clicked the wrong one
-    (10:57) <Kid> do i got to do it all over?
-    (10:57) <Ry4an> ouch.  I hate it when stuff like that happens.  
-    (10:57) <Kid> can i redo it? the streak?
-    (10:58) <Ry4an> passing means a 10-in-a-row streak, so it's going to keep asking you questions until 10 in a row are right.
+    <Kid> im doing good.
+    <Ry4an> yah, 6 for 6 so far
+    <Ry4an> (though it's doing "well"; "doing" is a verb)
+    <Kid> man.
+    <Kid> i clicked the wrong one
+    <Kid> do i got to do it all over?
+    <Ry4an> ouch.  I hate it when stuff like that happens.  
+    <Kid> can i redo it? the streak?
+    <Ry4an> passing means a 10-in-a-row streak, so it's going to keep asking you
+        questions until 10 in a row are right.
 
 checking on a wrong answer::
 
-    (10:59) <Ry4an> do you understand what the median of (6,1,1,1,5,1,7,8) was supposed to be?
-    (10:59) <Kid> yea
-    (10:59) <Kid> 3
-    (10:59) <Ry4an> cool, just making sure.
-    (11:00) <Kid> thankssss
-    (11:00) <Ry4an> np
+    <Ry4an> do you understand what the median of (6,1,1,1,5,1,7,8) was supposed to be?
+    <Kid> yea
+    <Kid> 3
+    <Ry4an> cool, just making sure.
+    <Kid> thankssss
+    <Ry4an> np
 
 the end::
 
-    (11:07) <Ry4an> I'm going to post this to my blog w/ your name/info removed.  Do you mind?
-    (11:07) <Kid> no...my brother wants to know if he can do it for 20?
-    (11:07) <Kid> please?
-    (11:08) <Ry4an> no.  That was a one time thing.  Also, don't panhandle in #mercurial.  They'll not take kindly to that.
-    (11:08) <Kid> Okayy.
+    <Ry4an> I'm going to post this to my blog w/ your name/info removed.
+        Do you mind?
+    <Kid> no...my brother wants to know if he can do it for 20?
+    <Kid> please?
+    <Ry4an> no.  That was a one time thing.  Also, don't panhandle in
+        #mercurial.  They'll not take kindly to that.
+    <Kid> Okayy.
 
 .. tags: funny
