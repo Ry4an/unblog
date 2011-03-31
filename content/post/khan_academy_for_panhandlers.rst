@@ -1,0 +1,103 @@
+Using the Khan Academy to Vet Online Panhandlers
+================================================
+
+I'm a huge fan of the `Khan Academy`_ (and if you haven't yet watched `Salman's
+presentation at TED2011`_ you should go do that).  I'm involved (slightly) in an
+effort to bring Khan Academy instruction to a local school district and have
+a standing offer to "coach" participants.  Today, though, I found a use for the
+Khan Academy site probably doesn't endorse: dealing with online panhandlers.
+
+Before today I'd never seen an IRC_ panhandler, email sure, but never IRC.  This
+morning, though, someone wandered into #mercurial asking for money to renew
+a domain.  Most people ignored the request since it's grossly inappropriate in
+a software development work space, but I offered the kid the money if he'd do
+algebra problems on the Khan Academy site.
+
+We dropped into a private chat and with a mixture of whining and negotiation
+struck upon a deal wherein he'd do some math and I'd paypal him a few bucks.
+The whole exchange was silly and I got nothing out of it except a blog entry,
+but the math did serve some small purpose: it made sure the exchange took time
+and attention for long enough to not be something that the kid could be
+simultaneously working in multiple other channels at the same time.  Also who
+doesn't need to known mean, median, and mode.
+
+The Khan Academy coach interface provided me real-time feedback on the problems,
+including seconds spent on each, what they were, and how he answered.  He might
+have been plugging them into Wolfram Alpha or asking in another IRC channel, but
+I didn't get that sense, and the time consumed would be the same either way.
+
+.. image:: http://ry4an.org/unblog/static/attachments/khan-questions.png
+   :width: 658px
+   :height: 376px
+   :alt: Khan Academy coach interface
+
+Surprisingly, further chat proved out the details in the initial pitch.  The
+domain is now registered through 2014 and hosts a nice blog.  Whois info, blog
+identity, and paypal address all align with a Florida teen.  Not that I would
+have cared if it was a gold farmer in China -- though their thirteen year olds
+can do algebra.
+
+    **Other kids**: For the record, I'm not interesting in giving *you* money
+    for math, or anything else, but if you add ry4an at brase.com as a *coach*
+    on Khan Academy I'm happy to help with math.
+
+Below are some of the choice parts from the `full chat transcript`_:
+
+.. _Khan Academy: http://www.khanacademy.org/
+.. _Salman's presentation at TED2011: http://www.youtube.com/watch?v=gM95HHI4gLk
+.. _IRC: http://en.wikipedia.org/wiki/Internet_Relay_Chat
+.. _full chat transcript: http://ry4an.org/unblog/static/attachments/khan-money.txt
+.. read_more
+
+::
+
+    (10:32) <Kid> it just brings me to the homepage,
+    (10:33) <Ry4an> I don't know what to say.  That's a popular website and logins should work from anywhere.  When you figure out how to login ping me again and we can do this.
+    (10:33) <Kid> Dude...can i do somthing else? This is not working...and i really need the money. :(
+    (10:34) <Ry4an> no.  Figure out how to login to khan academy and we'll talk.
+
+::
+    (10:35) <Kid> And if we start it, can i get 10 up-front...so i know its legit?
+    (10:36) <Kid> ?
+    (10:36) <Kid> its working now.
+    (10:37) <Kid> hello?
+    (10:37) <Kid> ??
+    (10:37) <Kid> you there?
+    (10:38) <Kid> ??
+    (10:39) <Kid> Man...you  didnt leave did you? :(
+    (10:40) <Ry4an> yeah, I'm here, and no.  Do it and I'll pay you.
+    (10:40) <Kid> Why..how do i know its legit? Can i get 5 now...so that i know its legit? Please?
+    (10:41) <Kid> ?
+    (10:41) <Ry4an> No.  I'm not getting anything out of this.  I'm given you a relatively easy way to make $20.  Take it or walk.
+    (10:42) <Kid> Okay...but some of these i dont know.
+
+including a free grammar lesson::
+
+    (10:54) <Kid> im doing good.
+    (10:54) <Ry4an> yah, 6 for 6 so far
+    (10:54) <Ry4an> (though it's doing "well"; "doing" is a verb)
+    (10:56) <Kid> man.
+    (10:57) <Kid> i clicked the wrong one
+    (10:57) <Kid> do i got to do it all over?
+    (10:57) <Ry4an> ouch.  I hate it when stuff like that happens.  
+    (10:57) <Kid> can i redo it? the streak?
+    (10:58) <Ry4an> passing means a 10-in-a-row streak, so it's going to keep asking you questions until 10 in a row are right.
+
+checking on a wrong answer::
+
+    (10:59) <Ry4an> do you understand what the median of (6,1,1,1,5,1,7,8) was supposed to be?
+    (10:59) <Kid> yea
+    (10:59) <Kid> 3
+    (10:59) <Ry4an> cool, just making sure.
+    (11:00) <Kid> thankssss
+    (11:00) <Ry4an> np
+
+the end::
+
+    (11:07) <Ry4an> I'm going to post this to my blog w/ your name/info removed.  Do you mind?
+    (11:07) <Kid> no...my brother wants to know if he can do it for 20?
+    (11:07) <Kid> please?
+    (11:08) <Ry4an> no.  That was a one time thing.  Also, don't panhandle in #mercurial.  They'll not take kindly to that.
+    (11:08) <Kid> Okayy.
+
+.. tags: funny

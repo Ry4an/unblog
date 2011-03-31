@@ -1,0 +1,103 @@
+<Kid> I really need help. I'm 15 yrs old...and i need just 3 dollars to renew my domain...its due tommorow.
+<Kid> Can someone lend me the money, and ill do somthing in exchange?
+<Urda> Kid: probably not the best channel to be making a request man :s
+<Kid> I really need just 3 dollars :(
+<Kid> Can someone donate?
+<Ry4an> Kid: if you create an account on http://www.khanacademy.org and complete the algebra_challenge task I'll paypall you the money.
+<Kid> okay
+<Kid> how long does it take?
+<Ry4an> It's 200 questions.
+------------------------
+ (!) Irssi: Starting query in freenode with Kid
+(10:23) <Kid> where do i click?
+(10:24) <Kid> ??
+(10:24) <Ry4an> did you create an account (link w/ google or facebook)?
+(10:25) <Kid> I dont know? Where do i go?
+(10:25) <Ry4an> http://www.khanacademy.org/exercises?exid=algebra_challenge
+(10:26) <Kid> its not working
+(10:26) <Ry4an> what do you see when you go to that URL?
+(10:26) <Kid> its like green and stuff.
+(10:26) <Kid> but it does not say anything about a quiz.
+(10:26) <Ry4an> what do you see at http://www.khanacademy.org ?
+(10:27) <Kid> it says browse the library or practice
+(10:27) <Ry4an> is there a 'login' link at the top?  You'll need to do that.
+(10:28) <Kid> i did...it brings me just back to the homepage.
+(10:28) <Ry4an> and it shows you as logged in now?
+(10:31) <Kid> no
+(10:31) <Kid> it like shows up like i never did.
+(10:31) <Kid> Can i do somthing else?
+(10:31) <Ry4an> What do you see here? http://www.khanacademy.org/login?continue=http%3A//www.khanacademy.org/exercises%3Fexid%3Dalgebra_challenge&direct=1
+(10:32) <Kid> it just brings me to the homepage,
+(10:33) <Ry4an> I don't know what to say.  That's a popular website and logins should work from anywhere.  When you figure out how to login ping me again and we can do this.
+(10:33) <Kid> Dude...can i do somthing else? This is not working...and i really need the money. :(
+(10:34) <Ry4an> no.  Figure out how to login to khan academy and we'll talk.
+(10:34) <Kid> okayy...if i do, can i borrow 7...so i dont have to ask someone else for 4?
+(10:35) <Ry4an> yeah, if you do that algebra challenge I'll paypal you $20 no-loan, just gift
+(10:35) <Kid> okay..how long does it take?
+(10:35) <Kid> And if we start it, can i get 10 up-front...so i know its legit?
+(10:36) <Kid> ?
+(10:36) <Kid> its working now.
+(10:37) <Kid> hello?
+(10:37) <Kid> ??
+(10:37) <Kid> you there?
+(10:38) <Kid> ??
+(10:39) <Kid> Man...you  didnt leave did you? :(
+(10:40) <Ry4an> yeah, I'm here, and no.  Do it and I'll pay you.
+(10:40) <Kid> Why..how do i know its legit? Can i get 5 now...so that i know its legit? Please?
+(10:41) <Kid> ?
+(10:41) <Ry4an> No.  I'm not getting anything out of this.  I'm given you a relatively easy way to make $20.  Take it or walk.
+(10:42) <Kid> Okay...but some of these i dont know.
+(10:42) <Ry4an> the site videos are excellent.  and there's a hint button that show you how to do them step by step, but then it breaks your streak.
+(10:43) <Kid> what..so i have to get 200 of them right? Do i have to answer all 200?
+(10:44) <Kid> I really dont know any of these.
+(10:44) <Ry4an> on the practice tab what's the furthest you think you can do?
+(10:45) <Kid> what do you mean?
+(10:45) <Ry4an> http://www.khanacademy.org/exercisedashboard
+(10:45) <Kid> Addition
+(10:45) <Ry4an> how about this one http://www.khanacademy.org/exercises?exid=mean_median_and_mode
+(10:46) <Ry4an> that you can completely figure out and they're important concepts.
+(10:46) <Kid> so how many questions do i have to answer?
+(10:47) <Ry4an> passing the mean, median, mode quiz means getting 10 in a row right, so you can do it in as few as 10
+(10:47) <Ry4an> at the bottom there's an "add a coach" link.  Click that and add "ry4an+khanmoney@brase.com"
+(10:48) <Kid> done
+(10:48) <Kid> now how do i resume?
+(10:49) <Ry4an> click http://www.khanacademy.org/exercises?exid=mean_median_and_mode
+(10:49) <Kid> are you in?
+(10:49) <Kid> will it let me know when i get 10 in a row?
+(10:49) <Ry4an> yes.
+(10:49) <Ry4an> that's the "streak" bar at the top.
+(10:50) <Kid> okay
+(10:51) <Kid> stay on.
+(10:51) <Ry4an> yeah, I'm watching
+(10:54) <Kid> im doing good.
+(10:54) <Ry4an> yah, 6 for 6 so far
+(10:54) <Ry4an> (though it's doing "well"; "doing" is a verb)
+(10:56) <Kid> man.
+(10:57) <Kid> i clicked the wrong one
+(10:57) <Kid> do i got to do it all over?
+(10:57) <Ry4an> ouch.  I hate it when stuff like that happens.  
+(10:57) <Kid> can i redo it? the streak?
+(10:58) <Ry4an> passing means a 10-in-a-row streak, so it's going to keep asking you questions until 10 in a row are right.
+(10:58) <Kid> kk
+(10:58) <Kid> still giving me the 20?
+(10:58) <Ry4an> yup
+(10:59) <Ry4an> do you understand what the median of (6  ,  1  ,  1  ,  1  ,  5  ,  1  ,  7  ,  8) was supposed to be?
+(10:59) <Kid> yea
+(10:59) <Kid> 3
+(10:59) <Ry4an> cool, just making sure.
+(11:00) <Kid> thankssss
+(11:00) <Ry4an> np
+(11:05) <Kid> got it
+(11:05) <Ry4an> cool, should I send it to the @gmail.com account?
+(11:05) <Kid> now..can you send the 20?
+(11:05) <Kid> no send it to xxxxxxxxxxxx@live.com
+(11:05) <Kid> k?
+(11:05) <Ry4an> okay
+(11:05) <Kid> thanks
+(11:06) <Kid> sent it?
+(11:06) <Ry4an> yup
+(11:07) <Ry4an> I'm going to post this to my blog w/ your name/info removed.  Do you mind?
+(11:07) <Kid> no...my brother wants to know if he can do it for 20?
+(11:07) <Kid> please?
+(11:08) <Ry4an> no.  That was a one time thing.  Also, don't panhandle in #mercurial.  They'll not take kindly to that.
+(11:08) <Kid> Okayy.
