@@ -57,6 +57,7 @@ Below are some of the choice parts from the `full chat transcript`_:
     (10:34) <Ry4an> no.  Figure out how to login to khan academy and we'll talk.
 
 ::
+
     (10:35) <Kid> And if we start it, can i get 10 up-front...so i know its legit?
     (10:36) <Kid> ?
     (10:36) <Kid> its working now.
