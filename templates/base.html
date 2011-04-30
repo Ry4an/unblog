@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<!--
+    :copyright: (c) 2010-2011 by Rafael Goncalves Martins
+    :license: GPL-2
+-->
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -14,7 +18,6 @@
 
 <!-- begin disqus header -->
 {% block disqus_header %}{% endblock %}
-
 <!-- end disqus header -->
 
     </head>
@@ -54,7 +57,6 @@
 
 <!-- begin content -->
 {% block body %}{% endblock %}
-
 <!-- end content -->
 
                 </div>
@@ -100,22 +102,12 @@
         <div id="footer">
             <p>
                 <strong>&copy;{{ config.AUTHOR }}</strong> |
-                Design by:
-                <a href="http://blog.rafaelmartins.org/">Rafael Martins</a> and
-                
-                <a href="http://matthewjamestaylor.com/blog/perfect-2-column-right-menu.htm">
-                    Matthew James Taylor
-                </a> |
-                Powered by:
-                <a href="http://hg.rafaelmartins.eng.br/blohg/">
-                    blohg {{ version }}
-                </a>
+                Powered by: <a href="http://blohg.org/">blohg {{ version }}</a>
             </p>  
         </div>
 
 <!-- begin disqus footer -->
 {% block disqus_footer %}{% endblock %}
-
 <!-- end disqus footer -->
 
 <!-- begin google analytics -->

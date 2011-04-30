@@ -1,4 +1,11 @@
-/* General styles */
+/**
+ *  screen.css
+ *  ~~~~~~~~~~
+ * 
+ *  :copyright: (c) 2010-2011 by Rafael Goncalves Martins
+ *  :license: GPL-2
+ */
+
 body {
     margin: 0;
     padding: 0;

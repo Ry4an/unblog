@@ -1,6 +1,7 @@
 TITLE: Ry4an's Unblog
 TITLE_HTML: Ry4an's Unblog
 TAGLINE: I think in a monospaced font.
+#POSTS_PER_PAGE: 10
 AUTHOR: Ry4an Brase
-#DISQUS: rafaelmartins-en
+#DISQUS: your-disqus-id
 TIMEZONE: UTC

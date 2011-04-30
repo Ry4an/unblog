@@ -3,23 +3,37 @@
 {%- block title %}{% if title %} » {{ title }}{% endif %}{% endblock %}
 
 {%- block body %}
-{%- if tag %}<h4>Tag: {{ tag }} (<small><a href="{{
-    url_for('views.atom', tag=tag) }}">Atom feed</a></small>)</h4>{% endif %}
+
+{%- if tag -%}
+<h4>Tag: {{ ' + '.join(tag) }}
+    (<small><a href="{{ url_for('views.atom', tag='/'.join(tag)) }}">Atom feed</a></small>)
+</h4>
+{%- endif %}
+
 {%- for post in posts %}
-<h2>{% if is_post(post.slug) %}<a href="{{
-    url_for('views.content', slug=post.slug) }}">{{ post.title }}</a>{%
-    else %}{{ post.title }}{%- endif %}</h2>
+<h2>
+    {%- if is_post(post.slug) -%}
+    <a href="{{ url_for('views.content', slug=post.slug) }}">{{ post.title }}</a>
+    {%- else -%}
+    {{ post.title }}
+    {%- endif -%}
+</h2>
 
 <!-- begin html parsed by docutils -->
-
-{% if full_content %}{{ post.full_html|safe }}{% else %}{{
-    post.abstract_html|safe }}{%- endif %}
+{% if full_content -%}
+    {{ post.full_html|safe }}
+{% else -%}
+    {{ post.abstract_html|safe }}
+{%- endif %}
 <!-- end html parsed by docutils -->
 
 {% if post.read_more and not full_content -%}
-<p><a href="{{ url_for('views.content', slug=post.slug) }}">Read more...</a></p>
+<p>
+    <a href="{{ url_for('views.content', slug=post.slug) }}">Read more...</a>
+</p>
 {% endif -%}
-<p class="metadata">
+
+<div class="metadata">
     Published: {{ post.datetime|datetimeformat }}
     {%- if post.mdatetime %} - Modified: {{ post.mdatetime|datetimeformat }}{% endif %}
     <br />
@@ -36,17 +50,16 @@
     {%- endif %}
     <a href="{{ url_for('views.content', slug=post.slug) }}">Permalink</a> -
     <a href="{{ url_for('views.source', slug=post.slug) }}">Source code</a>
-</p>
+</div>
 
 <!-- start disqus post -->
 {% block disqus_post %}{% endblock %}
-
 <!-- end disqus post -->
+
 {% endfor %}
 
 <!-- start pagination -->
 {% block pagination %}{% endblock %}
-
 <!-- end pagination -->
 
-{% endblock %}
+{%- endblock %}
