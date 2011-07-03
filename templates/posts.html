@@ -36,6 +36,7 @@
 <div class="metadata">
     Published: {{ post.datetime|datetimeformat }}
     {%- if post.mdatetime %} - Modified: {{ post.mdatetime|datetimeformat }}{% endif %}
+    by <a rel="author" href="{{ url_for('views.content', slug='about') }}">Ry4an Brase</a>
     <br />
     {% if post.tags -%}
     Tags:
