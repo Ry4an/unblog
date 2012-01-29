@@ -11,12 +11,9 @@ The New York Surveillance Camera Project (http://www.mediaeater.com/cameras/over
 For now all I've done is define an XML format for representing camera information (http://ry4an.org/surveillance/camera.xml and http://ry4an.org/surveillance/camera.dtd).  The next step is to get a nice map of downtown Minneapolis (hopefully from tonnhaus design: http://www.tonnhaus.com/portfolio/city_area.htm) and create an image map and corresponding CGI form so friends and I can start entering locations.  Lord only know when I'll have time for that.
 
 
+**Update:** `I've shut down this site`_.
 
-
-
-
-
-
+.. _I've shut down this site: http://ry4an.org/unblog/post/mpls-surveillance-shut-down
 
 .. date: 1055394000
 .. tags: security,ideas-built

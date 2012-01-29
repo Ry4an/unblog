@@ -23,9 +23,9 @@ None of those should be terribly hard.  Who knows within a month or so this migh
 
 
 
+**Update:** `I've shut down this site`_.
 
-
-
+.. _I've shut down this site: http://ry4an.org/unblog/post/mpls-surveillance-shut-down
 
 
 .. date: 1055480400

@@ -11,12 +11,9 @@ The meat of the new site was done in Perl by myself.  One can now view camera lo
 I heard back from the Derek Tonn of tonnhaus design about using the map, and he's understandably interested in seeing how the project comes out and what it's about before he provides the tacit approval implied through the use of his base map.  If I need to switch over to another map it shouldn't be a hassle, I just despair finding one as pretty as his.
 
 
+**Update:** `I've shut down this site`_.
 
-
-
-
-
-
+.. _I've shut down this site: http://ry4an.org/unblog/post/mpls-surveillance-shut-down
 
 .. date: 1055653200
 .. tags: perl,security,ideas-built,software
