@@ -44,9 +44,9 @@ moving text between the Linux selection (copy-on-select) and clipboard
 
 .. raw:: html
 
-    <script type="text/javascript" src="http://alexgorbatchev.com/pub/sh/current/scripts/shCore.js"></script>
-    <script type="text/javascript" src="http://www.undermyhat.org/blog/wp-content/uploads/2009/09/shBrushLua.js"></script>
-    <link type="text/css" rel="stylesheet" href="http://alexgorbatchev.com/pub/sh/current/styles/shCoreDefault.css"/>
+    <script type="text/javascript" src="http://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
+    <script type="text/javascript" src="http://ry4an.org/unblog/static/syntaxhighlighter/shBrushLua.js"></script>
+    <link type="text/css" rel="stylesheet" href="http://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
     <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
 
 .. tags: software,ideas-built
