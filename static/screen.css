@@ -50,6 +50,7 @@ img.contact {
   height: 16px;
   padding-right: 4px;
   width: 16px;
+  border-style: none;
 }
 
 /* Header styles */

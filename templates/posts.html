@@ -34,7 +34,7 @@
 {% endif -%}
 
 <div class="metadata">
-    <div style="float:left"><g:plusone href="{{ url_for('views.content', slug=post.slug, _external=True) }}"></g:plusone></div>
+    <div style="float:left"><g:plusone annotation="inline" width="350px" href="{{ url_for('views.content', slug=post.slug, _external=True) }}"></g:plusone></div>
     Published: {{ post.datetime|datetimeformat }}
     {%- if post.mdatetime %} - Modified: {{ post.mdatetime|datetimeformat }}{% endif %}
     by <a rel="author" href="{{ url_for('views.content', slug='about') }}">Ry4an Brase</a>
