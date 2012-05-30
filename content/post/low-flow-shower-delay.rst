@@ -60,8 +60,11 @@ I guess the next step is to get out a thermometer and both try to characterize
 the linearity of the mixing control and to try to measure rate of change in the
 temperature as related to the magnitude of the adjustment.
 
+**Update**: I `got a ChemE friend to weigh in`_ with some help.
+
 .. _low flow shower head: https://en.wikipedia.org/wiki/Shower#Shower_heads
 .. _swiped from MathWorks: http://www.mathworks.com/products/control/demos.html?file=/products/demos/shipping/control/MADelayResponse.html
 .. |cubic-centimeters| replace:: cm\ :sup:`2`
+.. _got a ChemE friend to weigh in: https://plus.google.com/108862848685444874954/posts/EgpCNbYFMjT
 
 .. tags: funny, ideas-built
