@@ -49,4 +49,8 @@ devices, and like and dislike different things about both platforms.  I know
 nothing more about fashion design than I've learned watching a few seasons of
 project runway and shopping with non-size-zero women.
 
+Any `discussion here`_ please.
+
+.. _discussion here: https://plus.google.com/108862848685444874954/posts/CraXHjU5QWm
+
 .. tags: software
