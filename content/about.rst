@@ -20,7 +20,7 @@ back I'd have a tattoo to remove.
 - **Email**: ry4an [at] ry4an [dot] org
 - **Blog**: http://ry4an.org/unblog/
 - **Resume**: http://ry4an.org/unblog/resume/
-- **Google+**: https://profiles.google.com/ry4anb
+- **Google+**: https://plus.google.com/102107327429602724512
 - **LinkedIn**: http://www.linkedin.com/in/ry4an
 - **Stack Overflow**: CV_ and `Profile <http://stackoverflow.com/users/8992/ry4an>`_
 - **Twitter**: http://twitter.com/ry4an/
