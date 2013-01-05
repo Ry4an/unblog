@@ -75,9 +75,9 @@ gives you a (ugly) URL and you can pick the access level, which I set to "anyone
 at dramafever.com".
 
 That doGet method is pretty amazing in that its execution is entirely divorced
-from the spreadsheet it happens to access.  Then the URL is hit it run as me (or
-optionally as you) and renders a graph on a "UI" that's a GWT-based HTML
-abstraction.  I'd never worked w/ GWT, so the UI controls (and
+from the spreadsheet it happens to access.  When the URL is hit it runs as me
+(or optionally as the viewer) and renders a graph on a "UI" that's a GWT-based
+HTML abstraction.  I'd never worked w/ GWT, so the UI controls (and
 DataViewDefintions, etc.) took me awhile to figure out, but the docs were good
 and the resulting code is clear.
 
@@ -95,6 +95,11 @@ In the end I have a URL that's company-access-only which gives a view like this:
 
 Not the prettiest display in the world, but it loads new data nightly, lets you
 pick a milestone from those open on GitHub, and updates the chart when you do.
+
+My only annoyance is something I've brought up with GitHub before -- their OAuth
+scopes are absurdly course-grained.  I've got this script and our Jenkins build
+system with full read-write access to the repository because there's no
+read-only scope and no issues-only scope.
 
 .. raw:: html
 
