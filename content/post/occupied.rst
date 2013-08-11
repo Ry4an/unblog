@@ -14,6 +14,12 @@ end`_ to show the current state based on the most recent change.  It
 also exposes a JSON API, allowing my excellent_ coworkers_ to build
 a native OS X dockapp and a `much nicer web version`_.
 
+.. attachment-image:: occupied.jpg
+   :width: 408px
+   :height: 325px
+   :alt: Occupied light
+
+
 .. _Twine: http://supermechanical.com/
 .. _tiny webapp in Go: https://github.com/ry4an/occupied
 .. _cheesy web front end: http://dfoccupied.appspot.com/
