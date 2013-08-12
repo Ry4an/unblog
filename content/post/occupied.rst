@@ -12,7 +12,7 @@ I created a `tiny webapp in Go`_ that takes the GET from Twine and
 stashes it in the App Engine datastore.  I wrote a `cheesy web front
 end`_ to show the current state based on the most recent change.  It
 also exposes a JSON API, allowing my excellent_ coworkers_ to build
-a native OS X dockapp and a `much nicer web version`_.
+a `native OS X menulet`_ and a `much nicer web version`_.
 
 .. attachment-image:: occupied.jpg
    :width: 408px
@@ -25,6 +25,7 @@ a native OS X dockapp and a `much nicer web version`_.
 .. _cheesy web front end: http://dfoccupied.appspot.com/
 .. _excellent: https://github.com/chltjdgh86
 .. _coworkers: https://github.com/Minasokoni/
+.. _native OS X menulet: https://github.com/chltjdgh86/CoffitivityMenulet
 .. _much nicer web version: http://lab.robertismy.name/bio/
 .. _source: https://github.com/Minasokoni/df-occupy-extended
 
