@@ -14,7 +14,7 @@ reasons at the time.  I'm still quite fond of it even if it does make every
 aspect of my life very easy to Google.  Besides, if I thought about changing
 back I'd have a tattoo to remove.
 
-.. _30ADBB9E: http://ry4an.org/home/ry4an-key.txt
+.. _03B71364: http://ry4an.org/home/ry4an-key.txt
 .. _CV: http://careers.stackoverflow.com/ry4an
 
 - **Email**: ry4an [at] ry4an [dot] org
@@ -25,7 +25,7 @@ back I'd have a tattoo to remove.
 - **Stack Overflow**: CV_ and `Profile <http://stackoverflow.com/users/8992/ry4an>`_
 - **Twitter**: http://twitter.com/ry4an/
 - **IRC**: Ry4an [at] Freenode / OFTC
-- **GPG key**: 30ADBB9E_
+- **GPG key**: 03B71364_
 - **BitBucket**: https://bitbucket.org/Ry4an
 
 .. image:: http://stackoverflow.com/users/flair/8992.png
