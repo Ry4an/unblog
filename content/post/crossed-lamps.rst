@@ -38,4 +38,4 @@ box under the bed:
 With that in place we can disable the effect, or have both lamps controlled by
 one side's switch, which is almost arguably useful.
 
-.. tags: ideas-built, funny
+.. tags: ideas-built, funny, home
