@@ -137,6 +137,10 @@
         </script>
 
 <!-- end google analytics -->
-
+                {%- for href, id, title in [
+                    (url_for('views.content', slug='404'), '404', '404'),
+                ] %}
+                <-- {{ href }} -->
+                {%- endfor %}
     </body>
 </html>
