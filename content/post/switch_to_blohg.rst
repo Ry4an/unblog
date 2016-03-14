@@ -43,7 +43,7 @@ search results -- please let me know if you find a broken one.
 .. _built a blog around a wiki: /unblog/post/2005-01-16/
 .. _blohg: http://hg.rafaelmartins.eng.br/blohg/
 .. _mercurial: http://mercurial.selenic.com/
-.. _source: /unblog/source/post/switch_to_blohg/
+.. _source: /unblog/source/post/switch_to_blohg.txt
 .. _Rafael Martins: http://blog.rafaelmartins.org/
 
 .. tags: mercurial,ideas-built,software,meta
