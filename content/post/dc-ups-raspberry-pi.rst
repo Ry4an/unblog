@@ -28,13 +28,13 @@ But I re-bought the charred parts, and the second time it worked just fine:
    :height: 243px
    :alt: Working UPS setup
 
+.. _PicoUPS-100: http://www.mini-box.com/picoUPS-100-12V-DC-micro-UPS-system-battery-backup-system
+.. _voltage regulator: http://www.amazon.com/gp/product/B00OZGVL4O
+.. _buck converter: https://www.adafruit.com/products/1385
+
 .. read_more
 
 The rpi and router draw 0.69 amps when running from the battery, so the 12Ah
 sealed lead acid battery I have in place should get me a good 17 hours or so.
-
-.. _PicoUPS-100: http://www.mini-box.com/picoUPS-100-12V-DC-micro-UPS-system-battery-backup-system
-.. _voltage regulator: http://www.amazon.com/gp/product/B00OZGVL4O
-.. _buck converter: https://www.adafruit.com/products/1385
 
 .. tags: ideas-built,home
