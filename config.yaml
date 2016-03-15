@@ -5,4 +5,4 @@ TAGLINE: A blog about software, projects, and other little things I build.
 AUTHOR: Ry4an Brase
 #DISQUS: your-disqus-id
 TIMEZONE: UTC
-FREEZER_BASE_URL: "//ry4an.org/unblog/"
+FREEZER_BASE_URL: https://ry4an.org/unblog/
