@@ -55,9 +55,9 @@ the sbt_ project can be found in a `repository at BitBucket`_.  Next: Rogue.
 
 .. raw:: html
 
-    <script type="text/javascript" src="http://alexgorbatchev.com/pub/sh/current/scripts/shCore.js"></script>
-    <script type="text/javascript" src="http://alexgorbatchev.com/pub/sh/current/scripts/shBrushScala.js"></script>
-    <link type="text/css" rel="stylesheet" href="http://alexgorbatchev.com/pub/sh/current/styles/shCoreDefault.css"/>
+    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
+    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushScala.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
     <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
 
 .. tags: scala,software,mongodb,ideas-built
