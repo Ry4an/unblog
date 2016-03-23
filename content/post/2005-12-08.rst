@@ -23,10 +23,10 @@ Received  Address           Given to
 141       ry4an-yahoo       Given to yahoo.com
 125       ry4an-cnet        Byline for some articles I wrote
 98        ry4an-oldenburg   Defunct Oldenburg_ project
-88        ry4an-poker       Used at http://ry4an.org/poker/
+88        ry4an-poker       Used at https://ry4an.org/poker/
 84        ry4an-tclug       Given to the Twin Cities Linux Users' Group
 62        ry4an-dns         Used for all my domain registrations
-44        ry4an-keysigning  Posted at http://ry4an.org/keysigning/
+44        ry4an-keysigning  Posted at https://ry4an.org/keysigning/
 ========  ================  ==================================================
 
 So it looks like the worst offenders aren't comanies to whom I've given my email address, but rather letting them get posted to the internet for automated crawlers to harvest.

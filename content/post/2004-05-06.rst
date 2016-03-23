@@ -8,7 +8,7 @@ Whenever I need to set up a quick site I head over to the Open Source Web Design
 
 In order to avoid having to edit every page in a site when I want to update a footer or navigation bar I often use Apache's Server Side Includes (SSI) to pull in elements that are on the same on every page. This time I decided to go a step further and see if I could use a single .shtml page for every page on the site.  It ended up working out in a fashion sufficiently general to be worth re-distributing.
 
-The outcome can be seen on the http://ry4an.org/dipatsea/ site, though it looks just like Rialto's original design.  Attached is a zip-file containing the templatized page and a few paragraphs detailing the necessary symlinks.  You'll have to enable .shtml SSIs in your Apache install, of course.
+The outcome can be seen on the https://ry4an.org/dipatsea/ site, though it looks just like Rialto's original design.  Attached is a zip-file containing the templatized page and a few paragraphs detailing the necessary symlinks.  You'll have to enable .shtml SSIs in your Apache install, of course.
 
 `evolver-template.zip`_
 

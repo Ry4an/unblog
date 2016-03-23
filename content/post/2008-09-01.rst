@@ -20,7 +20,7 @@ It also generates a bookmarklet you can drag to your browser's toolbar that will
 
 .. _already had: http://groups.google.com/group/grandcentral-help-poweruser/msg/cd920e04d8a70de0
 
-.. _mobile friendly web form: http://ry4an.org/gcdial
+.. _mobile friendly web form: https://ry4an.org/gcdial
 
 .. _download the script: /unblog/static/attachments/2008-09-01-gcdial.pl
 

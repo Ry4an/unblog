@@ -18,7 +18,7 @@ The inducement comes in the form of little puzzles and tasks of increasing diffi
 
 Who knows, maybe my attempts to make learning difficult computing will still be too boring, frustrating, and un-glamorous to draw a kid through the 10 different layers of abstraction that Apple and Microsoft want them the use unquestioningly.  Worst case I get a few old computers out of my closet.
 
-The fledgling project can be found at http://ry4an.org/primer/  There's still not much to see, but I expect to change that shortly as I've already told a kid I know that I hope to give him a computer shortly after thanksgiving.
+The fledgling project can be found at https://ry4an.org/primer/  There's still not much to see, but I expect to change that shortly as I've already told a kid I know that I hope to give him a computer shortly after thanksgiving.
 
 [1] http://catb.org/~esr/jargon/html/H/hacker.html
 

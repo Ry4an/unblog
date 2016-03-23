@@ -2,13 +2,13 @@
 Poker Timer Configuring Launcher
 --------------------------------
 
-I got sick of having to edit the launch file whenever I ran my Poker Timer (http://ry4an.org/unblog/msg00038.html), so I wrote a quick CGI that generates a JNLP file which launches the app with the specified settings.  You'll need to have a 1.2 or higher Java Virtual Machine installed (http://java.com).
+I got sick of having to edit the launch file whenever I ran my Poker Timer (https://ry4an.org/unblog/msg00038.html), so I wrote a quick CGI that generates a JNLP file which launches the app with the specified settings.  You'll need to have a 1.2 or higher Java Virtual Machine installed (http://java.com).
 
 So we've got a Perl interpreter dynamically producing a JNLP file that tells a Java Virtual Machine what to do.  Talk about an unholy alliance.
 
 The timer can be run at:
 
-  http://ry4an.org/pokertimer/
+  https://ry4an.org/pokertimer/
 
 
 

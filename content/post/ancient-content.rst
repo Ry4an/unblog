@@ -17,7 +17,7 @@ endorse.  That pop up looks like this:
    :height: 456px
    :alt: Road Rage Races with an Ancient Content warning
 
-An example can be found here: http://ry4an.org/rrr/ .  (Though, if anyone still
+An example can be found here: https://ry4an.org/rrr/ .  (Though, if anyone still
 wants to race from point to point in the twin cities during the worst of rush
 hour I *still* think it's an awesome idea.)
 

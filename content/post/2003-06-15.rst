@@ -13,7 +13,7 @@ I heard back from the Derek Tonn of tonnhaus design about using the map, and he'
 
 **Update:** `I've shut down this site`_.
 
-.. _I've shut down this site: http://ry4an.org/unblog/post/mpls-surveillance-shut-down
+.. _I've shut down this site: https://ry4an.org/unblog/post/mpls-surveillance-shut-down
 
 .. date: 1055653200
 .. tags: perl,security,ideas-built,software

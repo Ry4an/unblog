@@ -24,7 +24,7 @@ a use for it.  The content still `exists within archive.org`_.
    :height: 692px
    :alt: Mpls-watched.org final screen shot
 
-.. _launched in 2003: http://ry4an.org/unblog/post/2003-06-12/
+.. _launched in 2003: https://ry4an.org/unblog/post/2003-06-12/
 .. _exists within archive.org: http://web.archive.org/web/20100207191839/http://mpls-watched.org/
 
 .. tags: ideas-built

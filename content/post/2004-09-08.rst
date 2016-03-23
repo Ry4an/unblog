@@ -6,7 +6,7 @@ My all time favorite board game is called *Diplomacy*.  It's got the tactical si
 
 Unfortunately, it can be a difficult game to learn.  Not because the rules are complex -- they're not, but only because there aren't a lot of good presentations of the rules.  Oral descriptions quickly devolve into edge cases and exceptions, the printed rules look like they were written by lawyers, and just looking at the game board gives one the totally wrong impression that Diplomacy is like Risk or the hateful Axis and Allies.
 
-A few years back I decided that a simple introduction to the rules was lacking, so I set out to create one.  It's available at http://ry4an.org/diptutor/ and has been pretty darn popular over the last few years.  Check it out, and if Diplomacy seems like your kind of game check out http://diplom.org and http://ry4an.org/mn-dip if you're local.
+A few years back I decided that a simple introduction to the rules was lacking, so I set out to create one.  It's available at https://ry4an.org/diptutor/ and has been pretty darn popular over the last few years.  Check it out, and if Diplomacy seems like your kind of game check out http://diplom.org and http://ry4an.org/mn-dip if you're local.
 
 
 

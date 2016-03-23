@@ -32,7 +32,7 @@ Presumably you're referring to this_, though I've no idea why you attached the c
 
 -------------------------
 
-.. _this: http://ry4an.org/readings/short/student/
+.. _this: https://ry4an.org/readings/short/student/
 
 
 .. date: 1218344400

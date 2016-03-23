@@ -14,12 +14,12 @@ reasons at the time.  I'm still quite fond of it even if it does make every
 aspect of my life very easy to Google.  Besides, if I thought about changing
 back I'd have a tattoo to remove.
 
-.. _03B71364: http://ry4an.org/home/ry4an-key.txt
+.. _03B71364: https://ry4an.org/home/ry4an-key.txt
 .. _CV: http://careers.stackoverflow.com/ry4an
 
 - **Email**: ry4an [at] ry4an [dot] org
-- **Blog**: http://ry4an.org/unblog/
-- **Resume**: http://ry4an.org/unblog/resume/
+- **Blog**: https://ry4an.org/unblog/
+- **Resume**: https://ry4an.org/unblog/resume/
 - **Google+**: https://plus.google.com/102107327429602724512
 - **LinkedIn**: http://www.linkedin.com/in/ry4an
 - **Stack Overflow**: CV_ and `Profile <http://stackoverflow.com/users/8992/ry4an>`_

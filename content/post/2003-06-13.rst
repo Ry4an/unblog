@@ -2,7 +2,7 @@
 Surveillance Camera Reporting
 -----------------------------
 
-I got the surveillance camera location reporting stuff working tonight. It's amazing how easy Perl's CGI.pm can make stupid little web input forms.  I'm sure I'll think of some other fields that I want in the data before this thing goes live, but for now this should do nicely: http://ry4an.org/surveillance/report/
+I got the surveillance camera location reporting stuff working tonight. It's amazing how easy Perl's CGI.pm can make stupid little web input forms.  I'm sure I'll think of some other fields that I want in the data before this thing goes live, but for now this should do nicely: https://ry4an.org/surveillance/report/
 
 The map I'm using is nice, but doesn't include all of downtown, and I still haven't heard back from its creators about getting permission to use it.  Since I might have to change maps in the future (or might want to expand project scope) I'm hoping to store the camera locations as GPS coordinates rather than as useless pixel locations.
 
@@ -25,7 +25,7 @@ None of those should be terribly hard.  Who knows within a month or so this migh
 
 **Update:** `I've shut down this site`_.
 
-.. _I've shut down this site: http://ry4an.org/unblog/post/mpls-surveillance-shut-down
+.. _I've shut down this site: https://ry4an.org/unblog/post/mpls-surveillance-shut-down
 
 
 .. date: 1055480400

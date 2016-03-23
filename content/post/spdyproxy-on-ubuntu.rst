@@ -25,7 +25,7 @@ never sends an unencrypted byte through whatever network I'm not -- DNS looksups
 excluded, you still needs SOCKSv4a or SOCKSv5 to hide those.
 
 .. _autossh: http://en.wikipedia.org/wiki/Autossh
-.. _In the past: http://ry4an.org/unblog/post/ssh_lojack/
+.. _In the past: https://ry4an.org/unblog/post/ssh_lojack/
 .. _node-spdyproxy: https://npmjs.org/package/spdyproxy
 .. _SPDY: http://www.chromium.org/spdy/spdy-whitepaper
 .. _Ilya Grigorik's writeup on spdyproxy: http://www.igvita.com/2012/06/25/spdy-and-secure-proxy-support-in-google-chrome/

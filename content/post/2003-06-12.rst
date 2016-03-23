@@ -8,12 +8,12 @@ The ACLU has found that police cameras do not yield any significant reduction in
 
 The New York Surveillance Camera Project (http://www.mediaeater.com/cameras/overview.html) has produced a great map (http://www.mediaeater.com/cameras/maps/nyc.pdf) of all the thousands of Manhattan area cameras they could find.  I'm looking to do the same thing for Minneapolis.  I guess the hope is that people will be started when they see how frequently they're recorded and will at least think next time the government wants to put up more cameras.  Who knows maybe given enough time we can even set up a least-watched route finder like the people at iSee have (http://www.appliedautonomy.com/isee/).
 
-For now all I've done is define an XML format for representing camera information (http://ry4an.org/surveillance/camera.xml and http://ry4an.org/surveillance/camera.dtd).  The next step is to get a nice map of downtown Minneapolis (hopefully from tonnhaus design: http://www.tonnhaus.com/portfolio/city_area.htm) and create an image map and corresponding CGI form so friends and I can start entering locations.  Lord only know when I'll have time for that.
+For now all I've done is define an XML format for representing camera information (https://ry4an.org/surveillance/camera.xml and http://ry4an.org/surveillance/camera.dtd).  The next step is to get a nice map of downtown Minneapolis (hopefully from tonnhaus design: http://www.tonnhaus.com/portfolio/city_area.htm) and create an image map and corresponding CGI form so friends and I can start entering locations.  Lord only know when I'll have time for that.
 
 
 **Update:** `I've shut down this site`_.
 
-.. _I've shut down this site: http://ry4an.org/unblog/post/mpls-surveillance-shut-down
+.. _I've shut down this site: https://ry4an.org/unblog/post/mpls-surveillance-shut-down
 
 .. date: 1055394000
 .. tags: security,ideas-built

@@ -54,17 +54,17 @@ string/link to the resume so I can tell from a print out which version someone
 lis looking at.  Since I've always used a source control repository for the HTML
 version it's possible to compare revisions back to 2001, which get pretty silly.
 
-.. _Makefile: http://ry4an.org/hg/resume/file/tip/Makefile
-.. _Mercurial repository: http://ry4an.org/hg/resume/
+.. _Makefile: https://ry4an.org/hg/resume/file/tip/Makefile
+.. _Mercurial repository: https://ry4an.org/hg/resume/
 
 I'm also proud to say that the URL for my resume hasn't changed since 1996, so
 any printed version ever includes a link to the most current one.  Here are
 links to each of those formats: HTML_, PDF_, text_, and repository_, where the
 text version is the one from which the others are created.
 
-.. _text: http://ry4an.org/resume/resume.txt
-.. _HTML: http://ry4an.org/resume/resume.html
-.. _PDF: http://ry4an.org/resume/resume.pdf
-.. _repository: http://ry4an.org/hg/resume/
+.. _text: https://ry4an.org/resume/resume.txt
+.. _HTML: https://ry4an.org/resume/resume.html
+.. _PDF: https://ry4an.org/resume/resume.pdf
+.. _repository: https://ry4an.org/hg/resume/
 
 .. tags: ideas-built,software

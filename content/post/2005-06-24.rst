@@ -19,7 +19,7 @@ Last weeks game as a log2 file starts like this:
      9g  FOX              +17   50  IITEYTG 10d   GEY             +28   69
 
 
-In addition to creating a `log2 file`_ for the game, I created a first cut at an on-line HTML visualization as found here: http://ry4an.org/scrabble/games/2005-06-21/  The image on that page:
+In addition to creating a `log2 file`_ for the game, I created a first cut at an on-line HTML visualization as found here: https://ry4an.org/scrabble/games/2005-06-21/  The image on that page:
 
 |board|
 
@@ -39,12 +39,12 @@ Once I get that page into a format I like, I'll probably create a CGI that conve
 
 .. _log2: http://web.archive.org/web/20030201164549/http://www.doe.carleton.ca/~jac/acdir/log2.html
 
-.. _log2 file: http://ry4an.org/scrabble/games/2005-06-21/scrabble-2005-06-21.txt
+.. _log2 file: https://ry4an.org/scrabble/games/2005-06-21/scrabble-2005-06-21.txt
 
 .. _Graham Toal: http://www.gtoal.com/
 
 
-.. |board| image:: http://ry4an.org/scrabble/games/2005-06-21/board.png
+.. |board| image:: https://ry4an.org/scrabble/games/2005-06-21/board.png
 
 
 

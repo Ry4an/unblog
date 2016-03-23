@@ -8,7 +8,7 @@ This one's dumb.  We've got the same trash can that everyone who shops at Target
 
 After ripping the handles off yet another Glad bag trying to get it out of the pail I went to get a drill to poke an air hole in the bottom -- leak proof be damned.  Next to the drill I saw a piece of 3/4" plastic tubing, which I ran from the top of the inner pail to the bottom.
 
-`|http://ry4an.org/pictures/web/cimg0280|`_
+`|https://ry4an.org/pictures/web/cimg0280|`_
 
 After a trash day that left the bag handles intact I can report that the hose allows air in without requiring new holes.  Future trash pails should have top to bottom air ducts molded into them.  Trashcan manufacturers please to be getting on that right now.
 
@@ -20,12 +20,12 @@ After a trash day that left the bag handles intact I can report that the hose al
 
 .. _`|http://www.target.com/gp/detail.html/sr=1-11/qid=1169524414/ref=sr_1_11/602-0868447-3796659?ie=UTF8&asin=B000JT7N7A|`: http://www.target.com/gp/detail.html/sr=1-11/qid=1169524414/ref=sr_1_11/602-0868447-3796659?ie=UTF8&asin=B000JT7N7A
 
-.. _`|http://ry4an.org/pictures/web/cimg0280|`: http://ry4an.org/pictures/web/cimg0280
+.. _`|https://ry4an.org/pictures/web/cimg0280|`: http://ry4an.org/pictures/web/cimg0280
 
 
 .. |http://www.target.com/gp/detail.html/sr=1-11/qid=1169524414/ref=sr_1_11/602-0868447-3796659?ie=UTF8&asin=B000JT7N7A| image:: http://images.amazon.com/images/P/B000JT7N7A.16._SCLZZZZZZZ_SS260_V38540904_.jpg
 
-.. |http://ry4an.org/pictures/web/cimg0280| image:: http://ry4an.org/photos/web/cimg0280.thumb.jpg
+.. |https://ry4an.org/pictures/web/cimg0280| image:: http://ry4an.org/photos/web/cimg0280.thumb.jpg
 
 
 .. date: 1169445600

@@ -22,7 +22,7 @@ Update:  Looks like now google offers `a good way to do this`_.
 
 .. _old calendaring solution: /unblog/post/2003-10-09
 
-.. _good phpicalendar output from google: http://ry4an.org/calendar/
+.. _good phpicalendar output from google: https://ry4an.org/calendar/
 
 .. _google-calendar-phpicalendar-2.22.zip: /unblog/static/attachments/2006-04-14-google-calendar-phpicalendar-2.22.zip
 

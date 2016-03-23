@@ -61,7 +61,7 @@ I am still shocked that a full fledged journal/weblog hasn't been built around m
 
 -------------------------
 
- In-Reply-To and Referenced are used.  In fact, they're the only thing that get message firmly linked in the Thread index (http://ry4an.org/unblog/threads.html).  Notice how your messages are below the '<possible follow-ups>' marker. That indicates the Subject line indicates they're probably replies, but that no In-Reply-To or Referenced headers were found to link it conclusively with the original. You seem to be using squirrel mail and at least the message to which I'm currently replying is missing them.
+ In-Reply-To and Referenced are used.  In fact, they're the only thing that get message firmly linked in the Thread index (https://ry4an.org/unblog/threads.html).  Notice how your messages are below the '<possible follow-ups>' marker. That indicates the Subject line indicates they're probably replies, but that no In-Reply-To or Referenced headers were found to link it conclusively with the original. You seem to be using squirrel mail and at least the message to which I'm currently replying is missing them.
 
 
 ::

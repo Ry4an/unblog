@@ -17,7 +17,7 @@ With non-demo security group data I ran into some group-to-group access grants
 whose purpose wasn't immediately obvious, so I put together a second script
 using graphviz to show the ALLOWs.  A directed edge can be read as "can access".
 
-.. image:: http://ry4an.org/unblog/static/attachments/demo-security-groups.png
+.. image:: https://ry4an.org/unblog/static/attachments/demo-security-groups.png
    :width: 572px
    :height: 299px
    :alt: Security group access grants
@@ -30,6 +30,6 @@ The labels on the edges can be made more detailed, but having each of tcp, udp, 
 
 Both scripts and sample input and output are in the `provided tarball`_.
 
-.. _provided tarball: http://ry4an.org/unblog/static/attachments/ec2-security-group-tools.tar.gz
+.. _provided tarball: https://ry4an.org/unblog/static/attachments/ec2-security-group-tools.tar.gz
 
 .. tags: security,ideas-built,software

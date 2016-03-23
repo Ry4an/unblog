@@ -67,9 +67,9 @@ chef solo provisioner is entirely separate from any system gems.
 
 .. raw:: html
 
-    <script type="text/javascript" src="http://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="http://ry4an.org/unblog/static/syntaxhighlighter/shBrushRuby.js"></script>
-    <link type="text/css" rel="stylesheet" href="http://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
+    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
+    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushRuby.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
     <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
 
 .. tags: ideas-built

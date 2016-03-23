@@ -12,7 +12,7 @@ Reaching that level of certainty usually requires a face to face meeting.  If Jo
 
 It's, of course, impossible to meet every person whose key you hope to use, but with every event that grows the "web of trust" it becomes more likely that someone you trust has certified a key you'd like to trust. I might not have heard directly from Joe Schmoe that key XYZ is his key, but if someone I trust has verified that key in person then I'm better able to trust key XYZ has accurate ownership information than if I found it floating in the wild with just Joe Schmoe's name on it.
 
-I last hosted an event like this in March of 2003.  I've attached an image of the resulting trust digraph with arrows indicating a signature. Hopefully this event will be even larger than the 25 keys we got last time.  Details for those interested in attending can be found at http://ry4an.org/keysigning/
+I last hosted an event like this in March of 2003.  I've attached an image of the resulting trust digraph with arrows indicating a signature. Hopefully this event will be even larger than the 25 keys we got last time.  Details for those interested in attending can be found at https://ry4an.org/keysigning/
 
 |trust.png|
 

@@ -26,7 +26,7 @@ including seconds spent on each, what they were, and how he answered.  He might
 have been plugging them into Wolfram Alpha or asking in another IRC channel, but
 I didn't get that sense, and the time consumed would be the same either way.
 
-.. image:: http://ry4an.org/unblog/static/attachments/khan-questions.png
+.. image:: https://ry4an.org/unblog/static/attachments/khan-questions.png
    :width: 658px
    :height: 376px
    :alt: Khan Academy coach interface
@@ -46,7 +46,7 @@ Below are some of the choice parts from the `full chat transcript`_:
 .. _Khan Academy: http://www.khanacademy.org/
 .. _Salman's presentation at TED2011: http://www.youtube.com/watch?v=gM95HHI4gLk
 .. _IRC: http://en.wikipedia.org/wiki/Internet_Relay_Chat
-.. _full chat transcript: http://ry4an.org/unblog/static/attachments/khan-money.txt
+.. _full chat transcript: https://ry4an.org/unblog/static/attachments/khan-money.txt
 .. read_more
 
 ::

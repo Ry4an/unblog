@@ -8,7 +8,7 @@ Foursquare.  Last weekend I was in New York for the `Northeast Scala
 Symposium`_ and the `Foursquare Hackathon`_, so I took the opportunity finish up
 the query part while I had their developers around to answer questions.
 
-.. _Previously: http://ry4an.org/unblog/post/boingboing_to_json/
+.. _Previously: https://ry4an.org/unblog/post/boingboing_to_json/
 .. _Rogue: https://github.com/foursquare/rogue
 .. _BoingBoing: http://boingboing.net
 .. _Northeast Scala Symposium: http://www.nescala.org/2011/

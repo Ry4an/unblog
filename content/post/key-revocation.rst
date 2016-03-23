@@ -15,6 +15,6 @@ being able to read CDs in a few decades is approximately nil.
    :height: 474px
    :alt: Key revocation CD
 
-.. _key: http://ry4an.org/home/ry4an-key.txt
+.. _key: https://ry4an.org/home/ry4an-key.txt
 
 .. tags: ideas-built
