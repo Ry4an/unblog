@@ -18,7 +18,7 @@ After moving into the house I started a series of small home improvement tasks. 
 
 *  replaced the rotting wiring for the basement lighting
 
-`|https://ry4an.org/pictures/web/datacenter|`_ `|http://ry4an.org/pictures/web/motionlight|`_
+`|https://ry4an.org/pictures/web/datacenter|`_ `|https://ry4an.org/pictures/web/motionlight|`_
 
 
 
@@ -30,12 +30,12 @@ After moving into the house I started a series of small home improvement tasks. 
 .. _`|https://ry4an.org/pictures/web/datacenter|`: http://ry4an.org/pictures/web/datacenter
 
 .. _motion light:
-.. _`|https://ry4an.org/pictures/web/motionlight|`: http://ry4an.org/pictures/web/motionlight
+.. _`|https://ry4an.org/pictures/web/motionlight|`: https://ry4an.org/pictures/web/motionlight
 
 
-.. |https://ry4an.org/pictures/web/motionlight| image:: http://ry4an.org/photos/web/motionlight.thumb.jpg
+.. |https://ry4an.org/pictures/web/motionlight| image:: https://ry4an.org/photos/web/motionlight.thumb.jpg
 
-.. |https://ry4an.org/pictures/web/datacenter| image:: http://ry4an.org/photos/web/datacenter.thumb.jpg
+.. |https://ry4an.org/pictures/web/datacenter| image:: https://ry4an.org/photos/web/datacenter.thumb.jpg
 
 
 .. date: 1145077200
