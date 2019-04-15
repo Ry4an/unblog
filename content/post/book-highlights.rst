@@ -10,7 +10,7 @@ sentences that I liked and the eventual five-star scale rating I gave a book had
 any correlation.  Amazon owns Goodreads_ and Kindle services sync data into
 Goodreads, but unfortunately highlight data isn't available through any API.
 
-I was able to put together a little Python to scrape the highlight counts per
+I was able to put together `a little Python`_ to scrape the highlight counts per
 book (yay, BeautifulSoup_) and combine it with page count and rating info from
 the goodreads APIs.  Our `family scientist`_ explained "the statistical tests to
 compare values of a continuous variable across levels of an ordinal variable",
@@ -21,6 +21,7 @@ and there was no meaningful relationship.  Still it makes a nice picture:
    :height: 443px
    :alt: Highlights Per Page vs. Rating
 
+.. _a little Python: https://github.com/Ry4an/kindle-highlight-counts/blob/master/counts.py
 .. _family scientist: https://twitter.com/katewbauer/status/1117580683415834626
 .. _Goodreads: https://www.goodreads.com/
 .. _BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/
