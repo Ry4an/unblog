@@ -1,6 +1,8 @@
 Test String.capitalize() in all major languages with "Ry4an"
+    - Python: "Ry4an".title() -> 'Ry4An'
 hot buttered rum
 Credit Card as free "checking"
+CalendarBoard
 Toddler Tokens
 ec2 describe instances to ssh-config
 how to use a spreadsheet like a developer
