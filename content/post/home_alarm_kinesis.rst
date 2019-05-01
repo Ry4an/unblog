@@ -89,7 +89,7 @@ a truly modern alarm monitoring company in the cloud without banks of
 modems and with a first rate software offering.  The pieces are all there.
 
 .. _Kinesis: https://aws.amazon.com/kinesis/
-.. _ad2kinesis: https://ry4an.org/hg/ad2kinesis
+.. _ad2kinesis: https://bitbucket.org/Ry4an/ad2kinesis/
 .. _Athena: https://aws.amazon.com/athena/
 .. _Presto: https://prestodb.io/
 
