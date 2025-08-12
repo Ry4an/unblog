@@ -1,0 +1,4 @@
+baseURL = 'https://ry4an.org/unblog/'
+languageCode = 'en-us'
+title = "Ry4an's Unblog"
+theme = "terminal"
