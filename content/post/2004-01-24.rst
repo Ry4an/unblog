@@ -1,3 +1,9 @@
++++
+title = "Shrimp Recycling Only"
+date = "2004-01-24T01:00:00"
+tags = ["funny", "ideas-built"]
++++
+
 
 Shrimp Recycling Only
 ---------------------

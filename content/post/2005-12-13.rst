@@ -1,3 +1,9 @@
++++
+title = "Linux on the Dell X1"
+date = "2005-12-13T01:00:00"
+tags = ["software", "ideas-built"]
++++
+
 
 Linux on the Dell X1
 --------------------

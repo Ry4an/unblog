@@ -1,3 +1,9 @@
++++
+title = "OS X Linux Clipboard Sharing"
+date = "2012-04-17T20:44:00-0400"
+tags = ["software", "ideas-built"]
++++
+
 OS X Linux Clipboard Sharing
 ============================
 

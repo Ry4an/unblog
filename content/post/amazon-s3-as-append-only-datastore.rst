@@ -1,3 +1,9 @@
++++
+title = "Amazon S3 as Append Only Datastore"
+date = "2013-02-03T10:10:00-0500"
+tags = ["software", "ideas-built"]
++++
+
 Amazon S3 as Append Only Datastore
 ==================================
 

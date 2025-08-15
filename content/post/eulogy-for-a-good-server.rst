@@ -1,3 +1,9 @@
++++
+title = "Eulogy For a Good Server"
+date = "2011-12-18T01:09:00-0600"
+tags = ["meta"]
++++
+
 Eulogy For a Good Server
 ========================
 

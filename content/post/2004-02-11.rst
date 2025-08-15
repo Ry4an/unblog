@@ -1,3 +1,9 @@
++++
+title = "Referrer-Aware, HTML-Rewriting, Caching Web Server"
+date = "2004-02-11T01:00:00"
+tags = ["ideas-unbuilt"]
++++
+
 
 Referrer-Aware, HTML-Rewriting, Caching Web Server
 --------------------------------------------------

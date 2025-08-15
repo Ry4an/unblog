@@ -1,3 +1,9 @@
++++
+title = "Making Driftnet work in Webcollage in Xscreensaver"
+date = "2004-03-04T01:00:00"
+tags = ["software", "ideas-built"]
++++
+
 
 Making Driftnet work in Webcollage in Xscreensaver
 --------------------------------------------------

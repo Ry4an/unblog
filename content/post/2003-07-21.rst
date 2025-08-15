@@ -1,3 +1,9 @@
++++
+title = "Canoeing with a GPS Unit"
+date = "2003-07-21T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 
 Canoeing with a GPS Unit
 ------------------------

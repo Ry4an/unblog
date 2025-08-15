@@ -1,3 +1,9 @@
++++
+title = "Getting Chef Solo Working With the Database Cookbook and Vagrant"
+date = "2012-07-21T00:10:00-0400"
+tags = ["ideas-built"]
++++
+
 Getting Chef Solo Working With the Database Cookbook and Vagrant
 ================================================================
 

@@ -1,3 +1,9 @@
++++
+title = "Minneapolis Surveillance Camera Project Shut Down"
+date = "2012-01-29T15:51:00-0500"
+tags = ["ideas-built"]
++++
+
 Minneapolis Surveillance Camera Project Shut Down
 =================================================
 

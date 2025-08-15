@@ -1,3 +1,9 @@
++++
+title = "Switching Blogging Software"
+date = "2011-01-27T14:04:00-0600"
+tags = ["software", "mercurial", "meta", "ideas-built"]
++++
+
 Switching Blogging Software
 ===========================
 

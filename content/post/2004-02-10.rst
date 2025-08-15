@@ -1,3 +1,9 @@
++++
+title = "Non-Linear Time Display"
+date = "2004-02-10T01:00:00"
+tags = ["funny", "software", "ideas-built"]
++++
+
 
 Non-Linear Time Display
 -----------------------

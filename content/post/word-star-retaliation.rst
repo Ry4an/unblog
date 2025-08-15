@@ -1,3 +1,9 @@
++++
+title = "Word Star Retaliation"
+date = "2012-03-09T12:17:00-0500"
+tags = ["funny"]
++++
+
 Word Star Retaliation
 =====================
 

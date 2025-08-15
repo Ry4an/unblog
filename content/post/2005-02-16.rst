@@ -1,3 +1,9 @@
++++
+title = "Designing a Beer Temperature Experiment"
+date = "2005-02-16T01:00:00"
+tags = ["ideas-unbuilt"]
++++
+
 
 Designing a Beer Temperature Experiment
 ---------------------------------------

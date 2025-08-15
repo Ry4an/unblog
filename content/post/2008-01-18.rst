@@ -1,3 +1,9 @@
++++
+title = "Misc. Projects Including A Baby"
+date = "2008-01-18T01:00:00"
+tags = ["people", "ideas-built"]
++++
+
 
 Misc. Projects Including A Baby
 -------------------------------

@@ -1,3 +1,9 @@
++++
+title = "Pylint To Github"
+date = "2014-09-14T23:16:00-0400"
+tags = ["software", "python", "ideas-built"]
++++
+
 Pylint To Github
 ================
 

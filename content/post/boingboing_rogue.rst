@@ -1,3 +1,9 @@
++++
+title = "BoingBoing Posts in Rogue"
+date = "2011-03-01T00:55:00-0600"
+tags = ["scala", "software", "mongodb", "ideas-built"]
++++
+
 BoingBoing Posts in Rogue
 =========================
 

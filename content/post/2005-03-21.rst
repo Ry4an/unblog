@@ -1,3 +1,9 @@
++++
+title = "Approval Voting for the ACM"
+date = "2005-03-21T01:00:00"
+tags = ["software", "ideas-built"]
++++
+
 
 Approval Voting for the ACM
 ---------------------------

@@ -1,3 +1,9 @@
++++
+title = "Motion Lights and Silliness"
+date = "2006-09-04T01:00:00"
+tags = ["home", "security"]
++++
+
 
 Motion Lights and Silliness
 ---------------------------

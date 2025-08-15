@@ -1,3 +1,9 @@
++++
+title = "Outcome Probability for One Handed Solitaire"
+date = "2023-08-13T12:45:00-0400"
+tags = ["software", "python", "ideas-built"]
++++
+
 Outcome Probability for One Handed Solitaire
 ============================================
 

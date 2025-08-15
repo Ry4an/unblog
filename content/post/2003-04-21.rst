@@ -1,3 +1,9 @@
++++
+title = "False Point Filtering on the Mimio"
+date = "2003-04-21T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 
 False Point Filtering on the Mimio
 ----------------------------------

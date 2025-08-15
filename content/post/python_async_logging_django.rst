@@ -1,3 +1,9 @@
++++
+title = "Asynchronous Python Logging"
+date = "2011-09-26T23:50:00-0500"
+tags = ["software", "python", "ideas-built"]
++++
+
 Asynchronous Python Logging
 ===========================
 

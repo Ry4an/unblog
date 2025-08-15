@@ -1,3 +1,9 @@
++++
+title = "The Hierarchy of Pretzel Sins"
+date = "2004-11-14T01:00:00"
+tags = ["funny"]
++++
+
 
 The Hierarchy of Pretzel Sins
 -----------------------------

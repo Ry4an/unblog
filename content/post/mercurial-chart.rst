@@ -1,3 +1,9 @@
++++
+title = "Mercurial Chart Extension"
+date = "2012-02-11T22:10:00-0500"
+tags = ["mercurial", "python", "ideas-built"]
++++
+
 Mercurial Chart Extension
 =========================
 

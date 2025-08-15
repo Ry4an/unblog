@@ -1,3 +1,9 @@
++++
+title = "Creating Burn Down Charts for GitHub Repositories Using Google Apps Script"
+date = "2013-01-05T00:07:00-0500"
+tags = ["software", "ideas-built"]
++++
+
 Creating Burn Down Charts for GitHub Repositories Using Google Apps Script
 ==========================================================================
 

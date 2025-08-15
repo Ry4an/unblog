@@ -1,3 +1,9 @@
++++
+title = "Posthumous Key Revocation"
+date = "2011-12-11T21:20:00-0600"
+tags = ["ideas-built"]
++++
+
 Posthumous Key Revocation
 ==========================
 

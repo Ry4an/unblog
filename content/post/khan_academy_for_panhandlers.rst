@@ -1,3 +1,9 @@
++++
+title = "Using the Khan Academy to Vet Online Panhandlers"
+date = "2011-03-31T15:51:00-0500"
+tags = ["funny"]
++++
+
 Using the Khan Academy to Vet Online Panhandlers
 ================================================
 

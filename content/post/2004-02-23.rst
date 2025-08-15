@@ -1,3 +1,9 @@
++++
+title = "PokerBot in IRC"
+date = "2004-02-23T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 
 PokerBot in IRC
 ---------------

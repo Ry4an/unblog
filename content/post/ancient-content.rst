@@ -1,3 +1,9 @@
++++
+title = "Ancient Content Warnings"
+date = "2011-11-12T17:03:00-0600"
+tags = ["meta", "ideas-built"]
++++
+
 Ancient Content Warnings
 ========================
 

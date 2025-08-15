@@ -1,3 +1,9 @@
++++
+title = "Isle Royal GPS Data"
+date = "2005-09-22T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 
 Isle Royal GPS Data
 -------------------

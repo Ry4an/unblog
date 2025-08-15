@@ -1,3 +1,9 @@
++++
+title = "Ry4an in Title Case"
+date = "2019-05-02T15:39:00-0400"
+tags = ["funny", "software"]
++++
+
 Ry4an in Title Case
 ===================
 

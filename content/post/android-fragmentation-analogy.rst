@@ -1,3 +1,9 @@
++++
+title = "Android Fragmentation Analogy"
+date = "2012-05-30T14:32:00-0400"
+tags = ["software"]
++++
+
 Android Fragmentation Analogy
 =============================
 

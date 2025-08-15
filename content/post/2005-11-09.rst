@@ -1,3 +1,9 @@
++++
+title = "Pocket Pair Palsy"
+date = "2005-11-09T01:00:00"
+tags = ["funny"]
++++
+
 
 Pocket Pair Palsy
 -----------------

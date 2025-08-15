@@ -1,3 +1,9 @@
++++
+title = "Scholars Walk Time Traveller"
+date = "2011-05-29T12:17:00-0500"
+tags = ["funny", "ideas-built"]
++++
+
 Scholars Walk Time Traveller
 ============================
 

@@ -1,3 +1,9 @@
++++
+title = "Low Flow Shower Delay"
+date = "2012-05-23T11:35:00-0400"
+tags = ["funny", "ideas-built"]
++++
+
 Low Flow Shower Delay
 =====================
 

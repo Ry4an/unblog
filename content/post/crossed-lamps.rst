@@ -1,3 +1,9 @@
++++
+title = "Crossed Lamps"
+date = "2013-04-06T20:42:00-0400"
+tags = ["funny", "home", "ideas-built"]
++++
+
 Crossed Lamps
 =============
 

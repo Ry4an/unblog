@@ -1,3 +1,9 @@
++++
+title = "Using Mutt to Automate Mailman Message Rejections"
+date = "2005-11-06T01:00:00"
+tags = ["software", "ideas-built"]
++++
+
 
 Using Mutt to Automate Mailman Message Rejections
 -------------------------------------------------

@@ -1,3 +1,9 @@
++++
+title = "A Gamebook Report with Graphviz, Google Sheets, Python, and Juypter/Colab"
+date = "2020-05-02T16:53:00-0400"
+tags = ["software", "python", "ideas-built"]
++++
+
 A Gamebook Report with Graphviz, Google Sheets, Python, and Juypter/Colab
 =========================================================================
 

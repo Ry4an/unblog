@@ -1,3 +1,9 @@
++++
+title = "Improving the RCA RP3711 Alarm Clock"
+date = "2004-01-23T01:00:00"
+tags = ["ideas-built"]
++++
+
 
 Improving the RCA RP3711 Alarm Clock
 ------------------------------------

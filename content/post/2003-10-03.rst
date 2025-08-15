@@ -1,3 +1,9 @@
++++
+title = "IRC Nickname Tracking Script"
+date = "2003-10-03T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 
 IRC Nickname Tracking Script
 ----------------------------

@@ -1,3 +1,9 @@
++++
+title = "Caching In My Moving Karma"
+date = "2006-05-16T01:00:00"
+tags = ["home"]
++++
+
 
 Caching In My Moving Karma
 --------------------------

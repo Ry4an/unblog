@@ -1,3 +1,9 @@
++++
+title = "Loading BoingBoing into MongoDB with Scala"
+date = "2011-02-15T00:54:00-0600"
+tags = ["scala", "software", "mongodb", "ideas-built"]
++++
+
 Loading BoingBoing into MongoDB with Scala
 ==========================================
 

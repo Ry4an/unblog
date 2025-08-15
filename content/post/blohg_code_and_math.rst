@@ -1,3 +1,9 @@
++++
+title = "Syntax Highlighting and Formulas for Blohg"
+date = "2011-02-05T01:51:00-0600"
+tags = ["meta", "software", "python", "ideas-built"]
++++
+
 Syntax Highlighting and Formulas for Blohg
 ==========================================
 

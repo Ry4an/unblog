@@ -1,3 +1,9 @@
++++
+title = "History of the World - Attack Probabilities"
+date = "2004-05-02T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 
 History of the World - Attack Probabilities
 -------------------------------------------

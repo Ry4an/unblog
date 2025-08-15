@@ -1,3 +1,9 @@
++++
+title = "Ivy and Stucco"
+date = "2006-06-04T01:00:00"
+tags = ["funny", "home"]
++++
+
 
 Ivy and Stucco
 --------------

@@ -1,3 +1,9 @@
++++
+title = "Dorm Apology Ad"
+date = "2004-11-05T01:00:00"
+tags = ["funny", "ideas-unbuilt"]
++++
+
 
 Dorm Apology Ad
 ---------------

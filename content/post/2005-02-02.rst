@@ -1,3 +1,9 @@
++++
+title = "Better Random Subject Lines"
+date = "2005-02-02T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 
 Better Random Subject Lines
 ---------------------------

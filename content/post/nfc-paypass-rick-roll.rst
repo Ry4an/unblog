@@ -1,3 +1,9 @@
++++
+title = "NFC PayPass Rick Roll"
+date = "2012-03-10T21:02:00-0500"
+tags = ["funny", "ideas-built"]
++++
+
 NFC PayPass Rick Roll
 =====================
 

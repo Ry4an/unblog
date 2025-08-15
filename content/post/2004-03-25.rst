@@ -1,3 +1,9 @@
++++
+title = "Turn Sequence Diagram for Kill Doctor Lucky"
+date = "2004-03-25T01:00:00"
+tags = ["ideas-built"]
++++
+
 
 Turn Sequence Diagram for Kill Doctor Lucky
 -------------------------------------------

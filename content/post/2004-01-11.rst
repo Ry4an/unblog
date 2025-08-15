@@ -1,3 +1,9 @@
++++
+title = "Net::Friends for GPSDrive"
+date = "2004-01-11T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 
 Net::Friends for GPSDrive
 =========================

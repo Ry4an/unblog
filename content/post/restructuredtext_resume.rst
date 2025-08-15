@@ -1,3 +1,9 @@
++++
+title = "reStructuredText Resume"
+date = "2011-03-19T23:18:00-0500"
+tags = ["software", "ideas-built"]
++++
+
 reStructuredText Resume
 =======================
 

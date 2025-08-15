@@ -1,3 +1,9 @@
++++
+title = "WikiChump"
+date = "2003-07-14T01:00:00"
+tags = ["software", "perl", "ideas-built"]
++++
+
 WikiChump
 ---------
 

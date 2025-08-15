@@ -1,3 +1,9 @@
++++
+title = "Traffic Analysis In Perl and Scala"
+date = "2011-02-06T12:19:00-0600"
+tags = ["scala", "software", "perl"]
++++
+
 Traffic Analysis In Perl and Scala
 ==================================
 

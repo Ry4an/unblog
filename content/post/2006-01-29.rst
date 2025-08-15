@@ -1,3 +1,9 @@
++++
+title = "A Very IKEA Sunday"
+date = "2006-01-29T01:00:00"
+tags = ["home"]
++++
+
 
 A Very IKEA Sunday
 ------------------

@@ -1,3 +1,9 @@
++++
+title = "Jump to New Feeds in Amphetadesk"
+date = "2003-04-17T01:00:00"
+tags = ["software", "ideas-built"]
++++
+
 Jump to New Feeds in Amphetadesk
 ================================
 

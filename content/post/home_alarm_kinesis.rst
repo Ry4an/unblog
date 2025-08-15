@@ -1,3 +1,9 @@
++++
+title = "Home Alarm Analytics With AWS Kinesis"
+date = "2017-01-18T00:19:00-0500"
+tags = ["home", "ideas-built", "software", "python", "security"]
++++
+
 Home Alarm Analytics With AWS Kinesis
 =====================================
 

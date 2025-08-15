@@ -1,3 +1,9 @@
++++
+title = "Roomba on the Pronto Remote"
+date = "2004-07-14T01:00:00"
+tags = ["home", "ideas-built"]
++++
+
 
 Roomba on the Pronto Remote
 ---------------------------

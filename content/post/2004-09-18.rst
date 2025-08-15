@@ -1,3 +1,9 @@
++++
+title = "Mail To Wiki Gateway"
+date = "2004-09-18T01:00:00"
+tags = ["perl", "ideas-built"]
++++
+
 
 Mail To Wiki Gateway
 --------------------

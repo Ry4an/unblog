@@ -1,3 +1,9 @@
++++
+title = "spdyproxy on Ubuntu 12.4 LTS"
+date = "2012-11-04T23:12:00-0500"
+tags = ["software", "security", "ideas-built"]
++++
+
 spdyproxy on Ubuntu 12.4 LTS
 ============================
 

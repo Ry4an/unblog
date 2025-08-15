@@ -1,3 +1,9 @@
++++
+title = "Trying Hirelite"
+date = "2011-03-10T00:08:00-0600"
+tags = []
++++
+
 Trying Hirelite
 ===============
 

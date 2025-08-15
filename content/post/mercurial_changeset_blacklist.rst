@@ -1,3 +1,9 @@
++++
+title = "Blacklisting Changesets in Mercurial"
+date = "2011-01-29T00:34:00-0600"
+tags = ["software", "mercurial", "ideas-built"]
++++
+
 Blacklisting Changesets in Mercurial
 ====================================
 

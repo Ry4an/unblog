@@ -1,3 +1,9 @@
++++
+title = "Bitcoin Conversion In Google Spreadsheets"
+date = "2013-11-11T23:00:00-0500"
+tags = ["software", "ideas-built"]
++++
+
 Bitcoin Conversion In Google Spreadsheets
 =========================================
 

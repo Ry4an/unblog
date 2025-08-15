@@ -1,3 +1,9 @@
++++
+title = "Graduation Form Letter"
+date = "2011-06-18T15:20:00-0500"
+tags = ["funny", "ideas-built"]
++++
+
 Graduation Form Letter
 ======================
 

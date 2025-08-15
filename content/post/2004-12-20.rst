@@ -1,3 +1,9 @@
++++
+title = "Brute Forcing My Own Password"
+date = "2004-12-20T01:00:00"
+tags = ["security", "ideas-built"]
++++
+
 
 Brute Forcing My Own Password
 -----------------------------

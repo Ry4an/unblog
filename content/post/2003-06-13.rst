@@ -1,3 +1,9 @@
++++
+title = "Surveillance Camera Reporting"
+date = "2003-06-13T01:00:00"
+tags = ["perl", "security", "ideas-built"]
++++
+
 
 Surveillance Camera Reporting
 -----------------------------

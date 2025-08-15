@@ -1,3 +1,9 @@
++++
+title = "Sasha Megan Bauer Brase"
+date = "2008-08-10T01:00:00"
+tags = ["people", "ideas-built"]
++++
+
 
 Sasha Megan Bauer Brase
 -----------------------

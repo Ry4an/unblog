@@ -1,3 +1,9 @@
++++
+title = "Kindle Highlights and Ratings"
+date = "2019-04-15T00:41:00-0400"
+tags = ["software", "ideas-built"]
++++
+
 Kindle Highlights and Ratings
 =============================
 

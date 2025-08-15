@@ -1,3 +1,9 @@
++++
+title = "Half Baked Ideas I've Had"
+date = "2003-04-16T01:00:00"
+tags = ["funny", "ideas-unbuilt"]
++++
+
 
 Half Baked Ideas I've Had
 =========================

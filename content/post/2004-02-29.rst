@@ -1,3 +1,9 @@
++++
+title = "Drink Recipe Fortune File"
+date = "2004-02-29T01:00:00"
+tags = ["software", "ideas-built"]
++++
+
 
 Drink Recipe Fortune File
 =========================

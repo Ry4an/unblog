@@ -1,3 +1,9 @@
++++
+title = "Perseverance as Measured with Google Hits"
+date = "2003-04-15T01:00:00"
+tags = ["funny", "ideas-built"]
++++
+
 
 Perseverance as Measured with Google Hits
 -----------------------------------------
