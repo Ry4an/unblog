@@ -35,6 +35,7 @@ time, and it came out very well.
 .. _GitHub: https://github.com
 .. _an excellent API: http://developer.github.com/v3/
 .. _Google Apps Script: https://developers.google.com/apps-script/
+.. _resulting script: /unblog/attachments/github_burndown.gs
 .. read_more
 
 Google Apps Script (GAS) is the JavaScript-based scripting layer for the Google
@@ -44,7 +45,7 @@ document type in the Google Apps universe -- on Google Docs/Drive you'll find
 "Script" in the "Create" menu just a few down from "Document".
 
 It took me a few hours to pick my way through the myriad API endpoints exposed
-by GAS, but once I did the :attachment:`github_burndown.gs|resulting script` was
+by GAS, but once I did the `resulting script`_ was
 quite short.  Hit that link for the full thing, but here's an example:
 
 .. code:: javascript
@@ -69,7 +70,7 @@ parameter in the spreadsheet's URL.  Running that once by hand can be done from
 the GAS IDE, but to run it daily you need to add a Trigger ("Resources" ->
 "Current App's Triggers") on a dialog like this one:
 
-.. attachment-image:: trigger.png
+.. image:: /unblog/attachments/trigger.png
    :width: 800px
    :height: 107px
    :alt: Google Apps Script Trigger
@@ -89,12 +90,12 @@ and the resulting code is clear.
 
 In the end I have a URL that's company-access-only which gives a view like this:
 
-.. attachment-image:: burndown-selector.png
+.. image:: /unblog/attachments/burndown-selector.png
    :width: 296px
    :height: 61px
    :alt: Burn Down Selector
 
-.. attachment-image:: burndown-chart.png
+.. image:: /unblog/attachments/burndown-chart.png
    :width: 625px
    :height: 387px
    :alt: Burn Down Chart

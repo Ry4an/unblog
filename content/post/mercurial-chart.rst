@@ -10,7 +10,7 @@ Mercurial Chart Extension
 Back in 2008 I wote an extension for Mercurial to render activity charts like
 this one:
 
-.. attachment-image:: mercurial-chart.png
+.. image:: /unblog/attachments/mercurial-chart.png
    :width: 400px
    :height: 400px
    :alt: Mercurial Change Chart

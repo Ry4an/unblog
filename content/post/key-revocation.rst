@@ -16,7 +16,7 @@ she'll have access after my death. There's a key_ revocation certificate with re
 'death' on the CD and a printed ASCII-armored version too since the odds of us
 being able to read CDs in a few decades is approximately nil.
 
-.. attachment-image:: key-revocation.jpg
+.. image:: /unblog/attachments/key-revocation.jpg
    :width: 353px
    :height: 474px
    :alt: Key revocation CD

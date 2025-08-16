@@ -15,7 +15,7 @@ there's still a committee somewhere arguing about which department gets more
 names.  Not content to wait for committee I decided to add a historical giant of
 my own -- a time traveller.
 
-.. attachment-image:: scholars-walk-1-thumb.jpg
+.. image:: /unblog/attachments/scholars-walk-1-thumb.jpg
    :width: 500px
    :height: 602px
    :alt: Modified Scholar's walk display

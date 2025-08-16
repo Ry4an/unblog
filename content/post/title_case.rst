@@ -22,7 +22,7 @@ Other languages seem to avoid the fussiness of title case requirements by
 omitting it from the core language entirely (ruby, java), leaving it to third
 party implementors like rails and apache commons.
 
-.. attachment-image:: ry4an-titlecase.png
+.. image:: /unblog/attachments/ry4an-titlecase.png
    :width: 859px
    :height: 156px
    :alt: Four emails with my name in bad titlecase

@@ -53,7 +53,7 @@ I've omitted the title and author info from the book to stop this giant spoiler
 from showing up on google searches, but the 11 year old assures me it was
 a good, fun read and recommends it.
 
-.. attachment-image:: gameboard.jpg
+.. image:: /unblog/attachments/gameboard.jpg
    :width: 806px
    :height: 604px
    :alt: hand decorated graph gameboard

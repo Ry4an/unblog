@@ -22,14 +22,14 @@ laptop.  I added a `voltage regulator`_ and `buck converter`_ to get solid 12v
 (router) and 5v (rpi) outputs.  Then it caught on fire:
 
 
-.. attachment-image:: burned.jpg
+.. image:: /unblog/attachments/burned.jpg
    :width: 361px
    :height: 242px
    :alt: Scorched UPS controller
 
 But I re-bought the charred parts, and the second time it worked just fine:
 
-.. attachment-image:: ups.jpg
+.. image:: /unblog/attachments/ups.jpg
    :width: 432px
    :height: 243px
    :alt: Working UPS setup

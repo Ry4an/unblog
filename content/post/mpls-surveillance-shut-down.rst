@@ -25,7 +25,7 @@ If anyone would like the mpls-watched.org domain for any reason let me
 know.  It expires in June and I'm happy to transfer it to someone with
 a use for it.  The content still `exists within archive.org`_.
 
-.. attachment-image:: mpls-watched.png
+.. image:: /unblog/attachments/mpls-watched.png
    :width: 938px
    :height: 692px
    :alt: Mpls-watched.org final screen shot

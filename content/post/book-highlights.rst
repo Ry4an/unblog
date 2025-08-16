@@ -22,7 +22,7 @@ the goodreads APIs.  Our `family scientist`_ explained "the statistical tests to
 compare values of a continuous variable across levels of an ordinal variable",
 and there was no meaningful relationship.  Still it makes a nice picture:
 
-.. attachment-image:: highlight-chart.png
+.. image:: /unblog/attachments/highlight-chart.png
    :width: 591px
    :height: 443px
    :alt: Highlights Per Page vs. Rating

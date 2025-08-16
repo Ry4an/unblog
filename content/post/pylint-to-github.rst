@@ -30,7 +30,7 @@ I run it from Jenkins triggerd by a GitHub push hook, but it's setup so that
 even running it from cron on the minute is safe for those without a CI server
 yet.
 
-.. attachment-image:: green-checks.png
+.. image:: /unblog/attachments/green-checks.png
    :width: 925px
    :height: 262px
    :alt: Branches with green checks

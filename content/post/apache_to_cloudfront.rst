@@ -64,7 +64,7 @@ I'm still running personal Linux servers, but they no longer listen on ports 80,
 443, or 25.  It feels like the end of an era, but not nearly as sad as when the
 server went `from basement to cloud`_ back in 2011.
 
-.. attachment-image:: shutting-down-services.png
+.. image:: /unblog/attachments/shutting-down-services.png
    :width: 782px
    :height: 252px
    :alt: Super old System V init stopping services

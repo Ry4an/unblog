@@ -20,7 +20,7 @@ end`_ to show the current state based on the most recent change.  It
 also exposes a JSON API, allowing my excellent_ coworkers_ to build
 a native OS X menulet and a `much nicer web version`_.
 
-.. attachment-image:: occupied.jpg
+.. image:: /unblog/attachments/occupied.jpg
    :width: 408px
    :height: 325px
    :alt: Occupied light

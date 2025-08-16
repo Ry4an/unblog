@@ -19,7 +19,7 @@ parts later, and it came out pretty well:
 The remote action is especially jarring because the switches are right next to
 the bulbs they would normally control:
 
-.. attachment-image:: ikea-rodd.png
+.. image:: /unblog/attachments/ikea-rodd.png
    :width: 241px
    :height: 430px
    :alt: Ikea Rodd lamp head
@@ -36,7 +36,7 @@ felt scarily thin -- LED bulbs helped there.
 Kate felt the whole thing would just annoy people so I built a hidden control
 box under the bed:
 
-.. attachment-image:: crossed-lamps-control.jpg
+.. image:: /unblog/attachments/crossed-lamps-control.jpg
    :width: 427px
    :height: 320px
    :alt: Crossed Lamps Control Box

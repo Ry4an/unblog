@@ -54,12 +54,12 @@ graphs below.  In trying to find the real name of this game I came across a
 blog post is now down (hence the archive.org links) with ominous messages
 telling folks the author is definitely no longer thinking about this game.
 
-.. attachment-image:: probability-vs-result.png
+.. image:: /unblog/attachments/probability-vs-result.png
    :width: 600px
    :height: 371px
    :alt: outcome probability
 
-.. attachment-image:: probability-vs-result-log.png
+.. image:: /unblog/attachments/probability-vs-result-log.png
    :width: 600px
    :height: 371px
    :alt: outcome probability log scale

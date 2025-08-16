@@ -18,7 +18,7 @@ of these pages I've left the content up, but you first have to click through
 a modal dialog warning you you're looking at very old stuff I don't necessarily
 endorse.  That pop up looks like this:
 
-.. attachment-image:: ancient-rrr.jpg
+.. image:: /unblog/attachments/ancient-rrr.jpg
    :width: 335px
    :height: 456px
    :alt: Road Rage Races with an Ancient Content warning

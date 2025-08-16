@@ -43,7 +43,7 @@ control systems and the oscillating converge they show certainly aligns with the
 too-hot then too-cold feel of getting this shower right.  This graph is `swiped
 from MathWorks`_ and shows a closed loop step response with a 2.5 second delay:
 
-.. attachment-image:: delayed-control.png
+.. image:: /unblog/attachments/delayed-control.png
    :width: 560px
    :height: 420px
    :target: http://www.mathworks.com/products/control/demos.html?file=/products/demos/shipping/control/MADelayResponse.html

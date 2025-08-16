@@ -46,7 +46,7 @@ a safe deposit box as backups.  His body has been donated to the Hennepin County
 Hazardous Waste Recycling Facility.  In lieu of flowers donations may be made to
 the EFF_.
 
-.. attachment-image:: ry4an.org_2.jpg
+.. image:: /unblog/attachments/ry4an.org_2.jpg
    :width: 194px
    :height: 259px
    :alt: Ry4an.org II
