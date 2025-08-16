@@ -9,15 +9,15 @@ This blog has been through so many iterations:
  # TODO list
 
  - [ ] get title corrected
- - [ ] get favicon corrected
+ - [x] get favicon corrected
  - [ ] get /unblog/resume/ working
- - [ ] fix inline images in rst
+ - [x] fix inline images in rst
  - [ ] fix code snippets in rst
  - [ ] create footer
  - [ ] create header
  - [ ] create a md post template
  - [ ] first md post
- - [ ] verify tags work
+ - [x] verify tags work
  - [ ] decide if subhead should show
  - [ ] remove manual titles in rst posts
  - [ ] verify rss works
