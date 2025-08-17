@@ -16,12 +16,12 @@ This blog has been through so many iterations:
  - [x] create footer
  - [x] create header
  - [x] create a md post template
- - [ ] first md post
+ - [x] first md post
  - [x] verify tags work
  - [x] decide if subtitle should show
  - [x] remove manual titles in rst posts
  - [x] verify rss works
- - [x] redircet old atom feed
+ - [x] redirect old atom feed
  - [x] remove :page: links
  - [x] remove `.. youtube` directives
  - [x] remove old literal syntax highlighting javascript
