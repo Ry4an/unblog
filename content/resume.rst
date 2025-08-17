@@ -1,5 +1,6 @@
-Resume
-======
++++
+title="Resume"
++++
 
 My resume is available in three different formats, all identical.
 

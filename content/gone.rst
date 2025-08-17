@@ -1,5 +1,6 @@
-410 Gone
-========
++++
+title="410 Gone"
++++
 
 The page you're trying to reach
-:page:`has been intentionally removed <post/ancient-content>`.
+`has been intentionally removed </unblog/post/ancient-content/>`_.

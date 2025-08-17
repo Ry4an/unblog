@@ -1,5 +1,6 @@
-About
-=====
++++
+title="About"
++++
 
 I've had a public online life since 1996, earlier if you count my WWIV BBS, and
 this site is the latest iteration.  It brings together all my blog entries since
