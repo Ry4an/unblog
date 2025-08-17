@@ -10,6 +10,10 @@ copyright = "© Ry4an Brase"
 
 pagination.pagerSize = 5
 
+[outputFormats]
+[outputFormats.RSS]
+baseName = "rss"
+
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
   noClasses = false
