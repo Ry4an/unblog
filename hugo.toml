@@ -17,6 +17,8 @@ baseName = "rss"
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
   noClasses = false
+  codeFences = true
+  lineNos = true
 
 [params]
   # dir name of your main content (default is `content/posts`).

@@ -15,7 +15,7 @@ This blog has been through so many iterations:
  - [x] fix code snippets in rst
  - [x] create footer
  - [x] create header
- - [ ] create a md post template
+ - [x] create a md post template
  - [ ] first md post
  - [x] verify tags work
  - [x] decide if subtitle should show
@@ -25,3 +25,4 @@ This blog has been through so many iterations:
  - [x] remove :page: links
  - [x] remove `.. youtube` directives
  - [x] remove old literal syntax highlighting javascript
+ - [ ] Clean up this README
