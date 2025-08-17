@@ -1,28 +1,5 @@
-This blog has been through so many iterations:
- - https://ry4an.org/unblog/post/switch_to_blohg/
- - https://ry4an.org/unblog/post/2005-01-16/
- - https://ry4an.org/unblog/post/2003-04-13/
+This is the source repo for my personal blog found here:
+https://ry4an.org/unblog/
 
- Now I'm moving to hugo, but trying to keep all the metadata.  It's a thing.
-
-
- # TODO list
-
- - [x] get title corrected
- - [x] get favicon corrected
- - [x] get /unblog/resume/ working
- - [x] fix inline images in rst
- - [x] fix code snippets in rst
- - [x] create footer
- - [x] create header
- - [x] create a md post template
- - [x] first md post
- - [x] verify tags work
- - [x] decide if subtitle should show
- - [x] remove manual titles in rst posts
- - [x] verify rss works
- - [x] redirect old atom feed
- - [x] remove :page: links
- - [x] remove `.. youtube` directives
- - [x] remove old literal syntax highlighting javascript
- - [ ] Clean up this README
+Info about its construction and evolution are in these posts:
+https://ry4an.org/unblog/tags/meta/
