@@ -72,7 +72,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Ry4an's Unblog"
 
     [languages.en.params]
       subtitle = "I think in a monospaced font."

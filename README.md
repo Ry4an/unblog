@@ -8,9 +8,9 @@ This blog has been through so many iterations:
 
  # TODO list
 
- - [ ] get title corrected
+ - [x] get title corrected
  - [x] get favicon corrected
- - [ ] get /unblog/resume/ working
+ - [x] get /unblog/resume/ working
  - [x] fix inline images in rst
  - [ ] fix code snippets in rst
  - [ ] create footer
