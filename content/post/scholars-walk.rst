@@ -46,10 +46,7 @@ disassembling the box to some extent as the very springy plastic insert wouldn't
 adopt the bend required to make it around the corner without significant
 coercion not applicable from out side the box.
 
-Here are the bigger pics:
-
- - :attachment:`scholars-walk-1.jpg`
- - :attachment:`scholars-walk-2.jpg`
+Here are the bigger pics: `scholars-walk-1.jpg </unblog/attachments/scholars-walk-1.jpg>`_ `scholars-walk-2.jpg </unblog/attachments/scholars-walk-2.jpg>`_
 
 .. _Scholar's Walk: http://web.archive.org/web/20091219055227/http://www.scholarswalk.umn.edu/
 
