@@ -4,8 +4,6 @@ date = "2011-09-26T23:50:00-0500"
 tags = ["software", "python", "ideas-built"]
 +++
 
-Asynchronous Python Logging
-===========================
 
 The Python logging module has some nice built-in LogHandlers that do network IO,
 but I couldn't square with having HTTP POSTs and SMTP sends in web response

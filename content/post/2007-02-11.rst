@@ -5,8 +5,6 @@ tags = ["home", "security", "ideas-built"]
 +++
 
 
-Alarm System
-------------
 
 My favorite book in the Wren Hollow Elementary school library was *The Gadget Book* by Harvey Weiss.  I must have checked it out a hundred times during the second and third grade and tried to build most of the half-practical projects it detailed.  The best among them was the burglar alarm.  It used wooden blocks, a door hinge, and a strip of metal to make a simple normally-open contact switch.  It was the first electrical work I ever did and almost certainly shaped my interests and career path.
 

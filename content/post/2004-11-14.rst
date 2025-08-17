@@ -5,8 +5,6 @@ tags = ["funny"]
 +++
 
 
-The Hierarchy of Pretzel Sins
------------------------------
 
 I eat pretzels like Darwin would have.  It's a constant survival of the fittest competition.  I select two pretzels, eat whichever is most flawed, select another, re-test, and just keep going from there.  At the end I've got the best pretzel of the whole bag left, which I then eat.
 

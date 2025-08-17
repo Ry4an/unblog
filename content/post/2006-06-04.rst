@@ -5,8 +5,6 @@ tags = ["funny", "home"]
 +++
 
 
-Ivy and Stucco
---------------
 
 This weekend was full of discoveries involving ivy and stucco and removing the former from the later.  Summarizing them we have:
 

@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Lying to Myself About Calendaring
----------------------------------
 
 Three days ago I posted a rather lengthy entry wherein I decried the current state of open, collaborative calendaring.  In it I listed six requirements for calendaring software and settled on the option available to me that met the most of them.   Now I'm changing my mind.
 

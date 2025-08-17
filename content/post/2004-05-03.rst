@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-RSS Feed for Security Camera List
----------------------------------
 
 I added a RSS feed to the Minneapolis Security Camera Project site. Subscribers to it will see any new cameras as soon as they're posted. If you're not yet using an RSS aggregator let me know and I'll chisel the list on a stone tablet and mail it to you whenever it's updated.
 

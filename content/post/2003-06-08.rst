@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Symlink Re-Creator
-------------------
 
 At Onion Networks our CVS repository has a lot of symlinks that need to exist within it for builds to work.  Unfortunately, CVS doesn't support symbolic links.  Both subversion and metacvs support symbolic links but neither of those are sufficiently ready for our needs, so we're stuck with creating links manually in each new CVS checkout.
 

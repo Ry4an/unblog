@@ -4,8 +4,6 @@ date = "2011-02-05T01:51:00-0600"
 tags = ["meta", "software", "python", "ideas-built"]
 +++
 
-Syntax Highlighting and Formulas for Blohg
-==========================================
 
 I'm thus far thrilled with blohg_ as a blogging platform.  I've got a large post
 I'm finishing up now with quite a few snippets of source code in two different

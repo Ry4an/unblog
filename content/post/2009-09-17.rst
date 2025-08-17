@@ -4,8 +4,6 @@ date = "2009-09-17T01:00:00"
 tags = ["software", "mercurial", "ideas-built"]
 +++
 
-Remote Repository Creation for Mercurial Over HTTP
---------------------------------------------------
 
 I park in the #mercurial IRC channel a lot to answer the easy questions, and on that comes up often is, "How can I create a remote repository over HTTP?". The answer is: "You can't.".
 

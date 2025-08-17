@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Isle Royal GPS Data
--------------------
 
 Earlier this month some friends and I hiked across Isle Royale in lake Superior.  Joe kept his GPS running and produced good track points in an odd export format from his Mac software called "Topo".  I created a quick `conversion script`_ to produce this `GPS format data`_ which can be used with the `GPS visualizer`_ website to produce images like this:
 

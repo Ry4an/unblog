@@ -4,8 +4,6 @@ date = "2012-07-21T00:10:00-0400"
 tags = ["ideas-built"]
 +++
 
-Getting Chef Solo Working With the Database Cookbook and Vagrant
-================================================================
 
 This is going to be one big jargon laden blob if you're not trying to do
 exactly what I was trying to do this week, but hopefully it turns up in

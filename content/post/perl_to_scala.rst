@@ -4,8 +4,6 @@ date = "2011-02-06T12:19:00-0600"
 tags = ["scala", "software", "perl"]
 +++
 
-Traffic Analysis In Perl and Scala
-==================================
 
 I needed to implement the algorithm in `Practical Traffic Analysis Extending and
 Resisting Statistical Disclosure`_ in a hurry, so I turned to my old friend

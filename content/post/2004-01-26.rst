@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Poker in IRC
-------------
 
 As seen in the previous posting my friends and I are on a bit of a poker kick lately.  As mentioned a good while back we sit in an IRC channel all day while working.  I thought it would be fun to find and run a tiny little IRC bot that would deal poker for us.  You know a few hands over lunch.  No real money of course, just a little diversion.  There exist IRC bots that do everything from serve virtual drinks to search google for you.  Making a bot that deals poker should be well within the realm of the medium.  I expected to find ten poker dealing bots in the usual places and if I was lucky one of them would be decent enough to be usable.
 

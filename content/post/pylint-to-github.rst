@@ -4,8 +4,6 @@ date = "2014-09-14T23:16:00-0400"
 tags = ["software", "python", "ideas-built"]
 +++
 
-Pylint To Github
-================
 
 I spent a few hours trying to get the Jenkins_ Git & Github plugins to:
 

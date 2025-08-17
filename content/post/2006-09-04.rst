@@ -5,8 +5,6 @@ tags = ["home", "security"]
 +++
 
 
-Motion Lights and Silliness
----------------------------
 
 We've got an old lighting fixture for our front porch, which we didn't want to replace with an ugly motion light.  I tried putting a socket adapter in-line with the bulb, but it wouldn't fit in the globe.
 

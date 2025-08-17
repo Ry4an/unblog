@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Making Driftnet work in Webcollage in Xscreensaver
---------------------------------------------------
 
 EtherPEG (http://www.etherpeg.org/) is software for the Mac the listens in on local network traffic, identifies any images being downloaded, and displays them.  Driftnet (http://www.ex-parrot.com/~chris/driftnet/) is Linux software that does the same thing, but offers better command line integration.  Xscreensaver (http://www.jwz.org/xscreensaver/) is the screen saver/console locking program I use to keep people from using my laptop when I'm getting a refill at my local coffee shop.
 

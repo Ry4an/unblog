@@ -4,8 +4,6 @@ date = "2011-02-15T00:54:00-0600"
 tags = ["scala", "software", "mongodb", "ideas-built"]
 +++
 
-Loading BoingBoing into MongoDB with Scala
-==========================================
 
 I want to play around with Rogue_ by the Foursquare folks, but first I needed a
 decent sized collections of items in a MongoDB_.  I recalled that BoingBoing_

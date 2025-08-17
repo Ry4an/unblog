@@ -5,8 +5,6 @@ tags = ["people"]
 +++
 
 
-KateAndRy4an.org
-----------------
 
 Kate Bauer and I put together the vanity/informational `website for our wedding`_.  Those joining us will find information on travel and hotels. Note the snazzy embedded google map on the bottom of the hotels page.  Thanks go to Kate for writing most of the content and putting up with my insistance on hand-edited HTML.
 

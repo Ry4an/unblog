@@ -5,8 +5,6 @@ tags = ["ideas-built"]
 +++
 
 
-Shades of Coke Blind Taste Test
--------------------------------
 
 On Sunday Kate Bauer and I ran and participated in a double blind random taste test of the various shades of Coca-Cola.  Into numbered glasses Kate poured the samples from bottles whose labels I'd replaced with lettered labels.  The samples we included were:
 

@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Email Response Times
---------------------
 
 I get and send a lot of email.  Many of the emails I send are responses to emails I received.  When I respond to email I almost always quote the email to which I'm responding, and when I do my email client (mutt) inserts a line like:
 

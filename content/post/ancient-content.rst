@@ -4,8 +4,6 @@ date = "2011-11-12T17:03:00-0600"
 tags = ["meta", "ideas-built"]
 +++
 
-Ancient Content Warnings
-========================
 
 I just rebuilt the ry4an.org server, and as part of the migration I realized
 a still had a lot of very old, almost embarrassing content online.  I took the

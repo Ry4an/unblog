@@ -5,8 +5,6 @@ tags = ["java", "ideas-built"]
 +++
 
 
-Philips Pronto TSU-2000 Remote
-------------------------------
 
 I try to lead a very uncluttered life whether one's talking about hard drive layout, personal responsibilities, or physical clutter in my condo.  Three years ago I got my first TV and DVD player.  Each came with its own remote control.  Not wanting to deal with two remotes on my coffee table (which at the time was a cardboard box) I went out and bought a nice $20 universal remote that was very programmable and easily handled the functions of both the TV and the DVD player.
 

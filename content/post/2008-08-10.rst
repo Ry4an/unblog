@@ -5,8 +5,6 @@ tags = ["people", "ideas-built"]
 +++
 
 
-Sasha Megan Bauer Brase
------------------------
 
 On July 29th, Kate gave birth to Sasha Megan Bauer Brase.  Details and photos are on `her site`_.
 

@@ -4,8 +4,6 @@ date = "2020-05-02T16:53:00-0400"
 tags = ["software", "python", "ideas-built"]
 +++
 
-A Gamebook Report with Graphviz, Google Sheets, Python, and Juypter/Colab
-=========================================================================
 
 An 11 year old in our house needed to do a book report for school in the form of
 a board game and selected a gamebook, apparently the generic name for the

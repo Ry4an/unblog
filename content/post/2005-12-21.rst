@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Improving Nick Tracking using String Similarity
------------------------------------------------
 
 Years back I `wrote an IRC nick tracking script`_.  It's served me well since then, but it has one major annoyance.  When people changed their name slightly it would remember that name change, even though the old/new mapping didn't contain any real identity change information.
 

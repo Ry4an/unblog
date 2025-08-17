@@ -5,8 +5,6 @@ tags = ["software", "perl", "security", "ideas-built"]
 +++
 
 
-Surveillance Camera Website
----------------------------
 
 It took most of a weekend to do it, but there's now a nice website for the Minneapolis Surveillance Camera Project at http://sarinity.com . I'll be moving it to its own domain eventually, but that'll be a week or so.
 

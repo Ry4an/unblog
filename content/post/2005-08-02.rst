@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Timed Home Phone Ringers
-------------------------
 
 I really need to sleep in once a week, and I actually get to once a month.  When I do sleep in I want the ringers off on all the phones in the house, but that's three phones to go find and then to remember to un-silence in the "morning".  This past weekend I figured out that by using the call-forwarding feature on my home phone line to route all calls to my cell phone I can keep all the extensions from ringing.  What's more by using the *timed profiles* feature on my cell phone I can have it muted until a pre-set time (say, 2pm) at which time the ringer re-enables itself.  Finally I've got a good way to sleep in uninterrupted without forgetting to turn the ringers back on for the next three days.
 

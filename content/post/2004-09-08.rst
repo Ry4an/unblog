@@ -5,8 +5,6 @@ tags = ["ideas-built"]
 +++
 
 
-Diplomacy Tutorial
-------------------
 
 My all time favorite board game is called *Diplomacy*.  It's got the tactical simplicity of chess mixed with the social aspects of poker. It's been popular in quite a few white houses -- reportedly the Kennedys played ferociously.
 

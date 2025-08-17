@@ -4,8 +4,6 @@ date = "2003-04-17T01:00:00"
 tags = ["software", "ideas-built"]
 +++
 
-Jump to New Feeds in Amphetadesk
-================================
 
 Amphetadesk (http://www.disobey.com/amphetadesk/) is a great RSS feed reader.  I use it to track 20 or so different news sources a day. However, I mostly subscribe to feeds that include copious content, and once I determine there are no new entries on a feed I still have to scroll down fifteen screens worth of old content to see the top of the next feed.
 

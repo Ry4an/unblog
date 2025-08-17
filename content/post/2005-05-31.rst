@@ -5,8 +5,6 @@ tags = ["people"]
 +++
 
 
-May Wrap-Up
------------
 
 The policy here at the UnBlog is that I only write up things I've created -- not just things I've seen.  Last month, however, most all my creative output went into work, with very little time and energy left for side projects.  I've got a few nearing completion, but nothing worth writing about yet.
 

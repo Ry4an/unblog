@@ -4,8 +4,6 @@ date = "2011-06-18T15:20:00-0500"
 tags = ["funny", "ideas-built"]
 +++
 
-Graduation Form Letter
-======================
 
 We just passed through another graduation season, and for the second year
 running I was able to get by with the same stack of form letters::

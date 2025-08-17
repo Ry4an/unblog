@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-PokerBot in IRC
----------------
 
 I said I wasn't going to do it, but I ended up doing so anyway.  I've written a Poker dealing IRC bot.  It's not terribly modular and it only supports TexasHold'em, but it works.  It requires Perlbot 1.9.5 which is available on source forge.  Here's an excerpt from play:
 

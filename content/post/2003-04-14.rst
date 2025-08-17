@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Text to Speech Tuning with a Polygraph
-======================================
 
 Text to speech programs do okay on words they know, but on longer words not in their 'dictionary' they have to sound them out phonetically which seems to be a really hit or miss operation.  I wonder if one could hook up text to speech software and a polygraph sensor together to monitor the listeners reaction to the words being read.
 

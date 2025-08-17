@@ -5,8 +5,6 @@ tags = ["home", "ideas-built"]
 +++
 
 
-Poker Table
------------
 
 As mentioned previously I'm a tool of the media machine and am thus now playing poker.  I don't like online play so I host local events here at the house.  We're getting more and more people and I wanted something nicer on which to play than folding card tables.  Louis Duhon, a friend, and I drew up some plans, bought a lot of materials, moved the cars out of his garage, and spent four days working on a "one day project".
 

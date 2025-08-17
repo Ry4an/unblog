@@ -5,8 +5,6 @@ tags = ["ideas-built"]
 +++
 
 
-MTN Televised Scrabble Archive
-------------------------------
 
 I've been hooked on MTN_'s televised scrabble since Kate Bauer and I stumbled across it a few weeks back.  The only on-line mention I can find of it is an old review_ in a student paper.
 

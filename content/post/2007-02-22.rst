@@ -5,8 +5,6 @@ tags = ["funny", "ideas-built"]
 +++
 
 
-Customer Service Call Log
-=========================
 
 Between telecom troubles, warranty repairs, botched on line orders, and marriage related changes in insurance, mortgage, and bank accounts I've spent a lot of time on the phone with customer service representatives lately.  Few issues get resolved in a single call and even fewer without a transfer to another office.
 

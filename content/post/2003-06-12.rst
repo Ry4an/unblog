@@ -5,8 +5,6 @@ tags = ["security", "ideas-built"]
 +++
 
 
-Minneapolis Surveillance Camera Project
----------------------------------------
 
 Target Corporation is donating a quarter million dollars to the city of Minneapolis, which city council rapidly accepted, to install 30+ police monitored security cameras.  I'm not able to articulate why stuff like this scares me as much as it does, but I just get a queasy feeling when I think of government surveillance of the citizenry.
 

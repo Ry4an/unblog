@@ -5,8 +5,6 @@ tags = ["security"]
 +++
 
 
-PGP Key Signing - October 23, 2003
-----------------------------------
 
 On Thursday, October 23rd, 2003 I'm hosting another PGP key signing event.  For those not familiar with the concept here's a four paragraph primer on public key cryptography:
 

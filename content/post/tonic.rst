@@ -4,8 +4,6 @@ date = "2011-05-14T22:15:00-0500"
 tags = ["ideas-built"]
 +++
 
-Homemade Tonic
-==============
 
 I just made my third batch of tonic water from `Mark Sexauer's Recipe`_:
 

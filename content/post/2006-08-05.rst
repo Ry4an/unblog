@@ -5,8 +5,6 @@ tags = ["home", "ideas-built"]
 +++
 
 
-Home Repair and Misc.
----------------------
 
 When I don't post here in a while it either means I'm not building anything new or that I'm too busy to write about what I am doing.  This time it's the later.  Not that any of it's been exciting, but almost all of it involved using a saw, which totally counts.
 

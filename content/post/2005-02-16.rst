@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Designing a Beer Temperature Experiment
----------------------------------------
 
 I've repeatedly encountered the statement, always presented as fact, that if you chill beer, let it return to room temperature, and then chill it again you will have affected in it a degradation of quality.  This has always seemed like nonsense to me for a few different reasons, chief among them that surely this chill/warm cycle happened repeatedly during transport and retail.
 

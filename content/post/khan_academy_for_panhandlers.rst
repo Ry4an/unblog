@@ -4,8 +4,6 @@ date = "2011-03-31T15:51:00-0500"
 tags = ["funny"]
 +++
 
-Using the Khan Academy to Vet Online Panhandlers
-================================================
 
 I'm a huge fan of the `Khan Academy`_ (and if you haven't yet watched `Salman's
 presentation at TED2011`_ you should go do that).  I'm involved (slightly) in an

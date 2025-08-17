@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Autobahn Accelerator for iTunes
--------------------------------
 
 My company, Swarmcast_, announced one of our first public releases today.  Previously we've been primary selling to content providers, but now we're putting out a user facing free release.  If you download our `Autobahn Accelerator for iTunes`_ you'll find your purchases from the iTunes music store come down three to ten times faster than they did before.  We'll be adding support for lots of other sites (you tube, etc.) in upcoming weeks.
 

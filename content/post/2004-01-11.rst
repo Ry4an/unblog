@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Net::Friends for GPSDrive
-=========================
 
 GPSDrive (http://www.gpsdrive.de/) is nifty software for Linux that turns a laptop and a cheap GPS receiver into a vehicle navigation system.  It displays maps, records tracks, logs speed traps, and all the other little features you'd expect in a system trying to divert your eyes from the road.
 

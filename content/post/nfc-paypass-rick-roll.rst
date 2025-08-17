@@ -4,8 +4,6 @@ date = "2012-03-10T21:02:00-0500"
 tags = ["funny", "ideas-built"]
 +++
 
-NFC PayPass Rick Roll
-=====================
 
 NFC_ tags are tiny wireless storage devices, with very thin antennas, attached
 to poker chip sized stickers.  They're sort of like RFID tags, but they only

@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Wiki History Overlay
---------------------
 
 Wikis, like ry4an.org, are websites meant to be easily edited.  One simply clicks the edit button, changes the content, and *poof* the page is changed.  One of the most famous wikis is Wikipedia_, the free encyclopedia.  It's a wonderful resource and chocked full of information.  Unfortunately, due to its anyone-can-change-it-at-any-time freedom, some folks are hesitant to consider it a reliable reference.
 

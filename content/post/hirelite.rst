@@ -4,8 +4,6 @@ date = "2011-03-10T00:08:00-0600"
 tags = []
 +++
 
-Trying Hirelite
-===============
 
 Tonight I tried Hirelite_, and I really think they're on to something.  They
 arrange online software developer interview speed-dating-style events where N

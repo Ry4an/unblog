@@ -4,8 +4,6 @@ date = "2011-01-27T14:04:00-0600"
 tags = ["software", "mercurial", "meta", "ideas-built"]
 +++
 
-Switching Blogging Software
-===========================
 
 This blog started out called the unblog back when blog was a new-ish term and I
 thought it was silly.  I'd been on mailing lists like fork_ and Kragan Sitaker's

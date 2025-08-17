@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Silly Defensive Prompt Coloring
--------------------------------
 
 I don't like color in my command line windows.  Colorization in ls's directory listings drives me bonkers; it's the first thing I turn off on a new system.  I have, however, relented and added a little bit of conditional color to save me from an all too frequent error.
 

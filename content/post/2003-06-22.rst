@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Mailman Non-Subscriber Message Auto-Rejector
---------------------------------------------
 
 I run a lot of mailing lists on mailman, http://www.list.org/, servers. Most all of these lists are configured so that only list subscribers are allowed to post messages.  I do this because these lists get a lot of spam messages that I don't want to get through to all subscribers.
 

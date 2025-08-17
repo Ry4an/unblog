@@ -5,8 +5,6 @@ tags = ["funny"]
 +++
 
 
-Guidelines For Better Directions
---------------------------------
 
 When getting or giving directions I always prefer a map to written directions.  Maps are great because they don't become useless if you make a wrong turn.  With a good map you can always find where on it you are and can always build a new route to your destination.
 

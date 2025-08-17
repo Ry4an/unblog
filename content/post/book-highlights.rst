@@ -4,8 +4,6 @@ date = "2019-04-15T00:41:00-0400"
 tags = ["software", "ideas-built"]
 +++
 
-Kindle Highlights and Ratings
-=============================
 
 When reading I've always underlined sentences that make me happy.  Once the kids
 got old enough to understand there's no email or fun on a Kindle I switched from

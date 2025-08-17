@@ -5,8 +5,6 @@ tags = ["software", "java", "ideas-built"]
 +++
 
 
-SwarmStream Article on the O'Reilly Network
--------------------------------------------
 
 I wrote `an article`_ that got posted on the O'Reilly Network.  It sounds a little more huckster-ish than I'd like, but the tech does get explained pretty well.  There's a link to the new beta 2 release of `SwarmStream Public Edition`_ at the bottom of the article.
 

@@ -5,8 +5,6 @@ tags = ["funny", "ideas-unbuilt"]
 +++
 
 
-Road Rage Races
----------------
 
 Road Rage Races are an idea I came up with a few years back that I'm trying to resurrect.  I've updated the website (https://ry4an.org/rrr), and tacked on a new tag line: "Light travels at 299,792,460 m/s. Immaturity travels at 5 mph."
 

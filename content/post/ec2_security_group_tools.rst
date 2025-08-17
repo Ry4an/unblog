@@ -4,8 +4,6 @@ date = "2011-04-25T23:50:00-0500"
 tags = ["software", "security", "ideas-built"]
 +++
 
-A Few Quick EC2 Security Group Migration Tools
-==============================================
 
 Like half the internet I'm working on duplicating a setup from one Amazon EC2
 availability zone to another.  I couldn't find a quick way to do that if my

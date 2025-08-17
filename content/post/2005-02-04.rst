@@ -5,8 +5,6 @@ tags = ["funny"]
 +++
 
 
-Who Wins 'Click Here'
----------------------
 
 The w3c_, the nominal leader of web standards, has a `recommendation against`_ using *click here* or *here* as the text for links on web pages.  In addition to the good reasons they provide, there's google to consider.  Google assigns *page rank* to web sites based on, among a great many other things, the text used in links to that page.  When you link to https://ry4an.org/ with *ry4an* as the link text I get more closely associated with the term *ry4an* in google's rankings. However, when you link to a page using generic link text, such as *here* or *click here* you're not really helping anyone to find anything any easier.
 

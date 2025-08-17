@@ -4,8 +4,6 @@ date = "2023-08-13T12:45:00-0400"
 tags = ["software", "python", "ideas-built"]
 +++
 
-Outcome Probability for One Handed Solitaire
-============================================
 
 Back in 1994 my circle of high school friends spent a lot of time sitting around
 talking (there were no cell phones) and for about a week we were all playing

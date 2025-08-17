@@ -4,8 +4,6 @@ date = "2012-11-06T14:37:00-0500"
 tags = ["software", "security", "ideas-built"]
 +++
 
-GitHub Jenkins Deploy Keys Config
-=================================
 
 GitHub_ doesn't let you use the same deploy key for multiple repositories within
 a single organziation, so you have to either (a) manage multiple keys, (b)

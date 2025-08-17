@@ -5,8 +5,6 @@ tags = ["funny", "ideas-built"]
 +++
 
 
-Shrimp Recycling Only
----------------------
 
 Last November while sitting in the Atlanta airport with not much to do I saw a bank of six different trash cans.  They were in a neat row, each was in a different color, and they were all good for only one thing. People would walk up with a piece of trash and then carefully place it into whichever bin it best fit.  Is this bottle glass or plastic?  The lid is aluminum does it need to come off?  Is this a number two plastic or a number four plastic?
 

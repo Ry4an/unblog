@@ -4,8 +4,6 @@ date = "2012-01-29T15:51:00-0500"
 tags = ["ideas-built"]
 +++
 
-Minneapolis Surveillance Camera Project Shut Down
-=================================================
 
 Now that I no longer live in Minneapolis it seems a fine time to shut
 down the Minneapolis Surveilance Camera Project I `launched in 2003`_.

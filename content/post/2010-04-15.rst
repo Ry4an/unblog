@@ -5,8 +5,6 @@ tags = ["software", "mercurial", "ideas-built"]
 +++
 
 
-Mercurial Remote Test Runner via Push
--------------------------------------
 
 I heard someone in IRC saying that the mercurial test suite was bogging down theirlaptop, so I set up a quick push-test service for the mercurial crew.  If you're in crew and you do a push to ``ssh://hgtester@ry4an.org:2222/`` these steps will be taken:
 

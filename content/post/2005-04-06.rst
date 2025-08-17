@@ -5,8 +5,6 @@ tags = ["funny", "ideas-built"]
 +++
 
 
-Adopt a Vegetarian
-------------------
 
 I was just digging through some old files, and I came across my first web pages. They were hand written HTML done in late 1995.  Among the worst of them design-wise was my 'Adopt a Vegetarian' page.  It was a joke started in October 1995 wherein non-vegetarians would "adopt" vegetarians and agree to eat twice as much meat, so as to balance the vegetarian out.
 

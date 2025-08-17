@@ -5,8 +5,6 @@ tags = []
 +++
 
 
-Oldenburg Survey Results Released
----------------------------------
 
 I went ahead and aggregated the survey results related to this previous entry about starting a social club:
 

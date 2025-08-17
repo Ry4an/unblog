@@ -4,8 +4,6 @@ date = "2011-12-18T01:09:00-0600"
 tags = ["meta"]
 +++
 
-Eulogy For a Good Server
-========================
 
 Two days ago I powered down a good server for the first time in years and the
 last time ever.  It doesn't compare to euthanizing a pet, but it still made me

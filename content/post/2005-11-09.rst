@@ -5,8 +5,6 @@ tags = ["funny"]
 +++
 
 
-Pocket Pair Palsy
------------------
 
 A little googling shows I'm the first person to (publically) coin the phrase *pocket pair palsy* to describe the adrenaline powered tremors poker players get when they've got a good hand.  Dibs.
 

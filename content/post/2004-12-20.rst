@@ -5,8 +5,6 @@ tags = ["security", "ideas-built"]
 +++
 
 
-Brute Forcing My Own Password
------------------------------
 
 I try to maintain good password practices -- total random gibberish, never use the same password for two things, change them monthly --, and the EBP lite from http://mandylionlabs.com/ certainly helps.
 

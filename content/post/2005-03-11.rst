@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Detecting Recently Used Words On the Fly
-----------------------------------------
 
 When writing I frequently find myself searching backward, either visually or using a reverse-find, to see if I've previously used the word that I've just used.  Some words, say *furthermore* for example, just can't show up more than once per paragraph or two without looking overused.
 

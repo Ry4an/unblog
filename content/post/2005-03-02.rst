@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Ringback Tones Made Less Evil
------------------------------
 
 Foreign cell phone services have had a feature for awhile called *Ringback Tones* which allows you replace the normal ringing sound that callers hear while they're waiting for you to answer with a short audio clip.  This isn't the annoying ring that the people near you hear until you answer your phone, but the even more annoying ring that the people calling you will hear directly in their ear.  The feature has come to the US recently, and my cell phone provider, T-Mobile, calls its offering *Caller Tunes*.
 

@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Netflix Self Annotations
-------------------------
 
 I'm a happy Netflix_ user.  Before I used Netflix I used to maintain a list of movies I wanted to see.  Now I just use my Netflix queue for the same purpose.  The only problem with my new system is by the time a recommended movie goes from the back of the queue to the front, about a year, I've long since forgotten who recommended it.
 

@@ -4,8 +4,6 @@ date = "2005-04-10T01:00:00"
 tags = ["software", "perl", "ideas-built"]
 +++
 
-Garble To GPX Track Conversion
-------------------------------
 
 For years I've been using  garble to pull track and way point data off of my Garmin eTrex GPS. Unfortunately it produces data in a completely non-standard format. In the past I've written a little custom software to turn the garble data into maps.
 

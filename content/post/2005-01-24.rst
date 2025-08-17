@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Adding a Subject with Procmail
-------------------------------
 
 Lately I've been corresponding a great deal with someone who doesn't elect to use the Subject: line in emails.  When responding to this emails my mail application, mutt, uses the Subject line: ``re: your mail``.  Mutt also groups conversations into threads using (among other things) the Subject line.  So every reply to every person who has sent a message with a blank subject line gets grouped into a single thread when they, in fact, have nothing to do with one another.
 

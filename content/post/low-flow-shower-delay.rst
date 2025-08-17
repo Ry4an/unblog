@@ -4,8 +4,6 @@ date = "2012-05-23T11:35:00-0400"
 tags = ["funny", "ideas-built"]
 +++
 
-Low Flow Shower Delay
-=====================
 
 When I start up the shower it's the wrong temperature and adjusting it to the
 right temperature takes longer in this apartment than it has in any home in

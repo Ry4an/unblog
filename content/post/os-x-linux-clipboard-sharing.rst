@@ -4,8 +4,6 @@ date = "2012-04-17T20:44:00-0400"
 tags = ["software", "ideas-built"]
 +++
 
-OS X Linux Clipboard Sharing
-============================
 
 My primary home machine is a Linux deskop, and my primary work machine is an OSX
 laptop.  I do most of my work on the Linux box, ssh-ed into the OS X machine

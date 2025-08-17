@@ -4,8 +4,6 @@ date = "2003-07-14T01:00:00"
 tags = ["software", "perl", "ideas-built"]
 +++
 
-WikiChump
----------
 
 A chump bot (http://www.w3.org/2001/09/chump/) sits in an IRC (Chat) channel and remembers any URL (web addresses) that people say.  It displays them on a web page for later reference.  I spend time in #infoanarchy on the freenode network (freenode.org) where someone runs a chump bot whose output is visible here: http://peerfear.org/chump/
 

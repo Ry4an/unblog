@@ -4,8 +4,6 @@ date = "2011-03-19T23:18:00-0500"
 tags = ["software", "ideas-built"]
 +++
 
-reStructuredText Resume
-=======================
 
 I've had a resume in active maintenance since the mid 90s, and it's gone through
 many iterations.  I started with a Word document (I didn't know any better).  In

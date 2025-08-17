@@ -5,8 +5,6 @@ tags = ["ideas-built"]
 +++
 
 
-2004 Email Response Patterns
-----------------------------
 
 `Back in 2003`_ I started tracking some numbers on my email use patterns, especially related to replies.  I ran those old scripts on my 2004 mail and the numbers look pretty similar:
 

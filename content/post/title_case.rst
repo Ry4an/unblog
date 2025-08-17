@@ -4,8 +4,6 @@ date = "2019-05-02T15:39:00-0400"
 tags = ["funny", "software"]
 +++
 
-Ry4an in Title Case
-===================
 
 Python has a uniquely bad title case function which turns my already silly name
 into Ry4An, capitalizing the 'a' because it follows a non-letter character.

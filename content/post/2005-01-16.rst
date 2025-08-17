@@ -5,8 +5,6 @@ tags = ["meta", "software", "ideas-built"]
 +++
 
 
-New UnBlog System
------------------
 
 I've switched from a mailing list driven system to a wiki based one for this UnBlog.  It's less weird than the mailing list setup was, but it's not exactly moveable type either.  It offers RSS feeds and subscriptions, though through entirely different mechanisms than the list did.  I think I've moved everything over well enough that there are no dead links into the old space.  I ended up using my WikiChump thing modified to handle attachments and create comment pages to populate the data.
 

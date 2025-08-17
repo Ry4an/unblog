@@ -4,8 +4,6 @@ date = "2011-03-01T00:55:00-0600"
 tags = ["scala", "software", "mongodb", "ideas-built"]
 +++
 
-BoingBoing Posts in Rogue
-=========================
 
 Previously_ I mentioned I was importing the full corpus of BoingBoing_ posts
 into MonogoDB, which went off without a hitch.  The import was just to provide a

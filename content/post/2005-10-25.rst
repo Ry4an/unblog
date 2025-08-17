@@ -5,8 +5,6 @@ tags = ["ideas-built"]
 +++
 
 
-A Cheap and Easy Sidebar
-------------------------
 
 I hacked the MonthCalendar macro for moin moin to include some javascript which includes a sidebar built from a RSS feed.  The javascript and back-end Rebol were written by p3k.org.  The RSS feed is produced from (a subset of) my links at del.icio.us.  All in all a quick, easy addition, requiring just a little Python twiddling.
 

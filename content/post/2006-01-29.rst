@@ -5,8 +5,6 @@ tags = ["home"]
 +++
 
 
-A Very IKEA Sunday
-------------------
 
 I'm finally tackling all the little projects I always meant to do around the house in preparation for selling it.  Today I installed some simple `roller shades`_ downstairs and built a fairly complex multi-panel window covering system thing in the bedroom using the ridiculously modular `KVADRANT stuff`_.
 

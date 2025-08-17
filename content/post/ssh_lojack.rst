@@ -4,8 +4,6 @@ date = "2011-03-07T00:48:00-0600"
 tags = ["software", "security", "ideas-built"]
 +++
 
-Automatic SSH Tunnel Home As Securely As I Can
-==============================================
 
 After watching a `video from Defcon 18`_ and seeing a `tweet from Steve Losh`_ I
 decided to finally set up an automatic SSH tunnel from my home server to my

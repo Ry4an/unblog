@@ -5,8 +5,6 @@ tags = ["security", "ideas-built"]
 +++
 
 
-Last Surveillance Camera Post
------------------------------
 
 I got permission from Derek Tonn at tonnhaus design to use his map on the site, and I got the new site fully setup at http://mpls-watched.org. With all that done I figured it was time to send out press released and fired them off to the Strib, City Pages, Rake and Skyway News.  Who knows, maybe one of 'em will run something.
 

@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Dumbing Down scp
-----------------
 
 The tool scp, UNIX for secure copy, is a wrapper around ssh, secure shell.  It lets you move files from one machine to another through an encrypted connection with a command line syntax similar to that of the standard cp, local copy, command.  I use it 100 times a day.
 

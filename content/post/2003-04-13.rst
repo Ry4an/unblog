@@ -4,8 +4,6 @@ date = "2003-04-13T01:00:00"
 tags = ["meta", "software", "perl", "ideas-built"]
 +++
 
-Blogging 1990s Style
---------------------
 
 My good friends Luke (http://justlooking.recursion.org/) and Gabe (http://twol.dopp.net/) are working on a project that archives mailings lists to blogging software.  Essentially something that subscribes to lists and gateways to posts in a blog.  I politely told them the idea didn't make sense to me and instead advocated just putting a blog-look onto existing mailing list software.  This is my attempt to put my money where my mouth is.
 

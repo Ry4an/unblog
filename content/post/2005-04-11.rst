@@ -4,8 +4,6 @@ date = "2005-04-11T01:00:00"
 tags = ["software", "java", "ideas-built"]
 +++
 
-CVS Commit Blocking
--------------------
 
 When editing source files checked out from CVS I sometimes want to prevent them from going back in to source control without further edits. Until now I've just used  // FIXME  comments and have tried to remember to grep for FIXMEs before committing the files back.
 

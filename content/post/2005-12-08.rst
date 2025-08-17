@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Email Sub-Address Spam Frequency
---------------------------------
 
 My email server is configured such that email to ry4an-anything@ry4an.org gets correctly delivered to me.  The dash and whatever is after it are retained but ignored completely.
 

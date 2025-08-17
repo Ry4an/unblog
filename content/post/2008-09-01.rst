@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Grand Central Direct Dialer
----------------------------
 
 I'm a huge fan of `Grand Central`_'s call screening features.  It's irksome, however, that they make it hard to dial outward -- sending your GC number instead of your cell number as the caller id.  To do so you need to first add the target number to your address book, and often I'm calling someone I don't intend to call again often.
 

@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Novelty Keg Scale
------------------
 
 At the haloween party we got a keg of New Castle, but most folks went for the mixed drinks or the bottled beer.  We kept trying to steer folks toward the keg, but it's hard to get people behind a project that's not providing good status reports.
 

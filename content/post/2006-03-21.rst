@@ -5,8 +5,6 @@ tags = ["home"]
 +++
 
 
-Condo on the Market
--------------------
 
 After a lot of cleaning, painting, and decorating my condo is finally on the market.  Thanks to Kate and Natz for all their help.  We've priced it very aggressively in hopes of not having this process drag on, so if we're lucky we'll be bidding a fond farewell to `MLS 3165642`_ soon.
 

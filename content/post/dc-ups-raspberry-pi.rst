@@ -4,8 +4,6 @@ date = "2016-03-13T23:12:00-0400"
 tags = ["home", "ideas-built"]
 +++
 
-Raspberry Pi UPS
-================
 
 I'm starting to do more on a raspberry pi I've got in the house, and I wanted it
 to survive short power outages.  I looked at buying an off the shelf

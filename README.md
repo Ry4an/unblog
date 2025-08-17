@@ -19,7 +19,7 @@ This blog has been through so many iterations:
  - [ ] first md post
  - [x] verify tags work
  - [x] decide if subtitle should show
- - [ ] remove manual titles in rst posts
+ - [x] remove manual titles in rst posts
  - [ ] verify rss works
  - [ ] 
  - [ ] 

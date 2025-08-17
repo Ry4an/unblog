@@ -5,8 +5,6 @@ tags = ["funny", "software", "ideas-built"]
 +++
 
 
-Non-Linear Time Display
------------------------
 
 A few years back I was working in an office where my workspace was so noisy I kept slipping away to find quieter places in the building to work whenever I has a task which could be completed away from my desk. To avoid looking perpetually absent I wrote a quick script that would display (if available) the contents of a file named I-AM-AT and the how long it had been since I'd last pressed a key.
 

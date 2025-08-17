@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Referrer-Aware, HTML-Rewriting, Caching Web Server
---------------------------------------------------
 
 There are no new ideas in the message, I just don't know if the existing components have been previously combined in the way I'm proposing.  If they have been I couldn't find anyone talking about it.  Anyway...
 

@@ -5,8 +5,6 @@ tags = ["security", "ideas-built"]
 +++
 
 
-Time For Another Key Signing
-----------------------------
 
 It's time once again for that marriage of mathematics and paranoia that is a cryptographic key signing.  I'm organizing another for Thursday, January 20th, 2005.   Details can be found at: https://ry4an.org/keysigning/  Results from my last key signing can be found at: http://ry4an.org/keysigning/visualize/
 

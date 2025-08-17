@@ -5,8 +5,6 @@ tags = ["software", "java", "ideas-built"]
 +++
 
 
-Jetty with Large File Support
------------------------------
 
 Jetty_ is a great Java servlet container and web server.  It's fully embeddable and at OnionNetworks we've used it in many of our products.  It, however, has the same `2GiB file size limit`_ that a lot of software does.  This limit comes from using a 32 bit wide value to store file size yeilding a 4GiB (unsigned) or 2GiB (signed) maximum, and represents a real design gaff on the part of the developers.
 

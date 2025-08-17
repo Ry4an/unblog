@@ -4,8 +4,6 @@ date = "2011-05-29T12:17:00-0500"
 tags = ["funny", "ideas-built"]
 +++
 
-Scholars Walk Time Traveller
-============================
 
 The University of Minnesota has a `Scholar's Walk`_ which celebrates great
 persons affiliated with the U and the awards they've won.  One display labeled

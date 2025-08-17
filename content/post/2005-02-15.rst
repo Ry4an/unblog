@@ -5,8 +5,6 @@ tags = ["software", "java", "ideas-built"]
 +++
 
 
-SwarmStream Public Edition
---------------------------
 
 My latest project for Onion Networks has just been released: it's a first beta release of `SwarmStream Public Edition`_, a completely free Java protocol handler plug-in that transparently augments any HTTP data transfer with caching, automatic fail-over, automatic resume, and wide-area file transfer acceleration.
 

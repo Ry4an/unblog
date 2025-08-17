@@ -4,8 +4,6 @@ date = "2012-03-09T12:17:00-0500"
 tags = ["funny"]
 +++
 
-Word Star Retaliation
-=====================
 
 WordStar_ was the first word processor I ever used.  It was non-WYSIWYG, and
 it was good.  I haven't used it since the mid 80s, but I haven't used MS Word

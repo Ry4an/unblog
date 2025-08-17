@@ -4,8 +4,6 @@ date = "2012-05-30T14:32:00-0400"
 tags = ["software"]
 +++
 
-Android Fragmentation Analogy
-=============================
 
 This whole post should just be a single tweet, but somehow it doesn't feel safe
 to say anything comparing Android and iOS development, even implicitly, without

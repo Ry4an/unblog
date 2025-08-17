@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt"]
 +++
 
 
-Filtering Mail Using Time of Day
---------------------------------
 
 I get a lot of email, and a good percentage of it is spam.  To help filter the spam from the ham I use software called SpamAssassin (http://useast.spamassassin.org/).  SpamAssassin applies hundreds of tests to each incoming email and increases or decreases the mail's spam score depending on the result.  If the total spam score for a message is above a pre-set threshold (4.0 for me) it gets put aside.
 

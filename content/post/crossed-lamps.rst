@@ -4,8 +4,6 @@ date = "2013-04-06T20:42:00-0400"
 tags = ["funny", "home", "ideas-built"]
 +++
 
-Crossed Lamps
-=============
 
 Last weekend we bought two Rodd_ lamps at Ikea for the guest room, and it struck
 me how amused I'd be if each one switched the other.  Six hours and a few new

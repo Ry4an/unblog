@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Canoeing with a GPS Unit
-------------------------
 
 This weekend I had a great time canoeing with six friends.  We camped, swam, paddled, drank and just generally goofed around for a weekend. Two of us had brought along Garmin eTrex GPS units which I'd not previously had when canoeing.  They really added a lot.
 

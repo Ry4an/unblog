@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-Obscuring MoinMoin Wiki Referrers
----------------------------------
 
 When you click on a link in your browser to go to a new web page your browser sends along a ``Referrer:`` header, which tells the owner of the site that's been linked to the URL of the site where the link was found.  It's a nice little feature that helps website creators know who is linking to them.  Referrer headers are easily faked or disabled, but in general most people don't bother, because there's generally no harm in telling a website owner who told you about their site.
 

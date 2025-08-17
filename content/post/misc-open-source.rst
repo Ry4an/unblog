@@ -4,8 +4,6 @@ date = "2011-11-13T23:34:00-0600"
 tags = ["mongodb", "ideas-built"]
 +++
 
-Miscellaneous Open Source Contributions
-=======================================
 
 I'll take Mercurial over git any day for all the reasons obvious to anyone who's
 *really* used both of them, but geeyah github sure makes contributing to

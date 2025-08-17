@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Drink Recipe Fortune File
-=========================
 
 I like mixing drinks, despite having no real skill for it.  The commercial bar-tending courses seem to rely extensively on flashcards for the learning of drink recipes, so I though a UNIX fortune file of drink recipes would be a natural fit for learning.
 

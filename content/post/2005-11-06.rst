@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Using Mutt to Automate Mailman Message Rejections
--------------------------------------------------
 
 Since `this post`_ I've upgraded my mailman_ installation to a newer version, which allows me to automatically reject messages from non-subscribers without having to resort to external scripting.
 

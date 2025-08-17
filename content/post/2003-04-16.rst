@@ -5,8 +5,6 @@ tags = ["funny", "ideas-unbuilt"]
 +++
 
 
-Half Baked Ideas I've Had
-=========================
 
 Half Bakery (http://halfbakery.com) is a website where people can post poorly thought out ideas so they can be commented on, criticized, and (occasionally) praised by total (and generally snarky) strangers.  It's a clique-y place that's often unkind to new arrivals, but I was lucky enough to get generally favorable reviews for a few of the ideas I've posted there.  Here are a some of the entries I've created there in the past.
 

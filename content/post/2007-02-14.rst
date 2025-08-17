@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-View Any Simon Delivers Order
------------------------------
 
 I forwarded a Simon Delivers order receipt email on to a friend, and he was able to view the order without being logged in as me.  Turns out that if you have a Simon Delivers account at all they let you view any order.  I created a `quick web form`_ to let anyone view any order using my account.  Here's my favorite order so far:
  

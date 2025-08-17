@@ -5,8 +5,6 @@ tags = ["home", "ideas-built"]
 +++
 
 
-Home Carbonator
----------------
 
 Last year I `read about home carbonation`_, and looking at the amount of club soda Kate and I buy it made sense.  The only unknown was where to put the ugly tank that would be out of sight yet still convenient to use.
 

@@ -4,8 +4,6 @@ date = "2012-11-04T23:12:00-0500"
 tags = ["software", "security", "ideas-built"]
 +++
 
-spdyproxy on Ubuntu 12.4 LTS
-============================
 
 I'm often on unencrypted wireless networks, and I don't always trust everyone on
 the encrypted ones, so I routinely run a SOCKS proxy to tunnel

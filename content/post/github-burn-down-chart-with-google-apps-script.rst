@@ -4,8 +4,6 @@ date = "2013-01-05T00:07:00-0500"
 tags = ["software", "ideas-built"]
 +++
 
-Creating Burn Down Charts for GitHub Repositories Using Google Apps Script
-==========================================================================
 
 At DramaFever_ I got folks to buy into to `burn down`_ charts as the daily
 display for our weekly sprints with the rotating release person being

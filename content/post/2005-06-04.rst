@@ -5,8 +5,6 @@ tags = ["ideas-unbuilt", "java"]
 +++
 
 
-Poker Timer DVD
----------------
 
 There's a ton of `poker time software`_ out there and even some nifty looking `dedicated hardware`_.  At the games I attend we'll usually use a computer for the timing, but often there isn't one in the room and no one wants to bring over a laptop. However, there is almost always a TV with DVD player in whatever room gets temporarily re-purposed as the game room.
 

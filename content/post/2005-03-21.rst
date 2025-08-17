@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Approval Voting for the ACM
----------------------------
 
 `Approval voting`_ is an alternate voting system  that has many_ benefits_ `as compared to`_ `Instant Run-Off Voting`_.  For years I've been running the on-line officer elections for the `local campus chapter`_ of the `Association of Computing Machinery`_.  Last year I talked them into switching to approval voting (even though it probably violates their  charter), and it worked really well.  Their elections have kicked off again, and once again `I'm hosting them and using my voting script`_.
 

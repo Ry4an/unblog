@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Linux on the Dell X1
---------------------
 
 Yesterday I got the warranty replacement machine for my (company's) Dell X300 laptop.  Dell mailed me an X1_, which seems a nice enough machine.  It meets my firm criteria: under 3 lbs and thinner than an inch.  If Apple would hit those numbers I'd be there in a second.
 

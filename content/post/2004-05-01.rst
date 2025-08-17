@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Bookmarksync Patch for Tab-Group Bookmarks
-------------------------------------------
 
 I use the Mozilla web browser on a few different machines, and its lack of roaming profiles/bookmarks is a source of annoyance.  When I bookmark a site on my laptop, I want that bookmark to be available on my desktop machine.  In order to achieve that I use a kludgy network of scripts, CVS, crontab entries, and the bookmarksync application.
 

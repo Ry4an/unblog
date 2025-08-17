@@ -5,8 +5,6 @@ tags = ["funny", "ideas-built"]
 +++
 
 
-Hand Scanner
-------------
 
 Some friends and I just threw a huge party with a Dystopian future theme.  I wanted to have a hand scanner at the door because biometrics scare the hell out of me.  I started out with grand plans involving laptops and real scanners and all sorts of things like that, but as time drew short I resorted to trickery.
 

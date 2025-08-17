@@ -4,8 +4,6 @@ date = "2019-05-02T22:45:00-0400"
 tags = ["meta", "software"]
 +++
 
-Apache To CloudFront With Lambda At Edge
-========================================
 
 I've been running my (this) vanity website and mail server on Linux machines
 I administer myself since 1998 or so, but it's time to rebuild the machine and

@@ -5,8 +5,6 @@ tags = ["ideas-built"]
 +++
 
 
-Improving the RCA RP3711 Alarm Clock
-------------------------------------
 
 I live in a sleep deprived state.  Not just because I have a lot to do and resent sleep as the short-term death it is, but also because I enjoy the swirling colors.  Maintaining a sleep deprived state requires a good alarm clock.  When your brain knows it needs 8 hours and you're giving it 4 it's gonna fight you, and given that it's in charge of your perceived reality, it doesn't have to fight fairly.
 

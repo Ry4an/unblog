@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Calendaring Migration
----------------------
 
 I'm happy with my email client, text editor, compilers, IRC client, news reader, web browser, and just about every other tool I use in the process of my daily computing.  The only consistent source of displeasure has been my calendaring (when the hell did that become a word?) application.  I have a hideously over-scheduled life and need some sort of scheduling solution be it computerized or otherwise to keep things straight, but I've never found anything that really suits me needs.
 

@@ -5,8 +5,6 @@ tags = ["home", "ideas-built"]
 +++
 
 
-Whole House Humidifier
-----------------------
 
 This weekend I put in a Honeywell 360A whole house humidifier.  The instructions said it should take an hour, and it only took me four. Nothing went wrong, which what you hope for when a project means cutting holes in your duct work, tapping into your water, and some wiring.  Now when we wake up our throats don't hurt.
 

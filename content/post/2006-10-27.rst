@@ -5,8 +5,6 @@ tags = ["people", "software"]
 +++
 
 
-The Wedding Planned With Bugzilla
----------------------------------
 
 If things have been a little sparse around here over the last year or so it's because outside of work the bulk of my organizational and creative energies have been going into the planning of our wedding.
 

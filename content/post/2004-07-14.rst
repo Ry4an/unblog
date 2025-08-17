@@ -5,8 +5,6 @@ tags = ["home", "ideas-built"]
 +++
 
 
-Roomba on the Pronto Remote
----------------------------
 
 A few weeks back I got a Roomba Robotic Vacuum (http://www.irobot.com/consumer/product_detail.cfm?prodid=9) as a wonderful gift.  Shipped with it was the optional remote control.  The Roomba is fully automatic, but it's programmed to pick up dirt not to chase the cat -- you need the remote for that.
 

@@ -4,8 +4,6 @@ date = "2013-08-11T01:08:00-0400"
 tags = ["software", "ideas-built"]
 +++
 
-Occuped: Twine + Go + App Engine
-================================
 
 In our NY office We've got 40 people working in a space with two
 bathrooms.  Walking to the bathrooms, finding them both occupied, and

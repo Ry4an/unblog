@@ -5,8 +5,6 @@ tags = ["software", "java", "ideas-built"]
 +++
 
 
-Poker Timer
------------
 
 Some friends and I have been playing poker a couple of times a month for the last year or so.  Our play is terrible, no one cares, and we usually spend more on beer than we win.  It's a good time.
 

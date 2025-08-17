@@ -5,8 +5,6 @@ tags = ["home", "ideas-built"]
 +++
 
 
-Trash Can Snorkel
------------------
 
 This one's dumb.  We've got the same trash can that everyone who shops at Target has.  The inner removable pail is handy for keeping spills from pouring out the foot pedal hole, but its air-tight nature creates quite the vacuum when you're trying to pull the bag out.
 

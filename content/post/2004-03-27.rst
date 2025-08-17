@@ -5,8 +5,6 @@ tags = ["perl", "ideas-built", "funny", "software", "security"]
 +++
 
 
-University of MN Magic Number Guessing
---------------------------------------
 
 Back when I started at the University of Minnesota in 1995 the course registration system was terminal/telnet based.  Students would register using a clumsy mainframe-style form interface.  When a class a student wanted was full or required unsatisfied prerequisites, the student come supplicant would go to the department to beg for a "magic number" which, when input into the on-line registration system, would allow him or her admission into the course.
 

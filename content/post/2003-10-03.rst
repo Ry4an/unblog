@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-IRC Nickname Tracking Script
-----------------------------
 
 Being a telecommuter, the closest thing I have to an office is an IRC channel.  IRC (Internet Relay Chat) is like a chat room minus the emoticons and pedophiles.  While normally the office IRC channel is the very embodiment of maturity, there are two silly things about it that have always annoyed me.  The first being that everyone gets to pick their own name, and the second being they can change their names at will.
 

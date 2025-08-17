@@ -4,8 +4,6 @@ date = "2011-01-29T00:34:00-0600"
 tags = ["software", "mercurial", "ideas-built"]
 +++
 
-Blacklisting Changesets in Mercurial
-====================================
 
 Distributed version control systems have revolutionized how software teams work,
 by making merges no longer scary.  Developers can work on a feature in relative

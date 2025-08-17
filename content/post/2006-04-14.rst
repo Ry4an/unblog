@@ -5,8 +5,6 @@ tags = ["software", "ideas-built"]
 +++
 
 
-Display Google Calendars with PHP iCalendar
--------------------------------------------
 
 Google has a `new calendar service`_, and it's great.  I really try to avoid hosted data solutions, but this one's just too good to pass up.  My one gripe is that there's no easy way for non google calendar users to view the calendars.  They're available live as both ical and rss/xml files, but the average home web user doesn't know what to do with either of those.
 

@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-History of the World - Attack Probabilities
--------------------------------------------
 
 History of the World is a fine game from Avalon Hill.  It's distributed by Hasbro now, and it's one of the rare Avalon Hill games that Hasbro managed to improve when they "cleaned it up".
 

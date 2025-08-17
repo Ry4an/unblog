@@ -5,8 +5,6 @@ tags = ["perl", "security", "ideas-built"]
 +++
 
 
-Surveillance Camera Reporting
------------------------------
 
 I got the surveillance camera location reporting stuff working tonight. It's amazing how easy Perl's CGI.pm can make stupid little web input forms.  I'm sure I'll think of some other fields that I want in the data before this thing goes live, but for now this should do nicely: https://ry4an.org/surveillance/report/
 

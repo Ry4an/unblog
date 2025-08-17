@@ -4,8 +4,6 @@ date = "2017-01-18T00:19:00-0500"
 tags = ["home", "ideas-built", "software", "python", "security"]
 +++
 
-Home Alarm Analytics With AWS Kinesis
-=====================================
 
 Home security system projects are fun because everything about them screams
 "1980s legacy hardware design".  Nowhere else in the modern tech landscape

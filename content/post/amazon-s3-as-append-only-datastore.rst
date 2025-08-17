@@ -4,8 +4,6 @@ date = "2013-02-03T10:10:00-0500"
 tags = ["software", "ideas-built"]
 +++
 
-Amazon S3 as Append Only Datastore
-==================================
 
 As a hack, when I need an append-only datastore with no authentication
 or validation, I use Amazon S3.  S3 is usually a read-only service from

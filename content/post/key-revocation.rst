@@ -4,8 +4,6 @@ date = "2011-12-11T21:20:00-0600"
 tags = ["ideas-built"]
 +++
 
-Posthumous Key Revocation
-==========================
 
 I've just emptied out my safe deposit box for the move, and thought I'd re-post
 this: 

@@ -5,8 +5,6 @@ tags = ["funny", "ideas-built"]
 +++
 
 
-Perseverance as Measured with Google Hits
------------------------------------------
 
 I was eating outside a few weeks ago and saw a sign for the 2nd Annual Cabanna Boy Contest at a local bar. I wisely decided not to enter the contest, but then started to wonder if they had called their first one the 1st Annual Cabanna Boy Contest. That's pretty optimistic. I then started wondering how likely it is that a 1st Annual leads to a 2nd Annual to a 3rd Annual. Being a modern geek I figured google would know the answer if I asked right.
 

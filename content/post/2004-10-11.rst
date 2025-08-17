@@ -5,8 +5,6 @@ tags = ["ideas-built"]
 +++
 
 
-Dead Pool
----------
 
 I've decided to run a dead pool this year.  You can sign up at http://sarinity.com/deadpool/ by guessing 10 famous persons who you think might die during the next calendar year.  The younger they are the more points you get, and the highest point total wins.  Remember, it's not any more morbid than fantasy football is athletic.
 

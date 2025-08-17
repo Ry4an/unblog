@@ -5,8 +5,6 @@ tags = ["software", "perl", "ideas-built"]
 +++
 
 
-False Point Filtering on the Mimio
-----------------------------------
 
 I'm trying not to have all the projects and ideas posted to this list be computer related, but I guess that's where I expend most of my creative energy.  I bought a Mimio electronic white board (http://mimio.com) cheap on eBay ($40), and while the Windows software for it is reported to be quite good, the Linux software options ranged from vapor to unusable.  I did, however, find some Perl code that handled protocol parsing (the tedious part), so I started with that.
 

@@ -5,8 +5,6 @@ tags = ["perl", "ideas-built"]
 +++
 
 
-Mail To Wiki Gateway
---------------------
 
 I wanted a way to quickly append text to Moin Moin wikis.  I wrote a Perl script to do just that.  It relies on the email address suffix features available in most modern MTAs to get the page name.
 
