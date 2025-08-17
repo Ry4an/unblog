@@ -13,15 +13,15 @@ This blog has been through so many iterations:
  - [x] get /unblog/resume/ working
  - [x] fix inline images in rst
  - [ ] fix code snippets in rst
- - [ ] create footer
- - [ ] create header
+ - [x] create footer
+ - [x] create header
  - [ ] create a md post template
  - [ ] first md post
  - [x] verify tags work
  - [x] decide if subtitle should show
  - [x] remove manual titles in rst posts
  - [ ] verify rss works
- - [ ] 
+ - [ ] remove :page: links
  - [ ] 
  - [ ] 
  - [ ] 
