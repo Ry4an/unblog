@@ -21,7 +21,7 @@ This blog has been through so many iterations:
  - [x] decide if subtitle should show
  - [x] remove manual titles in rst posts
  - [ ] verify rss works
- - [ ] remove :page: links
- - [ ] 
+ - [x] remove :page: links
+ - [x] remove `.. youtube` directives
  - [ ] 
  - [ ] 

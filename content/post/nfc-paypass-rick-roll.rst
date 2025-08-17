@@ -38,10 +38,9 @@ I'm still batting around ideas for a first NFC project, maybe a geocaching
 / scavenger-hunt-like trail of tags with clues, but meanwhile I made some fake
 Master Card PayPass labels that are decidedly more fun:
 
-.. youtube:: vHgyNMo_h9Y
-   :align: center
-   :width: 425
-   :height: 344
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/vHgyNMo_h9Y?si=lszKAw9taTOK52oQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Keep in mind that phone has absolutely no non-standard software or settings on
 it.  Any NFC-reader equipped phone that touches that tag will be rick rolled.

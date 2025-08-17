@@ -9,10 +9,9 @@ Last weekend we bought two Rodd_ lamps at Ikea for the guest room, and it struck
 me how amused I'd be if each one switched the other.  Six hours and a few new
 parts later, and it came out pretty well:
 
-.. youtube:: DbliHjD3zWo
-   :align: center
-   :width: 425
-   :height: 344
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/DbliHjD3zWo?si=0Jpfx9V3cOPo5a50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The remote action is especially jarring because the switches are right next to
 the bulbs they would normally control:
