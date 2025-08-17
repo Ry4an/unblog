@@ -20,7 +20,8 @@ This blog has been through so many iterations:
  - [x] verify tags work
  - [x] decide if subtitle should show
  - [x] remove manual titles in rst posts
- - [ ] verify rss works
+ - [x] verify rss works
+ - [x] redircet old atom feed
  - [x] remove :page: links
  - [x] remove `.. youtube` directives
  - [x] remove old literal syntax highlighting javascript
