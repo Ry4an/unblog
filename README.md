@@ -18,7 +18,7 @@ This blog has been through so many iterations:
  - [ ] create a md post template
  - [ ] first md post
  - [x] verify tags work
- - [ ] decide if subhead should show
+ - [x] decide if subtitle should show
  - [ ] remove manual titles in rst posts
  - [ ] verify rss works
  - [ ] 

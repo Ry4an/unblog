@@ -2,7 +2,7 @@ baseURL = 'https://ry4an.org/unblog/'
 languageCode = 'en-us'
 title = "Ry4an's Unblog"
 theme = "terminal"
-copyright = "© 2003 Ry4an Brase"
+copyright = "© Ry4an Brase"
 
 [security]
     [security.exec]
