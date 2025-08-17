@@ -18,14 +18,14 @@ Earlier this month some friends and I hiked across Isle Royale in lake Superior.
 
 
 
-.. _conversion script: /unblog/static/attachments/2005-09-22-convert.pl
+.. _conversion script: /unblog/attachments/2005-09-22-convert.pl
 
-.. _GPS format data: /unblog/static/attachments/2005-09-22-isle-royale.gpx.xml
+.. _GPS format data: /unblog/attachments/2005-09-22-isle-royale.gpx.xml
 
 .. _GPS visualizer: http://gpsvisualizer.com
 
 
-.. |isle-royale.png| image:: /unblog/static/attachments/2005-09-22-isle-royale.png
+.. |isle-royale.png| image:: /unblog/attachments/2005-09-22-isle-royale.png
 
 
 .. date: 1127365200

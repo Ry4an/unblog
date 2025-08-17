@@ -33,7 +33,7 @@ This image shows just where the hole was made:
 .. _incredible contortions: http://mysteryroad.blogs.com/photos/circledance800x600/2hubcover1_3580.html
 
 
-.. |roomba-hole.jpg| image:: /unblog/static/attachments/2006-01-25-roomba-hole.jpg
+.. |roomba-hole.jpg| image:: /unblog/attachments/2006-01-25-roomba-hole.jpg
 
 
 .. date: 1138168800

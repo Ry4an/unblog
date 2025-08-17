@@ -23,10 +23,10 @@ Attached is the diff for index.html to add this little hack.  I created an ugly 
 
 
 
-.. _index.html.diff.gz: /unblog/static/attachments/2003-04-17-index.html.diff.gz
+.. _index.html.diff.gz: /unblog/attachments/2003-04-17-index.html.diff.gz
 
 
-.. |next.gif| image:: /unblog/static/attachments/2003-04-17-next.gif
+.. |next.gif| image:: /unblog/attachments/2003-04-17-next.gif
 
 
 

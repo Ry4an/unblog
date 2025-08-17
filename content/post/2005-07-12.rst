@@ -31,7 +31,7 @@ Kate was 3 for 5 with only Coke and C2 transposed.  I got only one of them right
 
 
 
-.. |coke-taste-test.jpg| image:: /unblog/static/attachments/2005-07-12-coke-taste-test.jpg
+.. |coke-taste-test.jpg| image:: /unblog/attachments/2005-07-12-coke-taste-test.jpg
 
 
 .. date: 1121144400

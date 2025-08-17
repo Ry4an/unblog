@@ -26,10 +26,10 @@ Last night the friends were coming by for poker again and wanted to play tournam
 
 
 
-.. _pokertimer-1.0.tar.gz: /unblog/static/attachments/2004-01-25-pokertimer-1.0.tar.gz
+.. _pokertimer-1.0.tar.gz: /unblog/attachments/2004-01-25-pokertimer-1.0.tar.gz
 
 
-.. |pokertimer.png| image:: /unblog/static/attachments/2004-01-25-pokertimer.png
+.. |pokertimer.png| image:: /unblog/attachments/2004-01-25-pokertimer.png
 
 
 .. date: 1075010400

@@ -35,7 +35,7 @@ As one would expect the final product tasted like candy, but had the potency of 
 .. _Svedka: http://www.svedka.com/
 
 
-.. |vodka-infusion.jpg| image:: /unblog/static/attachments/2005-08-22-vodka-infusion.jpg
+.. |vodka-infusion.jpg| image:: /unblog/attachments/2005-08-22-vodka-infusion.jpg
 
 
 .. date: 1124686800

@@ -233,7 +233,7 @@ input file in a tarball_.
 
 .. _Scala script: http://paste.pocoo.org/show/333148/
 .. _Perl script: http://paste.pocoo.org/show/333145/
-.. _tarball: https://ry4an.org/unblog/static/attachments/perl-scala.tar.gz
+.. _tarball: https://ry4an.org/unblog/attachments/perl-scala.tar.gz
 
 .. raw:: html
 

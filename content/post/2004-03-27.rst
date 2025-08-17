@@ -36,10 +36,10 @@ I've attached a screen-shot of the script in progress from an actual course regi
 
 
 
-.. _magic-number.tar.gz: /unblog/static/attachments/2004-03-27-magic-number.tar.gz
+.. _magic-number.tar.gz: /unblog/attachments/2004-03-27-magic-number.tar.gz
 
 
-.. |magic-number.gif| image:: /unblog/static/attachments/2004-03-27-magic-number.gif
+.. |magic-number.gif| image:: /unblog/attachments/2004-03-27-magic-number.gif
 
 
 

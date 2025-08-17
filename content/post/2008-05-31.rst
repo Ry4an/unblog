@@ -31,7 +31,7 @@ This weekend I (or actually Kate since I was running late) went to `Northern Bre
 .. _Northern Brewer: http://www.northernbrewer.com
 
 
-.. |carbonator.jpg| image:: /unblog/static/attachments/2008-05-31-carbonator.jpg
+.. |carbonator.jpg| image:: /unblog/attachments/2008-05-31-carbonator.jpg
 
 
 .. date: 1212210000

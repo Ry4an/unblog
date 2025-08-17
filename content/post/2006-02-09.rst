@@ -19,9 +19,9 @@ Last week Kate, Natz, and I painted a few more rooms, added handles to the cabin
 
 
 
-.. |front-view.jpg| image:: /unblog/static/attachments/2006-02-09-front-view.jpg
+.. |front-view.jpg| image:: /unblog/attachments/2006-02-09-front-view.jpg
 
-.. |top-view.jpg| image:: /unblog/static/attachments/2006-02-09-top-view.jpg
+.. |top-view.jpg| image:: /unblog/attachments/2006-02-09-top-view.jpg
 
 
 .. date: 1139464800

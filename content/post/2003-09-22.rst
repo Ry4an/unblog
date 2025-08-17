@@ -29,7 +29,7 @@ I last hosted an event like this in March of 2003.  I've attached an image of th
 
 
 
-.. |trust.png| image:: /unblog/static/attachments/2003-09-22-trust.png
+.. |trust.png| image:: /unblog/attachments/2003-09-22-trust.png
 
 
 .. date: 1064206800

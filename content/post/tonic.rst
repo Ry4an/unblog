@@ -47,7 +47,7 @@ filtering process entirely.  The other benefit to using quinine instead of
 totaquine is aesthetic.  The cinchona bark leaves my homemade tonic syrup brown
 and the water an unpleasant yellow color as you can see below.
 
-.. image:: https://ry4an.org/unblog/static/attachments/tonic.jpg
+.. image:: https://ry4an.org/unblog/attachments/tonic.jpg
    :width: 640px
    :height: 478px
    :alt: Tonic Water and Syrup

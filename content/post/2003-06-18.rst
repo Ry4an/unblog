@@ -25,7 +25,7 @@ I spent a good hour puzzling out how my calculations could be so far off when it
 
 
 
-.. |mapscale.png| image:: /unblog/static/attachments/2003-06-18-mapscale.png
+.. |mapscale.png| image:: /unblog/attachments/2003-06-18-mapscale.png
 
 
 .. date: 1055912400

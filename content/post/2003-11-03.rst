@@ -30,12 +30,12 @@ Below is a photo of the tail-end of one of the flare ups, and the illusion isn't
 
 
 
-.. _flaming-moes.tar.gz: /unblog/static/attachments/2003-11-03-flaming-moes.tar.gz
+.. _flaming-moes.tar.gz: /unblog/attachments/2003-11-03-flaming-moes.tar.gz
 
 
-.. |label.png| image:: /unblog/static/attachments/2003-11-03-label.png
+.. |label.png| image:: /unblog/attachments/2003-11-03-label.png
 
-.. |flaming_Mo.jpg| image:: /unblog/static/attachments/2003-11-03-flaming_Mo.jpg
+.. |flaming_Mo.jpg| image:: /unblog/attachments/2003-11-03-flaming_Mo.jpg
 
 
 .. date: 1067839200

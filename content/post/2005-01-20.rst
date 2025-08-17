@@ -50,7 +50,7 @@ Here's the histogram for 2004:
 
 .. _Back in 2003: /unblog/post/2003-07-17
 
-.. |email-response-times.png| image:: /unblog/static/attachments/2005-01-20-email-response-times.png
+.. |email-response-times.png| image:: /unblog/attachments/2005-01-20-email-response-times.png
 
 
 .. date: 1106200800

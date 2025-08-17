@@ -22,7 +22,7 @@ I've got a silly little project in the works for using friendsd in a manner othe
 
 
 
-.. _Net-Friends-1.00.tar.gz: /unblog/static/attachments/2004-01-11-Net-Friends-1.00.tar.gz
+.. _Net-Friends-1.00.tar.gz: /unblog/attachments/2004-01-11-Net-Friends-1.00.tar.gz
 
 
 

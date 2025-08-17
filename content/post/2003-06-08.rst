@@ -30,7 +30,7 @@ savelinks_
 
 
 
-.. _savelinks: /unblog/static/attachments/2003-06-08-savelinks.sh
+.. _savelinks: /unblog/attachments/2003-06-08-savelinks.sh
 
 
 

@@ -44,10 +44,10 @@ I whipped up a little Perl script to extract some stats and create a histogram. 
 
 
 
-.. _responsetime.pl.gz: /unblog/static/attachments/2003-07-17-responsetime.pl.gz
+.. _responsetime.pl.gz: /unblog/attachments/2003-07-17-responsetime.pl.gz
 
 
-.. |email-response-times.png| image:: /unblog/static/attachments/2003-07-17-email-response-times.png
+.. |email-response-times.png| image:: /unblog/attachments/2003-07-17-email-response-times.png
 
 
 .. date: 1058418000

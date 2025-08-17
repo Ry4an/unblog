@@ -27,7 +27,7 @@ I don't know if anyone took a picture of the finished scanner, but I snagged the
 
 
 
-.. |handscan.png| image:: /unblog/static/attachments/2003-07-07-handscan.png
+.. |handscan.png| image:: /unblog/attachments/2003-07-07-handscan.png
 
 
 .. date: 1057554000

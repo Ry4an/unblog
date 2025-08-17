@@ -21,9 +21,9 @@ This weekend I put in a Honeywell 360A whole house humidifier.  The instructions
 
 
 
-.. |IMG_1153.jpg| image:: /unblog/static/attachments/2006-11-28-IMG_1153.jpg
+.. |IMG_1153.jpg| image:: /unblog/attachments/2006-11-28-IMG_1153.jpg
 
-.. |IMG_1154.jpg| image:: /unblog/static/attachments/2006-11-28-IMG_1154.jpg
+.. |IMG_1154.jpg| image:: /unblog/attachments/2006-11-28-IMG_1154.jpg
 
 
 

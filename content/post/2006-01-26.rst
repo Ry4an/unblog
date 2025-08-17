@@ -53,7 +53,7 @@ Somewhat related: Some folks at IBM did a very cool project wherein they generat
 .. _pretty pictures: http://researchweb.watson.ibm.com/history/images/capitalism_group.gif
 
 
-.. |wikipedia.png| image:: /unblog/static/attachments/2006-01-26-wikipedia.png
+.. |wikipedia.png| image:: /unblog/attachments/2006-01-26-wikipedia.png
 
 
 .. date: 1138255200

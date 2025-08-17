@@ -23,9 +23,9 @@ Today when it arrived she agreed to marry me, and I couldn't be happier.
 
 
 
-.. |IMG_0836.JPG| image:: /unblog/static/attachments/2005-09-21-IMG_0836.JPG
+.. |IMG_0836.JPG| image:: /unblog/attachments/2005-09-21-IMG_0836.JPG
 
-.. |IMG_0831.JPG| image:: /unblog/static/attachments/2005-09-21-IMG_0831.JPG
+.. |IMG_0831.JPG| image:: /unblog/attachments/2005-09-21-IMG_0831.JPG
 
 
 

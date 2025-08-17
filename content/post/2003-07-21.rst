@@ -24,10 +24,10 @@ When we got back I took the GPS units and dumped their track history data to my 
 
 
 
-.. _garbleplot.pl.gz: /unblog/static/attachments/2003-07-21-garbleplot.pl.gz
+.. _garbleplot.pl.gz: /unblog/attachments/2003-07-21-garbleplot.pl.gz
 
 
-.. |canoe-tracks.png| image:: /unblog/static/attachments/2003-07-21-canoe-tracks.png
+.. |canoe-tracks.png| image:: /unblog/attachments/2003-07-21-canoe-tracks.png
 
 
 .. date: 1058763600

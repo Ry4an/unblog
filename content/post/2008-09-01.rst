@@ -28,7 +28,7 @@ It also generates a bookmarklet you can drag to your browser's toolbar that will
 
 .. _mobile friendly web form: https://ry4an.org/gcdial
 
-.. _download the script: /unblog/static/attachments/2008-09-01-gcdial.pl
+.. _download the script: /unblog/attachments/2008-09-01-gcdial.pl
 
 
 

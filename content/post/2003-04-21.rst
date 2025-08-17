@@ -34,12 +34,12 @@ I've attached the tarball for the software for posterity.  If you're using it em
 
 
 
-.. _perlmimio-2002-04-21.tar.gz: /unblog/static/attachments/2003-04-21-perlmimio-2002-04-21.tar.gz
+.. _perlmimio-2002-04-21.tar.gz: /unblog/attachments/2003-04-21-perlmimio-2002-04-21.tar.gz
 
 
-.. |filtered.png| image:: /unblog/static/attachments/2003-04-21-filtered.png
+.. |filtered.png| image:: /unblog/attachments/2003-04-21-filtered.png
 
-.. |unfiltered.png| image:: /unblog/static/attachments/2003-04-21-unfiltered.png
+.. |unfiltered.png| image:: /unblog/attachments/2003-04-21-unfiltered.png
 
 
 .. date: 1050901200

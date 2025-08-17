@@ -23,7 +23,7 @@ Attached is a tarball containing that script.
 
 
 
-.. _wikichump.tar.gz: /unblog/static/attachments/2003-07-14-wikichump.tar.gz
+.. _wikichump.tar.gz: /unblog/attachments/2003-07-14-wikichump.tar.gz
 
 
 
