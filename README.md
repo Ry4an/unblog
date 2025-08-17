@@ -12,7 +12,7 @@ This blog has been through so many iterations:
  - [x] get favicon corrected
  - [x] get /unblog/resume/ working
  - [x] fix inline images in rst
- - [ ] fix code snippets in rst
+ - [x] fix code snippets in rst
  - [x] create footer
  - [x] create header
  - [ ] create a md post template
