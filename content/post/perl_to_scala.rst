@@ -233,12 +233,4 @@ input file in a tarball_.
 .. _Perl script: http://paste.pocoo.org/show/333145/
 .. _tarball: https://ry4an.org/unblog/attachments/perl-scala.tar.gz
 
-.. raw:: html
-
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushScala.js/shBrushPerl.js"></script>
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushScala.js/shBrushScala.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
-    <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
-
 .. tags: scala,perl,software

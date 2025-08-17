@@ -46,11 +46,4 @@ moving text between the Linux selection (copy-on-select) and clipboard
 .. _a lot of ways to unify clipboards: http://gigaom.com/collaboration/7-ways-to-a-unified-clipboard/
 .. _xsel: http://www.kfish.org/software/xsel/
 
-.. raw:: html
-
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushLua.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
-    <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
-
 .. tags: software,ideas-built

@@ -106,11 +106,4 @@ scopes are absurdly course-grained.  I've got this script and our Jenkins build
 system with full read-write access to the repository because there's no
 read-only scope and no issues-only scope.
 
-.. raw:: html
-
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushJScript.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
-    <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
-
 .. tags: software,ideas-built

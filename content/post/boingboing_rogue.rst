@@ -58,11 +58,4 @@ as easy to use as it looks.
 .. _repository at BitBucket: https://bitbucket.org/Ry4an/boingboing-rogue
 .. _@jorgeoritz85: http://twitter.com/#!/jorgeortiz85
 
-.. raw:: html
-
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushScala.js/shBrushScala.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
-    <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
-
 .. tags: scala,software,mongodb,ideas-built

@@ -97,11 +97,4 @@ modems and with a first rate software offering.  The pieces are all there.
 .. _Athena: https://aws.amazon.com/athena/
 .. _Presto: https://prestodb.io/
 
-.. raw:: html
-
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushPython.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
-    <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
-
 .. tags: python,ideas-built,software,home,security

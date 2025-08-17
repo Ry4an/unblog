@@ -72,11 +72,4 @@ Rafael to pull them anyway.  Meanwhile they should merge cleanly into the blohg.
 .. _162ee0d101e7: https://ry4an.org/hg/blohg/rev/162ee0d101e7
 .. _34726b209d67: https://ry4an.org/hg/blohg/rev/34726b209d67
 
-.. raw:: html
-
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushPython.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
-    <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
-
 .. tags: python,ideas-built,software,meta

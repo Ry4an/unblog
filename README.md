@@ -23,5 +23,4 @@ This blog has been through so many iterations:
  - [ ] verify rss works
  - [x] remove :page: links
  - [x] remove `.. youtube` directives
- - [ ] 
- - [ ] 
+ - [x] remove old literal syntax highlighting javascript

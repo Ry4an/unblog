@@ -68,11 +68,4 @@ telling folks the author is definitely no longer thinking about this game.
 .. _deck_of_cards module: https://pypi.org/project/deck-of-cards/
 .. _previous analysis: https://web.archive.org/web/20211216014138/https://milesott.com/2014/08/19/i-stand-corrected-or-do-i/
 
-.. raw:: html
-
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="https://ry4an.org/unblog/static/syntaxhighlighter/shBrushPython.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://ry4an.org/unblog/static/syntaxhighlighter/shCoreDefault.css"/>
-    <script type="text/javascript">SyntaxHighlighter.defaults.toolbar=false; SyntaxHighlighter.all();</script>
-
 .. tags: ideas-built,software,python
