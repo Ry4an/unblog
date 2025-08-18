@@ -14,8 +14,8 @@ decision, but I'm counting on a large network of past coworkers and some
 AI-resistant skills to smooth my reentry in 2026.
 
 Already, with just a few months' distance, I'm finding myself diving into
-personal tech projects that I've been wanting to do for years, but could
-previously summon the energy to start.  So far it's all small stuff like a [blog
+personal tech projects that I've been wanting to do for years, but couldn't
+summon the energy to start.  So far it's all small stuff like a [blog
 revamp](/unblog/post/unblog-generation-four/), but I'm ramping up on
 hobbyist-grade [home automation](/unblog/tags/home/) stuff.
 
