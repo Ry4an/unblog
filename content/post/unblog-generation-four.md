@@ -6,9 +6,9 @@ tags = [ "meta", "software", "python" ]
 
 I've been blogging, unreliably, at ry4an.org since 2003, and just changed the
 software powering it for the third time.  Up until today I was using
-[blohg](https://app.readthedocs.org/projects/blohg/), worked great, but hadn't
-had a release in seven year and still required python 2.7, which is annoying
-to install cleanly these days.
+[blohg](https://app.readthedocs.org/projects/blohg/). It worked great, but
+hadn't had a release in seven year and still required python 2.7, which is
+annoying to install cleanly these days.
 
 A quick look around showed that the static site generator space has exploded
 since last I checked.  [Hugo](https://gohugo.io/) is mature and doesn't
