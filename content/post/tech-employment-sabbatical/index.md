@@ -2,6 +2,7 @@
 date = '2025-08-18T02:01:29-04:00'
 title = 'Tech Employment Sabbatical'
 tags = [ "people", ]
+cover = 'ry4an_ambulance.jpg'
 +++
 
 After 30 years of steady employment in the tech industry I've gotten the family
