@@ -159,8 +159,9 @@ automation](https://github.com/Ry4an/homeassistant-config/blob/c6ec7521ca53b79a3
 
 ## 3. Using the Meshtastic python API to poll the node
 
-This is so obviously the right choice that I'm surprised it's not already a home
-assistant integration.  Meshtastic offers a great [command line
+This is so obviously the right choice that someone has [already done it as
+a home assistant integration](https://github.com/meshtastic/home-assistant).
+Meshtastic offers a great [command line
 interface](https://meshtastic.org/docs/software/python/cli/usage/), which is
 just a thin wrapper around the [Meshtastic python
 API](https://python.meshtastic.org/), which works for serial, bluetooth, and
@@ -168,21 +169,14 @@ wifi connected nodes.  The API allows you to get or set any value.  It's how the
 Android, iOS, and web client apps talk to nodes to make the robust interfaces
 they offer.
 
-I couldn't find any home assistant configurations using the API, so I pulled
-together a [tiny script to shuttle this data into home
+I really try to avoid non-standard integrations, and already have MQTT in place
+for message relay, so instead I pulled together a [tiny script to shuttle this
+data into home
 assistant](https://github.com/Ry4an/meshtastic-info-to-homeassistant-webhook).
 It uses a [little
 python](https://github.com/Ry4an/meshtastic-info-to-homeassistant-webhook/blob/main/meshtastic_info_to_webhook.py)
 to read from the node's protobuf API and POST a message to a home assistant
 webhook, which can update multiple sensors.
-
-The obviously better solution is to turn this into a Home Assistant
-"integration" that handles the polling, the definition of device and entity, and
-maybe even discovery.  I don't want to do that, because of the aforementioned
-resistance to non-standard configurations and integrations.  I'd rather have
-a script that runs every 5 minutes in a cron job pulling data from Meshtastic
-and pushing it to Home Assistant, but most folks would disagree and should go
-write that integration.
 
 On the Home Assistant side the
 [configuration](https://github.com/Ry4an/homeassistant-config/commit/ecea2d5e9c126e22e2721fedaaed037da9886570) looks like:
