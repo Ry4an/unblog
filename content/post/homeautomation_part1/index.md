@@ -30,7 +30,7 @@ data ages.  All that data is in a local sqllite database and easily extracted
 and backed up.  I've been able to pull in all of my existing cloud-based devices
 and have been rolling out z-wave and zigbee local devices as I go.
 
-[{{<figure alt="A week of temperature and humidity history" src="climate-history.png" width="677" height="651">}}](climate-history.png)  1354 x 1302
+[{{<figure alt="A week of temperature and humidity history" src="climate-history.png" width="677" height="651">}}](climate-history.png)
 (caption: a week's worth of temperature and humidity history - click to
 embiggen)
 

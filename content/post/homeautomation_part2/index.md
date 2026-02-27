@@ -17,8 +17,8 @@ Three months on I'm still having fun with it.  Recent automations include:
  - [Automatically turning off the christmas tree at
    1am](https://github.com/Ry4an/homeassistant-config/commit/e2e4f9f121e5c8774df9b2f186296626ea26e000#diff-438c5c6c1d1096474c5df4d59ddcb12d5cccf934daa5ee7583351457f7385b44R738)
  - [Polling a meshtastic
-   node](https://github.com/Ry4an/homeassistant-config/commit/60e756c8fe87e8437d29fea023fbc5b83c4b6884#diff-4100aa6a34f3a2817e9b70eaf2efca531092a33868910e6cb46d1327a4277029R31-R37) and [alerting if it's not](https://github.com/Ry4an/homeassistant-config/commit/df7e0f6ebca87e7cf3c4d6f7dfb2ee9a80a88303#diff-438c5c6c1d1096474c5df4d59ddcb12d5cccf934daa5ee7583351457f7385b44R751-R772)
- - [Relaying meshtasting (LoRa) messages to my phone if I'm not
+   node](https://github.com/Ry4an/homeassistant-config/commit/60e756c8fe87e8437d29fea023fbc5b83c4b6884#diff-4100aa6a34f3a2817e9b70eaf2efca531092a33868910e6cb46d1327a4277029R31-R37) and [alerting if it's not available](https://github.com/Ry4an/homeassistant-config/commit/df7e0f6ebca87e7cf3c4d6f7dfb2ee9a80a88303#diff-438c5c6c1d1096474c5df4d59ddcb12d5cccf934daa5ee7583351457f7385b44R751-R772)
+ - [Relaying meshtastic (LoRa) messages to my phone if I'm not
    home](https://github.com/Ry4an/homeassistant-config/blob/d2b578436c8d199f868d47708e6136c83c1e628b/automations.yaml#L773)
 
 I'm particularly happy with how that undercabinet lighting synchronization
